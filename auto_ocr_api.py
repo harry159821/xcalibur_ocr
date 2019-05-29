@@ -13,7 +13,7 @@ from config import *
 import cv2
 print(cv2.__version__)
 
-def processOcr(pathOut)
+def processOcr(pathOut):
     # pathOut = 'output_33.mp4'
 
     client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
@@ -123,5 +123,5 @@ def processOcr(pathOut)
         f.write(json.dumps(failed_json))
 
 if __name__ == '__main__':
-    for pathOut in ['output_34.mp4', 'output_35.mp4', 'output_36.mp4', 'output_37.mp4', 'output_38.mp4', 'output_39.mp4', 'output_40.mp4']:
+    for pathOut in ['output_40.mp4']:
         processOcr(pathOut)
