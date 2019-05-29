@@ -2,12 +2,12 @@ import os
 import cv2
 import time
 import subprocess
+import traceback
 
 def format_timedelta(seconds):
     hours = seconds // 3600
     minutes = (seconds // 60) - (hours * 60)
     return "_%02d_%02d_%06.3f" %(hours, minutes, seconds - (minutes * 60) - (hours * 3600))
-    # return "%02d:%02d:%02.3f" %(hours, minutes, seconds - (minutes * 60) - (hours * 3600))
 
 def extractImages(pathIn, pathOut):
     try:
@@ -47,12 +47,10 @@ def extractImages(pathIn, pathOut):
 
                 print('Save frame at', str_time)
                 cv2.imwrite(pathOut + "\\frame%s.jpg" % str_time, text_frame_crop)
-
         else:
             break
 
     vidcap.release()
-
 
 def ftime(t):
     return time.strftime("%b-%d-%y %H:%M:%S", time.localtime(t))
@@ -78,15 +76,18 @@ if __name__ == '__main__':
     for flv_filename in [n for n in sorted(os.listdir(".")) if n.lower().endswith(".flv")]:
         mp4_filename = flv_filename.replace(".flv", ".mp4")
         if not os.path.exists(mp4_filename):
+            # Video's bitrate is Small enough so that we can leave it without parameter
             run(r'''ffmpeg -i %s %s''' % (flv_filename, mp4_filename))
 
         output_path = "output_" + mp4_filename
         print("output_path:", output_path)
         if not os.path.exists(output_path):
-            print(output_path, "not exists")
             try:
                 os.mkdir(output_path)
-            except Exception as e:
+            except Exception as FileExistsError:
                 pass
+            except Exception as e:
+                traceback.print_exc()
+                continue
             
             extractImages(mp4_filename, output_path)
