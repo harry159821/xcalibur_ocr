@@ -1,6 +1,6 @@
 ASS generator for Xcalibur TV Series
 =======================
-There Will Be Lots Of Work if Mark Sub's timestamp By Hand, Why Not Make Life easier With OCR?
+There Will Be Lot Of Work if Mark Sub's timestamp By Hand, Why Not Make Life easier With OCR?
 
 ## Features and files
 * auto_extract_frame.py: convert flv files to mp4 then extract frames from video file with time step
