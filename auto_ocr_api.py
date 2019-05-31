@@ -7,7 +7,7 @@ from collections import OrderedDict
 import json
 
 
-""" APPID AK SK """
+""" APPID AK SK From https://ai.baidu.com/docs#/OCR-API/e1bd77f3 """
 from config import *
 
 import cv2
@@ -124,8 +124,6 @@ def processOcr(pathOut):
 
 if __name__ == '__main__':
     for pathOut in [
-        'output_32.mp4',
-        'output_33.mp4',
-        'output_34.mp4',
+        'output_40.mp4',
     ]:
         processOcr(pathOut)

@@ -102,17 +102,16 @@ def time_the_sub(filepath=""):
 
         # 1.Take Probability filter, value > 0.6
         # 2.Compare how similar is current sub and next sub
-        #   Apply the filter which value > 0.6
-        # if string_similarity(content, content_n) < 0.6 or probability < 0.6:
+        #   Then Apply the filter which value > 0.6
         if string_similarity(current_sub, content) < 0.6 or probability < 0.6:
 
             if current_sub == "":
-                # 3 Found First Sub
+                # 3.Found First Sub
                 current_sub = content
                 start_time = frame_time
                 end_time = frame_time
             else:
-                # 4 Break The Track, Store Cache As Sub
+                # 4.Break The Track, Store Cache As Sub
                 print(start_time, end_time, current_sub)
                 sub_content = "\nDialogue: 0,%s,%s,神秘岛,,0,0,0,,%s" %(start_time[:-1], end_time[:-1], current_sub)
                 ass_file_content += sub_content
@@ -124,9 +123,10 @@ def time_the_sub(filepath=""):
 
             continue
 
-        # 5.Choice The sub with Highest probability
+        # 5.Choice The Sub Who Have Highest probability
         if probability > current_sub_probability:
             current_sub = content
+            current_sub_probability = probability
 
         end_time = frame_time
 

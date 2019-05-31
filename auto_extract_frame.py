@@ -22,7 +22,7 @@ def extractImages(pathIn, pathOut):
     success, image = vidcap.read()
 
     count = 0
-    # skip by 300ms
+    # skip by 200ms
     time_step = 200 / 1000
     last_time = 0
 
@@ -31,7 +31,7 @@ def extractImages(pathIn, pathOut):
         frame_exists, curr_frame = vidcap.read()
         if frame_exists:
             seconds = count/fps
-            # skip by 300ms, about 4000 image for one 24min video
+            # skip by 200ms, about 5300 image for one 22min video
             if (seconds - last_time) > time_step:
                 str_time = format_timedelta(seconds)
 
