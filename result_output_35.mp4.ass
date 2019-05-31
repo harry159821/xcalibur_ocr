@@ -1,0 +1,448 @@
+
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1152
+Aegisub Video Aspect Ratio: c1.250000
+Video Aspect Ratio: 0
+
+[Aegisub Project Garbage]
+Audio File: Xcalibur.Episode.20.mp4
+Video File: Xcalibur.Episode.20.mp4
+Video AR Mode: 4
+Video AR Value: 1.250000
+Video Zoom Percent: 0.500000
+Scroll Position: 252
+Active Line: 263
+Video Position: 30211
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: 神秘岛,微软雅黑,50,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,2,2,20,20,30,1
+Style: 神秘岛-片头,汉仪瘦金书简,50,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,-1,0,0,0,100,100,0,0,1,2,4,2,20,20,20,1
+Style: 神秘岛-剧名,方正启体简体,85,&H002D88C6,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.13,0:00:05.60,神秘岛-片头,,0,0,0,,{\fad(500,500)\pos(720,1050)}翻译：英语辅导频道\N\N输入/时间轴/压制：harry159821/黑月
+Dialogue: 0,0:00:06.00,0:00:09.61,神秘岛-片头,,0,0,0,,{\fad(200,1000)\pos(720,1050)}校对：
+Dialogue: 0,0:00:00.00,0:00:53.53,神秘岛,,0,0,0,Banner;6;0;50, {\an8}{\fn幼圆}谨以此片追忆逝去的童年，如果你也有这样的童年的话欢迎加入我们的贴吧"神剑传奇"。本作品之片源来自互联网，版权归原公司所有。任何组织和个人不得公开传播或用于任何商业盈利用途，一切后果由该组织或个人承担！制作者不承担任何法律及连带责任！请自觉于下载后24小时内删除。如果喜欢本片，请购买正版！
+Dialogue: 0,0:23:11.86,0:23:15.86,神秘岛-片头,,0,0,0,,{\fad(500,500)\pos(720,1050)}翻译：英语辅导频道\N\N输入/时间轴/压制：harry159821/黑月
+Dialogue: 0,0:23:15.86,0:23:19.86,神秘岛-片头,,0,0,0,,{\fad(200,1000)\pos(720,1050)}校对：
+Dialogue: 0,0:01:01.06,0:01:04.93,神秘岛-剧名,,0,0,0,,{\fad(500,600)\frz0}第？集 
+Dialogue: 0,00:00:00.33,00:00:01.33,神秘岛,,0,0,0,,2002\nFr\neipe五n\nXIl Ine
+Dialogue: 0,00:00:03.66,00:00:07.66,神秘岛,,0,0,0,,SCRIDC\nenjamin LegRan
+Dialogue: 0,00:00:08.00,00:00:07.66,神秘岛,,0,0,0,,Beniamin Legend
+Dialogue: 0,00:00:14.00,00:00:16.00,神秘岛,,0,0,0,,Everybody up! Time to go\n大家起来吧该出发了
+Dialogue: 0,00:00:16.33,00:00:18.66,神秘岛,,0,0,0,,always hate\nto leave this place\n真不想离开这里啊
+Dialogue: 0,00:00:21.66,00:00:23.66,神秘岛,,0,0,0,,usedto. mee\nyour father here, Djana\n装娜我曾经在这里遇到你父亲
+Dialogue: 0,00:00:24.00,00:00:27.00,神秘岛,,0,0,0,,This is where I\nsaw him for the last time\n我就是在这里最后一次见到他
+Dialogue: 0,00:00:31.00,00:00:27.00,神秘岛,,0,0,0,,N
+Dialogue: 0,00:00:31.66,00:00:34.33,神秘岛,,0,0,0,,That day everything\nCould have change\n天原本可以改切的
+Dialogue: 0,00:00:35.33,00:00:34.33,神秘岛,,0,0,0,,2
+Dialogue: 0,00:00:35.66,00:00:38.33,神秘岛,,0,0,0,,It's always a\npleasure to see you. Tara\n见到你真荣幸塔拉
+Dialogue: 0,00:00:39.33,00:00:42.66,神秘岛,,0,0,0,,A It would be if we didn't\nhave to hide. Prince Erwann\n如果我们不需要再躲藏\n优再好不过了伊万亲王
+Dialogue: 0,00:00:43.00,00:00:45.00,神秘岛,,0,0,0,,Youamust persuade\nyour leader to meet him\n我必须劝服你们的首领来见艾德温国王
+Dialogue: 0,00:00:45.33,00:00:45.00,神秘岛,,0,0,0,,我必须劝服你们的首领辣见艾德温国王
+Dialogue: 0,00:00:45.66,00:00:48.33,神秘岛,,0,0,0,,Take this as a\nof my friendship\n作为表达我诚意的信物
+Dialogue: 0,00:00:48.66,00:00:52.00,神秘岛,,0,0,0,,For one moment.\nit seemed we could have peace\n在那一刻真的感觉我们可以拥有和
+Dialogue: 0,00:00:54.00,00:00:55.66,神秘岛,,0,0,0,,=We were" so close\n我们离得如此近
+Dialogue: 0,00:00:57.33,00:00:58.66,神秘岛,,0,0,0,,Watch out!
+Dialogue: 0,00:01:01.33,00:01:03.66,神秘岛,,0,0,0,,Charge! Give them no quarter!\n进攻不要给他们喘息的时门
+Dialogue: 0,00:01:09.33,00:01:03.66,神秘岛,,0,0,0,,3
+Dialogue: 0,00:01:22.00,00:01:23.00,神秘岛,,0,0,0,,Tara\n塔拉你怎么了
+Dialogue: 0,00:01:26.66,00:01:29.66,神秘岛,,0,0,0,,Balls of fire, fly!\n火球去
+Dialogue: 0,00:01:34.66,00:01:38.00,神秘岛,,0,0,0,,If I catch you.\nyou are grilled meat\n要是我抓到你就把你烧成烤肉
+Dialogue: 0,00:01:40.66,00:01:42.66,神秘岛,,0,0,0,,Tara! Tara answer me!\n塔拉塔拉回答我
+Dialogue: 0,00:01:43.00,00:01:44.00,神秘岛,,0,0,0,,She is just dazed\n她只是昏过去了
+Dialogue: 0,00:01:44.33,00:01:46.00,神秘岛,,0,0,0,,She needs energy-boosting plants\n她需要能量补充草
+Dialogue: 0,00:01:46.33,00:01:47.66,神秘岛,,0,0,0,,Arpad will know which ones\n阿帕德\n知道这种草的
+Dialogue: 0,00:01:48.00,00:01:50.00,神秘岛,,0,0,0,,Hlbe back before you know it\n在你搞溝楚是什么之前我就会回来的
+Dialogue: 0,00:01:50.33,00:01:50.00,神秘岛,,0,0,0,,命
+Dialogue: 0,00:01:57.00,00:01:58.33,神秘岛,,0,0,0,,The barbarians\n蛮族人来了
+Dialogue: 0,00:01:58.66,00:01:59.66,神秘岛,,0,0,0,,Where is your leader?\n你们的首领在哪
+Dialogue: 0,00:02:00.00,00:01:59.66,神秘岛,,0,0,0,,身
+Dialogue: 0,00:02:00.66,00:02:03.00,神秘岛,,0,0,0,,I'm the leader. Pleasel\n我是求你们
+Dialogue: 0,00:02:05.00,00:02:06.00,神秘岛,,0,0,0,,Please.\n求你了
+Dialogue: 0,00:02:06.33,00:02:08.66,神秘岛,,0,0,0,,The Regent Bragan has\nalready taken almost all we had\n拉刚亲王已经征收了我们大部分粮食
+Dialogue: 0,00:02:09.33,00:02:12.33,神秘岛,,0,0,0,,You lie! Tell me where\nyou have hidden your harvest\n你撒谎告诉我粮食藏在哪
+Dialogue: 0,00:02:12.66,00:02:14.00,神秘岛,,0,0,0,,or you will regret it!\n否则你会后悔的
+Dialogue: 0,00:02:15.66,00:02:17.66,神秘岛,,0,0,0,,You will be struck by bad luck!\n你会走霉运的
+Dialogue: 0,00:02:18.00,00:02:20.00,神秘岛,,0,0,0,,I have seen the signs\n我看到征兆了
+Dialogue: 0,00:02:20.33,00:02:23.66,神秘岛,,0,0,0,,What you haven' t seen\nmy poor Zoldan. It's me!\n可怜的佐登你看到什么了啊是我
+Dialogue: 0,00:02:28.33,00:02:23.66,神秘岛,,0,0,0,,多
+Dialogue: 0,00:02:35.33,00:02:37.33,神秘岛,,0,0,0,,Seven against one!\n七对一啊
+Dialogue: 0,00:02:38.66,00:02:40.00,神秘岛,,0,0,0,,She's crazy\n她是疯了
+Dialogue: 0,00:02:40.33,00:02:43.66,神秘岛,,0,0,0,,Djana! Always getting in my way!\n裘娜你老是坏我的事
+Dialogue: 0,00:02:46.00,00:02:47.33,神秘岛,,0,0,0,,Your way, Zek\n西克是坏你的事吗
+Dialogue: 0,00:02:47.66,00:02:50.33,神秘岛,,0,0,0,,Has Wolf retired\nto let you in charge?\n不是沃尔夫退休把大权交给你了啊
+Dialogue: 0,00:02:50.66,00:02:54.66,神秘岛,,0,0,0,,Don t listen to her. Zek!\nThe Spirits are with you!\n听她的西克神会保佑你的
+Dialogue: 0,00:02:55.00,00:02:57.33,神秘岛,,0,0,0,,Leave everything\nthe way you found it, Zek\n西克把所有抢来的东西放下
+Dialogue: 0,00:02:57.66,00:03:00.33,神秘岛,,0,0,0,,and I'll settle\nthis with the real chief\n那我就只追究主犯的责任
+Dialogue: 0,00:03:03.33,00:03:00.33,神秘岛,,0,0,0,,2
+Dialogue: 0,00:03:06.00,00:03:00.33,神秘岛,,0,0,0,,f
+Dialogue: 0,00:03:06.33,00:03:00.33,神秘岛,,0,0,0,,SU
+Dialogue: 0,00:03:06.66,00:03:08.00,神秘岛,,0,0,0,,Surprise\n惊喜吧
+Dialogue: 0,00:03:09.00,00:03:10.66,神秘岛,,0,0,0,,Insolent little\n没礼貌的
+Dialogue: 0,00:03:14.66,00:03:17.33,神秘岛,,0,0,0,,Tara! Can you hear me?\n塔拉能听到我说话吗
+Dialogue: 0,00:03:20.00,00:03:21.66,神秘岛,,0,0,0,,A Shogi\n哪来的法师
+Dialogue: 0,00:03:24.33,00:03:25.00,神秘岛,,0,0,0,,Tara\n塔拉
+Dialogue: 0,00:03:27.33,00:03:28.66,神秘岛,,0,0,0,,What's the matter with you?\n你怎么了
+Dialogue: 0,00:03:29.33,00:03:30.00,神秘岛,,0,0,0,,Silence\n给我安静点
+Dialogue: 0,00:03:30.66,00:03:35.00,神秘岛,,0,0,0,,A spell? Tara, you\nknow Shogis don' t cast spel\ns\n兕吗塔拉你知道法师是不会下咒的
+Dialogue: 0,00:03:35.33,00:03:35.00,神秘岛,,0,0,0,,A spell? Tara, you
+Dialogue: 0,00:03:35.66,00:03:40.00,神秘岛,,0,0,0,,A spell? Tara, you\nknow Shogis don't cast spells\n咒吗塔拉你知道法师是不会下咒的
+Dialogue: 0,00:03:40.33,00:03:41.33,神秘岛,,0,0,0,,No magic spells?\n不是魔咒吗
+Dialogue: 0,00:03:41.66,00:03:44.00,神秘岛,,0,0,0,,Then how did a pip-squeak\nlike you get me down?\n那还会有其他什么无聊的人把我敲晕呢
+Dialogue: 0,00:03:44.33,00:03:46.00,神秘岛,,0,0,0,,And why didn't I even remember it?\n而且为什么我一点都记不起来了
+Dialogue: 0,00:03:47.00,00:03:48.66,神秘岛,,0,0,0,,s this how you did it?.\n你是利用这本书做到的吧
+Dialogue: 0,00:03:49.00,00:03:51.33,神秘岛,,0,0,0,,book of your nasty\nShogi magic tricks\n这本书里都是些法师的下流幻术吧
+Dialogue: 0,00:03:53.33,00:03:56.33,神秘岛,,0,0,0,,No, Tara! Not the Book of Life!\n不要塔拉不关生命之书的
+Dialogue: 0,00:03:56.66,00:03:59.33,神秘岛,,0,0,0,,Give it back\nDon't you recognize-me?\n把它还给我你不认识我了吗一一
+Dialogue: 0,00:03:59.66,00:04:01.66,神秘岛,,0,0,0,,I said, keep quiet\n我说过给我安静点
+Dialogue: 0,00:04:03.00,00:04:01.66,神秘岛,,0,0,0,,2
+Dialogue: 0,00:04:09.33,00:04:12.00,神秘岛,,0,0,0,,aNother blade\nwon't help you, Zed\n西克再来一次也是徒劳
+Dialogue: 0,00:04:12.33,00:04:15.33,神秘岛,,0,0,0,,Even without Xcalibur\ncan outfight you all day\n即使没有神剑一整天下来\n我都可以打败你
+Dialogue: 0,00:04:15.66,00:04:17.66,神秘岛,,0,0,0,,but I haven't got all day!\n不过我没时间跟你玩了
+Dialogue: 0,00:04:23.66,00:04:17.66,神秘岛,,0,0,0,,上
+Dialogue: 0,00:04:28.66,00:04:33.00,神秘岛,,0,0,0,,Now take your men and leave\nbefore-I get really angry\n趁我没有真正发怒之前带你的人离开
+Dialogue: 0,00:04:37.00,00:04:38.66,神秘岛,,0,0,0,,get even\n我会找你算账的
+Dialogue: 0,00:04:39.00,00:04:38.66,神秘岛,,0,0,0,,Ha! They all say that\n哈他们就会那样说
+Dialogue: 0,00:04:39.33,00:04:38.66,神秘岛,,0,0,0,,恰他们就会那样说
+Dialogue: 0,00:04:39.66,00:04:41.33,神秘岛,,0,0,0,,Ha! They all say that\n哈他们就会那样说
+Dialogue: 0,00:04:42.33,00:04:41.33,神秘岛,,0,0,0,,会
+Dialogue: 0,00:04:42.66,00:04:41.33,神秘岛,,0,0,0,,起
+Dialogue: 0,00:04:45.00,00:04:46.33,神秘岛,,0,0,0,,Thank you, Princess\n多谢了公主殿下
+Dialogue: 0,00:04:46.66,00:04:49.33,神秘岛,,0,0,0,,I don' t think Wolf was\nbehind this attack, Arpad\n阿帕德我认为这次袭击\n不是沃尔夫下的命令
+Dialogue: 0,00:04:49.66,00:04:50.66,神秘岛,,0,0,0,,I'll talk to him\n我会跟他说这事的
+Dialogue: 0,00:04:51.00,00:04:53.33,神秘岛,,0,0,0,,but first I need some\nhealing, herbs for Tara.\n但是我现在需要一点草药给塔
+Dialogue: 0,00:04:53.66,00:04:55.33,神秘岛,,0,0,0,,She was knocked unconscious\n她被敲晕了
+Dialogue: 0,00:04:55.66,00:04:57.00,神秘岛,,0,0,0,,I'll get some\n我去拿点过来
+Dialogue: 0,00:05:04.00,00:04:57.00,神秘岛,,0,0,0,,3
+Dialogue: 0,00:05:05.66,00:04:57.00,神秘岛,,0,0,0,,武
+Dialogue: 0,00:05:15.66,00:05:17.33,神秘岛,,0,0,0,,Someday, I'l get even\n总有一天我会找你算帐的
+Dialogue: 0,00:05:17.66,00:05:20.00,神秘岛,,0,0,0,,omeday\n… Maybe toda\n总有一天吗也许今天就可以啊西克
+Dialogue: 0,00:05:20.33,00:05:22.66,神秘岛,,0,0,0,,The spirits are with you\n神会保佑你的
+Dialogue: 0,00:05:23.00,00:05:24.66,神秘岛,,0,0,0,,Thats what you\nsaid in the village\n你在村子里就说过那话了
+Dialogue: 0,00:05:25.00,00:05:26.66,神秘岛,,0,0,0,,Tara has been hurt\n塔拉受伤了
+Dialogue: 0,00:05:27.00,00:05:27.66,神秘岛,,0,0,0,,f she die\n如果塔拉死
+Dialogue: 0,00:05:28.00,00:05:32.00,神秘岛,,0,0,0,,it could be made to look\nlike it was Djana's faul\n就可以推说是裘娜的过错
+Dialogue: 0,00:05:34.33,00:05:36.00,神秘岛,,0,0,0,,If Wolf believed that>\n要\n信以为
+Dialogue: 0,00:05:36.33,00:05:38.66,神秘岛,,0,0,0,,he would-make Djana\npayewith her own lifel\n他会让盡娜赔上性命的
+Dialogue: 0,00:05:39.33,00:05:42.33,神秘岛,,0,0,0,,This way, we follow Djana's trail!\n走这边我们跟着裘娜
+Dialogue: 0,00:05:45.66,00:05:46.33,神秘岛,,0,0,0,,Tara\n塔拉
+Dialogue: 0,00:05:46.66,00:05:46.33,神秘岛,,0,0,0,,ara
+Dialogue: 0,00:05:47.00,00:05:47.33,神秘岛,,0,0,0,,F\nara\n塔拉
+Dialogue: 0,00:05:50.00,00:05:52.00,神秘岛,,0,0,0,,Herik?\n哈里克你们在吗
+Dialogue: 0,00:05:56.00,00:05:52.00,神秘岛,,0,0,0,,二
+Dialogue: 0,00:05:56.33,00:05:58.00,神秘岛,,0,0,0,,Where could they have gone?\n他们会去哪呢
+Dialogue: 0,00:06:05.66,00:06:08.33,神秘岛,,0,0,0,,The horses tracks lead this way\n马的脚印朝这边去的
+Dialogue: 0,00:06:08.66,00:06:10.33,神秘岛,,0,0,0,,What could have\ngotten- into them?\n他们是不是碰到什么麻烦了
+Dialogue: 0,00:06:10.66,00:06:11.66,神秘岛,,0,0,0,,Come on, Eole\n快走风神
+Dialogue: 0,00:06:21.00,00:06:24.00,神秘岛,,0,0,0,,Oh, by all the devils of the sea\n以海中恶魔的名义
+Dialogue: 0,00:06:25.33,00:06:27.00,神秘岛,,0,0,0,,Too late\n来晚
+Dialogue: 0,00:06:30.00,00:06:27.00,神秘岛,,0,0,0,,》
+Dialogue: 0,00:06:33.00,00:06:37.33,神秘岛,,0,0,0,,The Book of life!\nThis\nchange everything\n是生命之书这会让一切都改变的
+Dialogue: 0,00:06:52.33,00:06:55.33,神秘岛,,0,0,0,,Tara! What a surprise\n塔拉见到你真是惊喜
+Dialogue: 0,00:06:58.33,00:06:59.33,神秘岛,,0,0,0,,Is this a joke?\n这是在开玩笑吗
+Dialogue: 0,00:06:59.66,00:07:01.66,神秘岛,,0,0,0,,Why is Herik tied up like/ thata\n为么哈里克被绑成那样
+Dialogue: 0,00:07:02.00,00:07:05.33,神秘岛,,0,0,0,,Since when do们need\na reason to tie\up a Shogi?\n绑夼法师还需要理由吗
+Dialogue: 0,00:07:05.66,00:07:06.00,神秘岛,,0,0,0,,And, how do you know his name?\n而且你怎么知道叫他么名字的啊
+Dialogue: 0,00:07:06.33,00:07:06.00,神秘岛,,0,0,0,,而且你怎么知道叫他什么字的啊
+Dialogue: 0,00:07:06.66,00:07:07.33,神秘岛,,0,0,0,,And, how do you know his name\n而且你怎么知道叫他什么名字的啊
+Dialogue: 0,00:07:07.66,00:07:09.33,神秘岛,,0,0,0,,Have ' you lost your mind?\n你是不是糊涂了啊
+Dialogue: 0,00:07:09.66,00:07:12.00,神秘岛,,0,0,0,,Herikis my son!\nUntie him at once\n冾里克是我儿子马上给他松绑
+Dialogue: 0,00:07:12.33,00:07:13.66,神秘岛,,0,0,0,,Your son?\n他是你儿子
+Dialogue: 0,00:07:14.00,00:07:17.00,神秘岛,,0,0,0,,thats impossible\nYour son, a Shogi?\n不可能你儿子是个法师吗
+Dialogue: 0,00:07:18.66,00:07:21.00,神秘岛,,0,0,0,,Have you lost your memory?\n你是不是失去忆矿
+Dialogue: 0,00:07:22.00,00:07:24.00,神秘岛,,0,0,0,,father. she has\n是的父亲她是失去记忆了
+Dialogue: 0,00:07:24.33,00:07:27.00,神秘岛,,0,0,0,,We were ambushed\nand she took a blow to the head\n我们中埋\n她脑门被敲了一重记
+Dialogue: 0,00:07:30.66,00:07:33.33,神秘岛,,0,0,0,,Listen Tara, try to remember\n听我说塔拉努力回
+Dialogue: 0,00:07:34.66,00:07:37.33,神秘岛,,0,0,0,,we were on the Wandering City\n我们在漂流之城的明
+Dialogue: 0,00:07:40.00,00:07:43.00,神秘岛,,0,0,0,,I have a surprise fon you, Wolf\n沃尔夫我送你一个惊喜
+Dialogue: 0,00:07:43.66,00:07:43.00,神秘岛,,0,0,0,,吃
+Dialogue: 0,00:07:44.00,00:07:47.66,神秘岛,,0,0,0,,Tara! This is a real family reunion!\n塔拉这真是家庭团聚啊
+Dialogue: 0,00:07:48.00,00:07:50.33,神秘岛,,0,0,0,,Well, Tara! Mee\n塔拉来见见我儿
+Dialogue: 0,00:07:52.00,00:07:53.66,神秘岛,,0,0,0,,Your . your son\n我是你儿子吗
+Dialogue: 0,00:07:54.00,00:07:54.66,神秘岛,,0,0,0,,Your∴you\n我是你子
+Dialogue: 0,00:07:55.00,00:07:57.00,神秘岛,,0,0,0,,What's this new scheme, Wolf?\n这又是什么想
+Dialogue: 0,00:07:57.66,00:07:57.00,神秘岛,,0,0,0,,It's no so\n不是什答把
+Dialogue: 0,00:07:58.00,00:07:58.33,神秘岛,,0,0,0,,em\n不是什么把戏
+Dialogue: 0,00:07:58.66,00:07:59.33,神秘岛,,0,0,0,,It'sano scheme\n是什么把戏
+Dialogue: 0,00:07:59.66,00:08:00.66,神秘岛,,0,0,0,,truth
+Dialogue: 0,00:08:01.00,00:08:01.33,神秘岛,,0,0,0,,s the truth\n这是真的
+Dialogue: 0,00:08:01.66,00:08:05.66,神秘岛,,0,0,0,,I gave this-medallion to your\nmother on the day we were married\n结婚当天我把这圆形徽章送给你母亲的
+Dialogue: 0,00:08:10.33,00:08:05.66,神秘岛,,0,0,0,,汕see
+Dialogue: 0,00:08:10.66,00:08:11.33,神秘岛,,0,0,0,,Yoursee\n你看
+Dialogue: 0,00:08:11.66,00:08:15.33,神秘岛,,0,0,0,,I had it engraved with\nthe eternal oaths of spouse\n我在上面刻了夫妻永恒的
+Dialogue: 0,00:08:17.33,00:08:19.00,神秘岛,,0,0,0,,don't remember that at all\n我一点都不记得了
+Dialogue: 0,00:08:19.66,00:08:20.66,神秘岛,,0,0,0,,Dont worry\n别担心
+Dialogue: 0,00:08:21.66,00:08:24.00,神秘岛,,0,0,0,,Even if you don't\nremember it, /Tara\n塔拉即使你不记得这
+Dialogue: 0,00:08:24.33,00:08:28.33,神秘岛,,0,0,0,,you must know that wouidn't\ne abouts Herik being my son\n你也知道我不会为了骗你\n说哈里克是我儿子
+Dialogue: 0,00:08:31.66,00:08:28.33,神秘岛,,0,0,0,,e
+Dialogue: 0,00:08:32.00,00:08:34.33,神秘岛,,0,0,0,,ekdon't know what to believe\n餐我不知道该相信什么才对
+Dialogue: 0,00:08:39.66,00:08:40.66,神秘岛,,0,0,0,,She had a blow ton the head\n有人在她脑
+Dialogue: 0,00:08:41.00,00:08:42.66,神秘岛,,0,0,0,,memory has been erased\n她的部分记忆被抹去了
+Dialogue: 0,00:08:43.00,00:08:44.33,神秘岛,,0,0,0,,but I think I can cure her\n不过我想能治好她
+Dialogue: 0,00:08:44.66,00:08:45.66,神秘岛,,0,0,0,,There's someone coming\n有人过来
+Dialogue: 0,00:08:47.66,00:08:45.66,神秘岛,,0,0,0,,过系
+Dialogue: 0,00:08:49.33,00:08:51.66,神秘岛,,0,0,0,,Herik! Is everything alright?\n哈里克
+Dialogue: 0,00:08:52.00,00:08:53.66,神秘岛,,0,0,0,,Why did you leave the clearing\n为什么你何要离树林的空时地啊
+Dialogue: 0,00:08:54.00,00:08:55.00,神秘岛,,0,0,0,,Tara better\n塔拉好点了吗
+Dialogue: 0,00:08:55.33,00:08:58.00,神秘岛,,0,0,0,,Not really, no. What kept you\n没有\n事让你耽搁
+Dialogue: 0,00:08:58.33,00:08:59.33,神秘岛,,0,0,0,,I was held\n我被拖住了
+Dialogue: 0,00:08:59.66,00:09:02.66,神秘岛,,0,0,0,,\Wolf your men attacked\nthe villagers of Quinm\n沃尔失额你的袭击了奎恩的树民
+Dialogue: 0,00:09:03.00,00:09:07.00,神秘岛,,0,0,0,,Zek! He was supposed\nto barter. not plunder!\n该死的西克叫他去物物交换\n没叫他去抢劫
+Dialogue: 0,00:09:09.33,00:09:11.33,神秘岛,,0,0,0,,I have the plants:\nyou wanted for Tar\n我把治疗塔拉的草药带来
+Dialogue: 0,00:09:11.66,00:09:12.66,神秘岛,,0,0,0,,They won't help now\n现在用不上
+Dialogue: 0,00:09:13.00,00:09:14.00,神秘岛,,0,0,0,,Phy sically she is fine\n她的身体没事
+Dialogue: 0,00:09:14.33,00:09:15.66,神秘岛,,0,0,0,,It's her memory\nthat is the problem.\n她的记忆出了问题
+Dialogue: 0,00:09:16.00,00:09:17.00,神秘岛,,0,0,0,,What\n什么
+Dialogue: 0,00:09:17.33,00:09:18.66,神秘岛,,0,0,0,,She does not know us, Djana\n她不认识我们了裘娜
+Dialogue: 0,00:09:19.00,00:09:21.00,神秘岛,,0,0,0,,She thinks she is\nstill raiding with Wolf.\n她认为她还是跟沃尔夫一起呢
+Dialogue: 0,00:09:21.33,00:09:22.66,神秘岛,,0,0,0,,That is crazy!\n太扯了吧
+Dialogue: 0,00:09:23.00,00:09:25.00,神秘岛,,0,0,0,,Is there any way\nto get her memory back?\n有办法让她恢复记忆吗
+Dialogue: 0,00:09:25.33,00:09:27.66,神秘岛,,0,0,0,,Yeah..I: / l think so\n我想应该有
+Dialogue: 0,00:09:28.00,00:09:31.00,神秘岛,,0,0,0,,Everyone leaves a psychic\nimprint on objects they touched\n每个人在接触过的东西上和去过的地方
+Dialogue: 0,00:09:31.66,00:09:34.33,神秘岛,,0,0,0,,and places they have been\n点记忆
+Dialogue: 0,00:09:34.66,00:09:36.66,神秘岛,,0,0,0,,Wevill take Tara\nto familiar places\n门可以带塔拉去她熟悉的方
+Dialogue: 0,00:09:37.00,00:09:38.66,神秘岛,,0,0,0,,in hope that she\ncan rediscover herself\n希望那样能她自己恢复记忆
+Dialogue: 0,00:09:40.00,00:09:42.66,神秘岛,,0,0,0,,Well as long as\nshe is not physically hurt.\n既然她身体没有大碍
+Dialogue: 0,00:09:43.00,00:09:46.66,神秘岛,,0,0,0,,I'm not sure that I don't\nprefer her the way she is now\n我不觉得她现在这样有什么不好啊
+Dialogue: 0,00:09:52.00,00:09:46.66,神秘岛,,0,0,0,,引
+Dialogue: 0,00:09:57.00,00:09:46.66,神秘岛,,0,0,0,,.e
+Dialogue: 0,00:09:57.66,00:09:46.66,神秘岛,,0,0,0,,9
+Dialogue: 0,00:10:07.66,00:10:09.33,神秘岛,,0,0,0,,What's with your father?\n你父亲怎么了
+Dialogue: 0,00:10:09.66,00:10:12.00,神秘岛,,0,0,0,,He almost did not\nlet Tara go with you!\n他很不愿意让塔拉跟我们一起走
+Dialogue: 0,00:10:12.33,00:10:15.00,神秘岛,,0,0,0,,He just prefers\nold Tara, that's al\n他只是更喜欢以前的那个塔拘仅此而已
+Dialogue: 0,00:10:15.33,00:10:17.00,神秘岛,,0,0,0,,Are you -sure\nyou can help her?\n你确定你可以都到她吗
+Dialogue: 0,00:10:17.33,00:10:19.00,神秘岛,,0,0,0,,With the Book of Life. sure\n有生命之书帮忙当然可以
+Dialogue: 0,00:10:19.33,00:10:21.66,神秘岛,,0,0,0,,ust hope\nsstill where Tara tossed\n塔拉把生命之书丢出去\n我只希\n在那个地方
+Dialogue: 0,00:10:22.66,00:10:29.00,神秘岛,,0,0,0,,Spirits of the air\nand time, come to my aid\n空气和时间之神。请帮助我吧
+Dialogue: 0,00:10:29.33,00:10:32.00,神秘岛,,0,0,0,,Alright Zoldan.\nwe have waited long enoug\n干得不错佐登我们等得够久了
+Dialogue: 0,00:10:32.33,00:10:36.00,神秘岛,,0,0,0,,Inspire my vision\n青开启我的天眼吧
+Dialogue: 0,00:10:39.66,00:10:36.00,神秘岛,,0,0,0,,命
+Dialogue: 0,00:10:42.00,00:10:36.00,神秘岛,,0,0,0,,产
+Dialogue: 0,00:10:51.33,00:10:55.66,神秘岛,,0,0,0,,Griffins! Watch out!\n有怪兽小心
+Dialogue: 0,00:10:57.33,00:10:55.66,神秘岛,,0,0,0,,了
+Dialogue: 0,00:11:02.66,00:10:55.66,神秘岛,,0,0,0,,标
+Dialogue: 0,00:11:05.33,00:11:06.66,神秘岛,,0,0,0,,What is going on?\n怎么回事
+Dialogue: 0,00:11:09.00,00:11:14.33,神秘岛,,0,0,0,,You invoke forces you know\nnothing about, miserable human!\n愚蠢的人类你居然对自己\n唤醒的力量一无所知
+Dialogue: 0,00:11:14.66,00:11:16.66,神秘岛,,0,0,0,,Oh, master- of\ndarkness. forgive me\n噢黑暗之王请饶恕我
+Dialogue: 0,00:11:17.00,00:11:20.66,神秘岛,,0,0,0,,You will serve me!\n你会为我效劳的
+Dialogue: 0,00:11:21.00,00:11:22.66,神秘岛,,0,0,0,,Take the book of\nlife to the Regent\n把生命之书送去给摄政王
+Dialogue: 0,00:11:23.33,00:11:27.00,神秘岛,,0,0,0,,He will make you\nthe grand shaman\n他会让你成为这个王国的大巫师
+Dialogue: 0,00:11:27.33,00:11:29.00,神秘岛,,0,0,0,,Thank you, master!\n多谢您主
+Dialogue: 0,00:11:30.33,00:11:33.33,神秘岛,,0,0,0,,I will grant you some\nsmall powers to protect you\n你连个自保的法力都没有
+Dialogue: 0,00:11:33.66,00:11:34.66,神秘岛,,0,0,0,,until you reach the palace\n我赐予你一点小法力
+Dialogue: 0,00:11:35.00,00:11:37.33,神秘岛,,0,0,0,,as you have none of your own\n确保你平安到达王宫
+Dialogue: 0,00:11:54.33,00:11:56.00,神秘岛,,0,0,0,,Back off!\n滚回去
+Dialogue: 0,00:12:02.00,00:11:56.00,神秘岛,,0,0,0,,重
+Dialogue: 0,00:12:05.00,00:12:07.66,神秘岛,,0,0,0,,just saved your life, Zek\n西克我可是救了你
+Dialogue: 0,00:12:08.00,00:12:09.33,神秘岛,,0,0,0,,Another humiliation!\n耻辱
+Dialogue: 0,00:12:09.66,00:12:12.00,神秘岛,,0,0,0,,Look, Tara, one of your ifriends\n看塔拉你的一个朋友
+Dialogue: 0,00:12:12.33,00:12:15.00,神秘岛,,0,0,0,,Zek, the famous thug\n西克出了名的恶棍
+Dialogue: 0,00:12:15.33,00:12:18.33,神秘岛,,0,0,0,,Thats one face I\ndo remember, little dragon\n贝我还真记得那张脸
+Dialogue: 0,00:12:18.66,00:12:20.33,神秘岛,,0,0,0,,and it-is one\nwould not mind forgetting\n不过我不介正那长脸
+Dialogue: 0,00:12:20.66,00:12:22.66,神秘岛,,0,0,0,,The Book of Life?\nDid\n你是不是找到生命之书了
+Dialogue: 0,00:12:23.00,00:12:24.66,神秘岛,,0,0,0,,Zoldan had\n佐登把它拿走了
+Dialogue: 0,00:12:25.00,00:12:26.66,神秘岛,,0,0,0,,/he even used it-to\nconjure up those Griffins.\n他甚至利用生命之书召来了那些怪兽
+Dialogue: 0,00:12:27.33,00:12:28.00,神秘岛,,0,0,0,,then ran away\n然后自己跑了
+Dialogue: 0,00:12:28.33,00:12:29.66,神秘岛,,0,0,0,,Griffins from the Book of Life?\n那些怪兽来自生命之书吗
+Dialogue: 0,00:12:30.00,00:12:31.00,神秘岛,,0,0,0,,That can't be right!\n那不对啊
+Dialogue: 0,00:12:31.33,00:12:33.00,神秘岛,,0,0,0,,They could only\ncome from Kwodahin\n些怪兽肯定是科沃达派来的
+Dialogue: 0,00:12:33.33,00:12:35.66,神秘岛,,0,0,0,,ve have got to\nfind Zoldan, and fast\n我们得去找佐登快
+Dialogue: 0,00:12:36.00,00:12:39.00,神秘岛,,0,0,0,,will finds that\nmiserable old frog\n我会找到那个愚蠢的老青蛙的
+Dialogue: 0,00:12:51.33,00:12:54.66,神秘岛,,0,0,0,,Zoldan! Stop! Come back\n佐登站住回来
+Dialogue: 0,00:13:00.33,00:12:54.66,神秘岛,,0,0,0,,彡
+Dialogue: 0,00:13:01.66,00:13:04.33,神秘岛,,0,0,0,,The clearing did not\ntrigger any memories for Tara\n树林空旷地没让塔拉回想起任何东西
+Dialogue: 0,00:13:04.66,00:13:06.33,神秘岛,,0,0,0,,Maybe we should try an object\n也许我们可以拿件物品试试
+Dialogue: 0,00:13:06.66,00:13:08.00,神秘岛,,0,0,0,,My father's dagger\n我父王的短剑
+Dialogue: 0,00:13:08.33,00:13:10.33,神秘岛,,0,0,0,,Tara! Take a look at your dagger\n拉看看你的
+Dialogue: 0,00:13:10.66,00:13:14.66,神秘岛,,0,0,0,,The first time we met you\n我们第次见你的时候
+Dialogue: 0,00:13:15.00,00:13:16.66,神秘岛,,0,0,0,,Herik and I were\nmethe Royal Palace\n哈里克和我在王宫里
+Dialogue: 0,00:13:17.00,00:13:18.66,神秘岛,,0,0,0,,about to enter, chamber,\n正准备进去布拉刚的宫
+Dialogue: 0,00:13:19.00,00:13:20.66,神秘岛,,0,0,0,,Try to remember, Tara\n下塔拉
+Dialogue: 0,00:13:24.00,00:13:25.66,神秘岛,,0,0,0,,This is\n就是这里
+Dialogue: 0,00:13:27.66,00:13:25.66,神秘岛,,0,0,0,,李
+Dialogue: 0,00:13:31.33,00:13:33.00,神秘岛,,0,0,0,,My father's dagger\n我父王的短剑
+Dialogue: 0,00:13:33.33,00:13:34.66,神秘岛,,0,0,0,,The Barbarian\n是蛮族人
+Dialogue: 0,00:13:35.00,00:13:37.66,神秘岛,,0,0,0,,Bragan is behind\nthis door. Come quick\n布拉刚就在这扇门后面快跟我来
+Dialogue: 0,00:13:38.66,00:13:37.66,神秘岛,,0,0,0,,产
+Dialogue: 0,00:13:53.33,00:13:56.33,神秘岛,,0,0,0,,Maybe you prefer\nBragan's secret passage, terik?\n许你可以走布拉刚\n秘密通道哦哈里克
+Dialogue: 0,00:13:56.66,00:13:56.33,神秘岛,,0,0,0,,hope如 u dorMsexpectus\n你不希望我们从这里下吧
+Dialogue: 0,00:13:57.00,00:13:56.33,神秘岛,,0,0,0,,你不我们下天吧
+Dialogue: 0,00:13:57.33,00:13:58.66,神秘岛,,0,0,0,,i hope you dor\nect us to.\n你军是金錮彻以里下去吧
+Dialogue: 0,00:13:59.00,00:13:58.66,神秘岛,,0,0,0,,你不线\n‖hope\n这里下去吧
+Dialogue: 0,00:13:59.33,00:13:58.66,神秘岛,,0,0,0,,‖ nepe yo\nnMl expect us\n你不是希我们从这里下去吧
+Dialogue: 0,00:13:59.66,00:14:01.66,神秘岛,,0,0,0,,Well? What dre you waiting for?
+Dialogue: 0,00:14:02.66,00:14:04.33,神秘岛,,0,0,0,,You helped us escape!\n你都我们逃了王
+Dialogue: 0,00:14:04.66,00:14:08.00,神秘岛,,0,0,0,,I trusted youbecause\nmy father gave you his dagger\n我父王把剑给你所以我相信你
+Dialogue: 0,00:14:08.33,00:14:09.33,神秘岛,,0,0,0,,our father?\n你父王
+Dialogue: 0,00:14:09.66,00:14:11.66,神秘岛,,0,0,0,,YYes Prince Erwann\n是的就是伊万亲王
+Dialogue: 0,00:14:12.00,00:14:13.33,神秘岛,,0,0,0,,He was your friend\n他是你的朋友
+Dialogue: 0,00:14:13.66,00:14:13.33,神秘岛,,0,0,0,,Erwann?
+Dialogue: 0,00:14:14.00,00:14:15.00,神秘岛,,0,0,0,,Erwann?\n伊万吗
+Dialogue: 0,00:14:15.33,00:14:17.66,神秘岛,,0,0,0,,No, it doesnt ring a bell\n什么也想不起来
+Dialogue: 0,00:14:18.00,00:14:20.00,神秘岛,,0,0,0,,Well, you can keep the dagger.\n你保管这把短剑吧
+Dialogue: 0,00:14:20.33,00:14:21.33,神秘岛,,0,0,0,,I have had enough of this\n我受够了
+Dialogue: 0,00:14:21.66,00:14:23.33,神秘岛,,0,0,0,,I'mgoing to find\nWolfLand sail away\n我去找沃尔夫然后回海
+Dialogue: 0,00:14:23.66,00:14:25.66,神秘岛,,0,0,0,,with or without my memories\n有记忆没记忆
+Dialogue: 0,00:14:26.66,00:14:25.66,神秘岛,,0,0,0,,E
+Dialogue: 0,00:14:27.66,00:14:30.66,神秘岛,,0,0,0,,Zoldan is nearly\nat the Royale Palace\n佐登快到王宫了
+Dialogue: 0,00:14:31.00,00:14:32.66,神秘岛,,0,0,0,,I tried to stop\nhim\n我试图阻止他
+Dialogue: 0,00:14:33.00,00:14:35.00,神秘岛,,0,0,0,,But it was no use!\n但是没用
+Dialogue: 0,00:14:35.33,00:14:37.33,神秘岛,,0,0,0,,He would not listen to me\n他不会听我的
+Dialogue: 0,00:14:37.66,00:14:40.00,神秘岛,,0,0,0,,He must be trying to get\nthe book of life to Bragan\n他肯定是想把生命之书交给布拉
+Dialogue: 0,00:14:40.33,00:14:42.00,神秘岛,,0,0,0,,We have got to get it back!\n我们得把生命之书拿回来
+Dialogue: 0,00:14:42.33,00:14:42.00,神秘岛,,0,0,0,,留
+Dialogue: 0,00:14:42.66,00:14:43.66,神秘岛,,0,0,0,,That will be tough.\n那\n会有点困难
+Dialogue: 0,00:14:44.00,00:14:45.66,神秘岛,,0,0,0,,And our friend\nara never let us down\n我们的朋友塔拉
+Dialogue: 0,00:14:46.33,00:14:47.33,神秘岛,,0,0,0,,when things got tough\n从来不会在遇到困难的时候\n抛弃我们不管
+Dialogue: 0,00:14:47.66,00:14:50.00,神秘岛,,0,0,0,,Ah! Give me back my dagger.\n哦把短剑还给我
+Dialogue: 0,00:14:53.66,00:14:56.66,神秘岛,,0,0,0,,Well, I think I did a great job\n我觉得自己干得不错
+Dialogue: 0,00:14:57.00,00:15:00.33,神秘岛,,0,0,0,,Pretty brave and daring\nif I do say so myself\n可以说我很勇敢
+Dialogue: 0,00:15:03.33,00:15:04.00,神秘岛,,0,0,0,,The Royal Palace
+Dialogue: 0,00:15:04.33,00:15:05.66,神秘岛,,0,0,0,,The Royal Palace\n是王
+Dialogue: 0,00:15:08.66,00:15:05.66,神秘岛,,0,0,0,,E
+Dialogue: 0,00:15:10.00,00:15:05.66,神秘岛,,0,0,0,,2
+Dialogue: 0,00:15:10.66,00:15:05.66,神秘岛,,0,0,0,,急
+Dialogue: 0,00:15:13.33,00:15:19.00,神秘岛,,0,0,0,,Remember the Regent's orders\n己得摄政王的命令吧
+Dialogue: 0,00:15:19.33,00:15:22.00,神秘岛,,0,0,0,,Just take the Book.\nand get rid of the old fool\n拿到生命之书后把这老笨蛋干掉
+Dialogue: 0,00:15:22.33,00:15:25.33,神秘岛,,0,0,0,,I am Zoldan!\nAnd the Regent is expecting me\n我是佐登摄政王在等着见我
+Dialogue: 0,00:15:27.00,00:15:30.33,神秘岛,,0,0,0,,Master Kwodahn! Help me\n科沃达主人救我
+Dialogue: 0,00:15:40.66,00:15:30.33,神秘岛,,0,0,0,,N
+Dialogue: 0,00:15:44.00,00:15:46.33,神秘岛,,0,0,0,,Balls of fire.\n火球去
+Dialogue: 0,00:15:48.00,00:15:46.33,神秘岛,,0,0,0,,,
+Dialogue: 0,00:15:53.00,00:15:53.66,神秘岛,,0,0,0,,r
+Dialogue: 0,00:15:55.00,00:15:53.66,神秘岛,,0,0,0,,e
+Dialogue: 0,00:15:56.66,00:15:53.66,神秘岛,,0,0,0,,.a
+Dialogue: 0,00:15:59.00,00:15:53.66,神秘岛,,0,0,0,,2
+Dialogue: 0,00:15:59.33,00:15:53.66,神秘岛,,0,0,0,,是
+Dialogue: 0,00:15:59.66,00:15:53.66,神秘岛,,0,0,0,,等
+Dialogue: 0,00:16:03.66,00:16:06.66,神秘岛,,0,0,0,,One of these days. somebody\nis going to lose this Book\n这些天有人老是把生命之书弄丢了
+Dialogue: 0,00:16:07.33,00:16:09.33,神秘岛,,0,0,0,,Where is that\nstupid Zoldan gone?\n阝个愚盒的佐登去哪
+Dialogue: 0,00:16:10.00,00:16:10.66,神秘岛,,0,0,0,,I'll find him\n我去找他
+Dialogue: 0,00:16:11.00,00:16:12.66,神秘岛,,0,0,0,,I'm beginning to get the knack\n我开始找到诀窍了
+Dialogue: 0,00:16:16.00,00:16:12.66,神秘岛,,0,0,0,,P
+Dialogue: 0,00:16:23.33,00:16:25.66,神秘岛,,0,0,0,,You have failed me. Zoldan!\n你失信于我了佐登
+Dialogue: 0,00:16:26.00,00:16:27.33,神秘岛,,0,0,0,,Master\n主人
+Dialogue: 0,00:16:27.66,00:16:30.00,神秘岛,,0,0,0,,I can explain everything\n我可以解释的
+Dialogue: 0,00:16:30.66,00:16:34.66,神秘岛,,0,0,0,,Nol-You have wasted\nenough of my time\n不用你已经浪费我够多时间了
+Dialogue: 0,00:16:45.00,00:16:34.66,神秘岛,,0,0,0,,∥
+Dialogue: 0,00:16:48.33,00:16:51.66,神秘岛,,0,0,0,,Imagine being turned\ninto an ugly little beast\n想想变成一只丑陋的小动物有多可怜
+Dialogue: 0,00:16:53.33,00:16:55.33,神秘岛,,0,0,0,,Let's try the clearing again\n我们再去空旷地试试
+Dialogue: 0,00:16:56.00,00:16:56.66,神秘岛,,0,0,0,,With the Book of Life\n有了生命之书
+Dialogue: 0,00:16:57.00,00:16:59.66,神秘岛,,0,0,0,,should be able to get\nTara back her memory this time\n这次我应该可以帮塔拉找回记忆
+Dialogue: 0,00:17:00.00,00:17:01.33,神秘岛,,0,0,0,,Good idea: Herik\n好主意哈里克
+Dialogue: 0,00:17:01.66,00:17:02.66,神秘岛,,0,0,0,,The sooner, the better\n越快越好
+Dialogue: 0,00:17:03.00,00:17:04.00,神秘岛,,0,0,0,,Riders\n骑兵过来了
+Dialogue: 0,00:17:04.66,00:17:06.33,神秘岛,,0,0,0,,We have to lose them\n我们得甩掉他们
+Dialogue: 0,00:17:13.00,00:17:17.66,神秘岛,,0,0,0,,Ah! I understand what\nyou are up to, little Shogi\n我知道你要干什么小术士
+Dialogue: 0,00:17:22.00,00:17:17.66,神秘岛,,0,0,0,,T
+Dialogue: 0,00:17:37.00,00:17:17.66,神秘岛,,0,0,0,,0
+Dialogue: 0,00:17:38.66,00:17:39.66,神秘岛,,0,0,0,,Here it\n就是这里
+Dialogue: 0,00:17:40.00,00:17:41.33,神秘岛,,0,0,0,,I'm going to use the Book of Life\n塔拉我现在开始使用生命之书
+Dialogue: 0,00:17:41.66,00:17:44.33,神秘岛,,0,0,0,,to enhance the psychic imprint\nthat you left here, Tara\n帮你把留在这里的记忆放大
+Dialogue: 0,00:17:44.66,00:17:44.33,神秘岛,,0,0,0,,片这样应该可以把你的记忆找采
+Dialogue: 0,00:17:45.00,00:17:46.66,神秘岛,,0,0,0,,It should bring back your memory\n这样应该可以把你的记忆找回来
+Dialogue: 0,00:17:52.66,00:17:46.66,神秘岛,,0,0,0,,多
+Dialogue: 0,00:17:55.00,00:17:56.00,神秘岛,,0,0,0,,Book of Life!\n生命之书
+Dialogue: 0,00:17:56.33,00:18:01.00,神秘岛,,0,0,0,,May your infinite knowledge\nhelp restore Tara's entire memory.\n愿你无穷的智慧帮助储存塔拉全部的记忆
+Dialogue: 0,00:18:03.00,00:18:04.33,神秘岛,,0,0,0,,Found you at last!\n终于找到你们了
+Dialogue: 0,00:18:04.66,00:18:06.66,神秘岛,,0,0,0,,You won't believe what Zoldan\n你们肯定不会相信佐登被变成什么了
+Dialogue: 0,00:18:07.66,00:18:09.00,神秘岛,,0,0,0,,Not now, Wip\n威普等下再说
+Dialogue: 0,00:18:11.33,00:18:09.00,神秘岛,,0,0,0,,?
+Dialogue: 0,00:18:20.33,00:18:21.00,神秘岛,,0,0,0,,T
+Dialogue: 0,00:18:21.33,00:18:22.33,神秘岛,,0,0,0,,My head\n我的头
+Dialogue: 0,00:18:22.66,00:18:24.33,神秘岛,,0,0,0,,What's happening? I'.I see\n发生什么事了我看到
+Dialogue: 0,00:18:25.00,00:18:26.33,神秘岛,,0,0,0,,see images\n我看到了一些图象
+Dialogue: 0,00:18:26.66,00:18:30.00,神秘岛,,0,0,0,,Come on, Tara! Remember.\n加油塔拉全部想起来吧
+Dialogue: 0,00:18:34.33,00:18:36.66,神秘岛,,0,0,0,,remember being here\n是的我来过这里
+Dialogue: 0,00:18:37.66,00:18:39.00,神秘岛,,0,0,0,,It's coming back to me\n记忆回来了
+Dialogue: 0,00:18:39.33,00:18:41.66,神秘岛,,0,0,0,,Erwann., a fine man!\n伊万个好男人
+Dialogue: 0,00:18:42.33,00:18:43.00,神秘岛,,0,0,0,,It is working!\n成功了
+Dialogue: 0,00:18:43.33,00:18:45.33,神秘岛,,0,0,0,,She is beginning to remember!\n她开始想起来了
+Dialogue: 0,00:18:50.33,00:18:51.66,神秘岛,,0,0,0,,Look!\n看
+Dialogue: 0,00:19:00.33,00:19:03.66,神秘岛,,0,0,0,,Yes She is\nbeginning to remember.\n是的她开始想起来了
+Dialogue: 0,00:19:06.00,00:19:08.33,神秘岛,,0,0,0,,But what will she remember?\n可她会想起什么呢
+Dialogue: 0,00:19:21.00,00:19:23.66,神秘岛,,0,0,0,,Balls of fire . fly!\n火球去
+Dialogue: 0,00:19:25.33,00:19:27.33,神秘岛,,0,0,0,,Leave Tara alone\n不要碰塔拉
+Dialogue: 0,00:19:29.33,00:19:34.33,神秘岛,,0,0,0,,She's mine now!\nAnd I'll use her to destroy you\n现在她是我的了我会利用她消灭你们
+Dialogue: 0,00:19:37.66,00:19:34.33,神秘岛,,0,0,0,,g
+Dialogue: 0,00:19:47.66,00:19:49.33,神秘岛,,0,0,0,,Now I know who you are\n现在我知道你是谁
+Dialogue: 0,00:19:49.66,00:19:50.66,神秘岛,,0,0,0,,Walka the witch!\n你是沃卡那个女A
+Dialogue: 0,00:19:51.00,00:19:53.66,神秘岛,,0,0,0,,Kwodahn put a false\nmemory in your head\n科沃达把假的记忆植入你脑中了
+Dialogue: 0,00:19:54.66,00:19:53.66,神秘岛,,0,0,0,,今
+Dialogue: 0,00:19:55.33,00:19:56.66,神秘岛,,0,0,0,,No, Tara\n不要塔
+Dialogue: 0,00:19:58.33,00:20:00.66,神秘岛,,0,0,0,,Alright, I believe you,\n行我相信你
+Dialogue: 0,00:20:01.33,00:20:03.00,神秘岛,,0,0,0,,Like heck I do!\n我在做什么啊
+Dialogue: 0,00:20:03.33,00:20:04.66,神秘岛,,0,0,0,,Erwann,s dagger!\n伊万的短剑
+Dialogue: 0,00:20:05.00,00:20:07.66,神秘岛,,0,0,0,,t is our only hope to\n\get Tara's true memory back\n这是我们找回塔拉记忆的唯一希望了
+Dialogue: 0,00:20:12.33,00:20:15.66,神秘岛,,0,0,0,,Herik! Help!\n哈里克帮我
+Dialogue: 0,00:20:18.66,00:20:15.66,神秘岛,,0,0,0,,三
+Dialogue: 0,00:20:25.00,00:20:15.66,神秘岛,,0,0,0,,少
+Dialogue: 0,00:20:37.33,00:20:38.66,神秘岛,,0,0,0,,Erwann's dagge\n这是伊万的短剑
+Dialogue: 0,00:20:39.33,00:20:42.33,神秘岛,,0,0,0,,He gave it to me as\ntoken of\npeace, of frienshi\n他把短剑送给我以诚意
+Dialogue: 0,00:20:53.00,00:20:56.66,神秘岛,,0,0,0,,I can't say l'm glad you\nhave your memory back, Tara\n塔拉你找回记忆我不能说很高兴
+Dialogue: 0,00:20:57.00,00:21:00.00,神秘岛,,0,0,0,,For a moment, I hoped\nyou would return to us.\n曾经一度我很希望你回来
+Dialogue: 0,00:21:00.33,00:21:02.66,神秘岛,,0,0,0,,I still serve the\npeople of thesea, Wolf\n沃尔夫我还是为海上枭雄效劳啊
+Dialogue: 0,00:21:03.00,00:21:04.66,神秘岛,,0,0,0,,Just in a different way\n只是用不同的方式
+Dialogue: 0,00:21:05.00,00:21:06.00,神秘岛,,0,0,0,,Like Zek here\n就象西克那样
+Dialogue: 0,00:21:06.33,00:21:09.33,神秘岛,,0,0,0,,Yes, Zek has had\na change of duties\n是的西克的职责变动了
+Dialogue: 0,00:21:09.66,00:21:11.00,神秘岛,,0,0,0,,And Zoldan is missing\n佐登也消失了
+Dialogue: 0,00:21:11.33,00:21:15.00,神秘岛,,0,0,0,,My crew keeps getting smaller\nwhen we visit these shores\n下次登岸的时候我的人要更少
+Dialogue: 0,00:21:22.66,00:21:26.66,神秘岛,,0,0,0,,It's zoldan!\nI saw Kwodahn transform him!\n是佐登我看见科沃达把他变成那样的
+Dialogue: 0,00:21:27.66,00:21:30.66,神秘岛,,0,0,0,,We can' t leave\nhim like that, Herik!\n我们不能任凭他那样不管哈里克
+Dialogue: 0,00:21:31.00,00:21:33.00,神秘岛,,0,0,0,,Sure you can, why not?\n当然可以不管为什么不呢
+Dialogue: 0,00:21:39.33,00:21:42.33,神秘岛,,0,0,0,,Book of Life\ndestroy the illusions\n生命之书请破除幻象吧
+Dialogue: 0,00:21:42.66,00:21:45.00,神秘岛,,0,0,0,,so that truth may reveal itself.\n还佐登真面目
+Dialogue: 0,00:21:50.66,00:21:45.00,神秘岛,,0,0,0,,台
+Dialogue: 0,00:21:51.33,00:21:45.00,神秘岛,,0,0,0,,21
+Dialogue: 0,00:21:55.33,00:21:57.33,神秘岛,,0,0,0,,Get on board brave shaman!\n上船吧勇敢的萨满教人
+Dialogue: 0,00:21:57.66,00:22:00.66,神秘岛,,0,0,0,,We have a few things.\nto discuss, you and 1.\n我和你还有些事情要讨论呢
+Dialogue: 0,00:22:01.66,00:22:04.00,神秘岛,,0,0,0,,Goodbye, Father!\n再会父亲
+Dialogue: 0,00:22:04.66,00:22:07.33,神秘岛,,0,0,0,,And don't worry\nI won't forget you this time\n别担心这次我不会忘记你的
+Dialogue: 0,00:22:14.00,00:22:07.33,神秘岛,,0,0,0,,scRIPT SuPEKTISOK
+Dialogue: 0,00:22:14.33,00:22:07.33,神秘岛,,0,0,0,,ErEcUTIVE STORY GDITOR
+Dialogue: 0,00:22:14.66,00:22:07.33,神秘岛,,0,0,0,,xecuTIve sT\nEDITOR
+Dialogue: 0,00:22:15.00,00:22:07.33,神秘岛,,0,0,0,,SCRIPT SUPERYISOR\nerectLY\nEDITOR\nr
+Dialogue: 0,00:22:15.33,00:22:07.33,神秘岛,,0,0,0,,观AoLs\nL nsN iAS\nsO 102 48o1S DALLnDDI\nBins p
+Dialogue: 0,00:22:15.66,00:22:07.33,神秘岛,,0,0,0,,OH TORT EDITOR\n积5
+Dialogue: 0,00:22:16.00,00:22:07.33,神秘岛,,0,0,0,,HH SLIM\nT\nsT9MIBReiSTS
+Dialogue: 0,00:22:16.33,00:22:07.33,神秘岛,,0,0,0,,STOR1BOARD ARTISTS
+Dialogue: 0,00:22:16.66,00:22:07.33,神秘岛,,0,0,0,,TS\nSTUDIO MKNI6\nFLLOT
+Dialogue: 0,00:22:17.00,00:22:07.33,神秘岛,,0,0,0,,STUDIO MTNKGEK. ELLIPSE\n是Je"oucs瞅
+Dialogue: 0,00:22:17.33,00:22:18.33,神秘岛,,0,0,0,,AOR :OODTT" PRODUCTION x Im\n3D. MODELIN6\n6RIBSUILLE
+Dialogue: 0,00:22:18.66,00:22:19.33,神秘岛,,0,0,0,,3DMODELING\nGRIBOUILLE
+Dialogue: 0,00:22:19.66,00:22:19.33,神秘岛,,0,0,0,,∈ bOUilLE
+Dialogue: 0,00:22:20.00,00:22:19.33,神秘岛,,0,0,0,,rsH"两\nETKRY
+Dialogue: 0,00:22:20.33,00:22:19.33,神秘岛,,0,0,0,,we\n10"°器燃
+Dialogue: 0,00:22:20.66,00:22:19.33,神秘岛,,0,0,0,,PRODUETD M Irre\nDIREC\nOGRTPHY\nuPEKTtSORS
+Dialogue: 0,00:22:21.00,00:22:19.33,神秘岛,,0,0,0,,DnD RITE\nIReton Icos
+Dialogue: 0,00:22:21.33,00:22:19.33,神秘岛,,0,0,0,,GT icots To\nSOFTWIRE OEYELOPER
+Dialogue: 0,00:22:22.00,00:22:19.33,神秘岛,,0,0,0,,CE IRTISTS
+Dialogue: 0,00:22:22.33,00:22:19.33,神秘岛,,0,0,0,,sOFTwRe DeveL\nGIRTIS
+Dialogue: 0,00:22:22.66,00:22:19.33,神秘岛,,0,0,0,,要8
+Dialogue: 0,00:22:23.00,00:22:19.33,神秘岛,,0,0,0,,PC工国\nC6 IRTIST
+Dialogue: 0,00:22:23.33,00:22:19.33,神秘岛,,0,0,0,,IRTIS
+Dialogue: 0,00:22:23.66,00:22:19.33,神秘岛,,0,0,0,,DErie
+Dialogue: 0,00:22:24.00,00:22:19.33,神秘岛,,0,0,0,,MAt
+Dialogue: 0,00:22:24.66,00:22:26.00,神秘岛,,0,0,0,,MOTION CAPTURE
+Dialogue: 0,00:22:26.33,00:22:26.00,神秘岛,,0,0,0,,SIUGON STUDIO\nm
+Dialogue: 0,00:22:26.66,00:22:26.00,神秘岛,,0,0,0,,CGCG INC
+Dialogue: 0,00:22:27.00,00:22:26.00,神秘岛,,0,0,0,,C6C6 INC\necturE PRoDuce
+Dialogue: 0,00:22:27.33,00:22:26.00,神秘岛,,0,0,0,,H
+Dialogue: 0,00:22:27.66,00:22:26.00,神秘岛,,0,0,0,,CGCG INC\nexecu SHo uceR\nNOn
+Dialogue: 0,00:22:28.00,00:22:26.00,神秘岛,,0,0,0,,C6C6 INC\nPRODUGTHIOY . TSOR
+Dialogue: 0,00:22:28.33,00:22:26.00,神秘岛,,0,0,0,,5隔\nProducTioNs
+Dialogue: 0,00:22:28.66,00:22:26.00,神秘岛,,0,0,0,,RCON SUN
+Dialogue: 0,00:22:29.00,00:22:26.00,神秘岛,,0,0,0,,Dy\nLx了ouc
+Dialogue: 0,00:22:29.33,00:22:26.00,神秘岛,,0,0,0,,Lxou在\nSuPERVIsoR
+Dialogue: 0,00:22:29.66,00:22:26.00,神秘岛,,0,0,0,,LAY-OUT C AN
+Dialogue: 0,00:22:30.00,00:22:26.00,神秘岛,,0,0,0,,sse yen supeRvisoR\nToN工x6
+Dialogue: 0,00:22:30.33,00:22:26.00,神秘岛,,0,0,0,,LATouT c\nsureRTISOK\nNETWOKE R\nTLN不GE

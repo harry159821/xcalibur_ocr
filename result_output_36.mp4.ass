@@ -1,0 +1,1179 @@
+
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1152
+Aegisub Video Aspect Ratio: c1.250000
+Video Aspect Ratio: 0
+
+[Aegisub Project Garbage]
+Audio File: Xcalibur.Episode.20.mp4
+Video File: Xcalibur.Episode.20.mp4
+Video AR Mode: 4
+Video AR Value: 1.250000
+Video Zoom Percent: 0.500000
+Scroll Position: 252
+Active Line: 263
+Video Position: 30211
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: 神秘岛,微软雅黑,50,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,2,2,20,20,30,1
+Style: 神秘岛-片头,汉仪瘦金书简,50,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,-1,0,0,0,100,100,0,0,1,2,4,2,20,20,20,1
+Style: 神秘岛-剧名,方正启体简体,85,&H002D88C6,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.13,0:00:05.60,神秘岛-片头,,0,0,0,,{\fad(500,500)\pos(720,1050)}翻译：英语辅导频道\N\N输入/时间轴/压制：harry159821/黑月
+Dialogue: 0,0:00:06.00,0:00:09.61,神秘岛-片头,,0,0,0,,{\fad(200,1000)\pos(720,1050)}校对：
+Dialogue: 0,0:00:00.00,0:00:53.53,神秘岛,,0,0,0,Banner;6;0;50, {\an8}{\fn幼圆}谨以此片追忆逝去的童年，如果你也有这样的童年的话欢迎加入我们的贴吧"神剑传奇"。本作品之片源来自互联网，版权归原公司所有。任何组织和个人不得公开传播或用于任何商业盈利用途，一切后果由该组织或个人承担！制作者不承担任何法律及连带责任！请自觉于下载后24小时内删除。如果喜欢本片，请购买正版！
+Dialogue: 0,0:23:11.86,0:23:15.86,神秘岛-片头,,0,0,0,,{\fad(500,500)\pos(720,1050)}翻译：英语辅导频道\N\N输入/时间轴/压制：harry159821/黑月
+Dialogue: 0,0:23:15.86,0:23:19.86,神秘岛-片头,,0,0,0,,{\fad(200,1000)\pos(720,1050)}校对：
+Dialogue: 0,0:01:01.06,0:01:04.93,神秘岛-剧名,,0,0,0,,{\fad(500,600)\frz0}第？集 
+Dialogue: 0,00:00:03.33,00:00:03.33,神秘岛,,0,0,0,,F
+Dialogue: 0,00:00:03.66,00:00:03.33,神秘岛,,0,0,0,,2002\nFrance2.∈tip
+Dialogue: 0,00:00:04.00,00:00:03.33,神秘岛,,0,0,0,,传司\n2002\nFRance 2. Etipse AnimAt ion. Tooncan Product ins Xll Inc
+Dialogue: 0,00:00:04.33,00:00:04.66,神秘岛,,0,0,0,,F\n2.∈pec\nnean productionsⅫ l Ins
+Dialogue: 0,00:00:05.00,00:00:04.66,神秘岛,,0,0,0,,2002\nF\n2.∈
+Dialogue: 0,00:00:05.33,00:00:04.66,神秘岛,,0,0,0,,France 2. Ecipse
+Dialogue: 0,00:00:05.66,00:00:06.00,神秘岛,,0,0,0,,2002\n2.∈ tips An
+Dialogue: 0,00:00:06.33,00:00:06.00,神秘岛,,0,0,0,,F
+Dialogue: 0,00:00:08.66,00:00:13.00,神秘岛,,0,0,0,,SCRIpt oy\nChRistophe pouio and Amelie AubeRt
+Dialogue: 0,00:00:13.66,00:00:17.00,神秘岛,,0,0,0,,ok how brightly my mother,s\nstar is shining tonight, Wip\n威普看我母后那颗星星今晚闪得多亮啊
+Dialogue: 0,00:00:20.00,00:00:20.66,神秘岛,,0,0,0,,You're right, Princess\n没错公主殿下
+Dialogue: 0,00:00:21.00,00:00:23.00,神秘岛,,0,0,0,,But I,m not surprised\n可我一点也不奇怪
+Dialogue: 0,00:00:24.66,00:00:27.00,神秘岛,,0,0,0,,It's especially\nbright from this spot\n从这个地方观看尤其亮
+Dialogue: 0,00:00:27.33,00:00:28.33,神秘岛,,0,0,0,,Come see!\n跟我来看啊
+Dialogue: 0,00:00:29.66,00:00:31.00,神秘岛,,0,0,0,,This is the very place\n这里就是
+Dialogue: 0,00:00:31.33,00:00:33.66,神秘岛,,0,0,0,,that your parents\nmet for the first time\n你父母第一次遇见的地方
+Dialogue: 0,00:00:34.00,00:00:35.00,神秘岛,,0,0,0,,was there\n我当时也在
+Dialogue: 0,00:00:40.00,00:00:42.33,神秘岛,,0,0,0,,Filthy little snoops\n丑陋的小闲事公
+Dialogue: 0,00:00:44.00,00:00:46.00,神秘岛,,0,0,0,,s for Saphire.\ns代表索非亚
+Dialogue: 0,00:00:46.33,00:00:48.00,神秘岛,,0,0,0,,E for Erwann\n而E代表伊万
+Dialogue: 0,00:00:48.33,00:00:49.66,神秘岛,,0,0,0,,I envy you, Wip\n我真羡慕你威普
+Dialogue: 0,00:00:50.00,00:00:52.66,神秘岛,,0,0,0,,I don't have any memories\nof my parents together.\n我没有一点我父王和母后在一起的记忆
+Dialogue: 0,00:00:53.00,00:00:54.33,神秘岛,,0,0,0,,I was too young\n那时候我太小了
+Dialogue: 0,00:00:55.00,00:00:56.66,神秘岛,,0,0,0,,Djana! Watch out!\n裘娜小心
+Dialogue: 0,00:00:57.00,00:00:57.66,神秘岛,,0,0,0,,Walka!\n是沃卡
+Dialogue: 0,00:00:59.33,00:01:01.66,神秘岛,,0,0,0,,Balls of fire. fly\n火球去
+Dialogue: 0,00:01:05.00,00:01:01.66,神秘岛,,0,0,0,,AN
+Dialogue: 0,00:01:08.00,00:01:08.66,神秘岛,,0,0,0,,Tara\n塔拉
+Dialogue: 0,00:01:09.33,00:01:08.66,神秘岛,,0,0,0,,Fly\n去
+Dialogue: 0,00:01:09.66,00:01:08.66,神秘岛,,0,0,0,,去
+Dialogue: 0,00:01:10.00,00:01:08.66,神秘岛,,0,0,0,,Fly!
+Dialogue: 0,00:01:10.33,00:01:08.66,神秘岛,,0,0,0,,M
+Dialogue: 0,00:01:13.00,00:01:14.00,神秘岛,,0,0,0,,Nice shot, Herik!\n好准头哈里克
+Dialogue: 0,00:01:14.33,00:01:16.33,神秘岛,,0,0,0,,You're finally\ngetting the hang of it.\n你终于完全掌握
+Dialogue: 0,00:01:16.66,00:01:16.33,神秘岛,,0,0,0,,F
+Dialogue: 0,00:01:18.00,00:01:19.33,神秘岛,,0,0,0,,Are you alright?\n你没事吧
+Dialogue: 0,00:01:19.66,00:01:20.33,神秘岛,,0,0,0,,can't move my leg.\n我的腿动不了
+Dialogue: 0,00:01:20.66,00:01:20.33,神秘岛,,0,0,0,,Iceal'trmoweemmyylega\n毛论的围运麻不不了
+Dialogue: 0,00:01:21.00,00:01:20.33,神秘岛,,0,0,0,,n can't move my\n我的腿动不了
+Dialogue: 0,00:01:21.33,00:01:22.66,神秘岛,,0,0,0,,Other than that I'm fine!\n其他地方没事
+Dialogue: 0,00:01:25.00,00:01:26.66,神秘岛,,0,0,0,,The dart just grazed you\n她的羽毛把你的腿擦伤了
+Dialogue: 0,00:01:27.00,00:01:30.33,神秘岛,,0,0,0,,a bit of shogi medicine\nand you'll be as good as new\n只要上点三基寺的药马上就完好如新
+Dialogue: 0,00:01:30.66,00:01:32.66,神秘岛,,0,0,0,,One day I'll get you, Djana!\n总有一天我会找你算账的裘娜
+Dialogue: 0,00:01:33.00,00:01:34.00,神秘岛,,0,0,0,,Do you hear me?\n听到没有
+Dialogue: 0,00:01:34.33,00:01:39.66,神秘岛,,0,0,0,,I will destroy your life\nas you have destroyed mine!\n你破坏了我的生活我也不会让你好过的
+Dialogue: 0,00:01:40.33,00:01:41.33,神秘岛,,0,0,0,,我破坏了你的生活吗
+Dialogue: 0,00:01:41.66,00:01:49.33,神秘岛,,0,0,0,,Walk\nWhat has happened to you?\n沃卡你怎么
+Dialogue: 0,00:01:49.66,00:01:49.33,神秘岛,,0,0,0,,It's Kwwodhan's swonk dsmit- ut\n是划派平的唱吧
+Dialogue: 0,00:01:50.00,00:01:50.33,神秘岛,,0,0,0,,Is Knox,s work, isn的e\n科跃好对吧
+Dialogue: 0,00:01:50.66,00:01:51.66,神秘岛,,0,0,0,,It's Kwwodhan's work isnt it?\n科妖然的好对吧
+Dialogue: 0,00:01:52.00,00:01:53.33,神秘岛,,0,0,0,,Answer me. Walka\n回答我沃卡
+Dialogue: 0,00:01:57.66,00:02:00.00,神秘岛,,0,0,0,,Ma sylph bracelet! No!\n我的精灵手你不
+Dialogue: 0,00:02:02.66,00:02:06.66,神秘岛,,0,0,0,,You have chosen to be evil\nso I'lI make you look the part!\n你选择了邪恶一方所以我会让\n你看起来也符合邪恶的形象
+Dialogue: 0,00:02:07.00,00:02:06.66,神秘岛,,0,0,0,,A
+Dialogue: 0,00:02:07.33,00:02:08.00,神秘岛,,0,0,0,,AHl No\n要
+Dialogue: 0,00:02:08.33,00:02:08.00,神秘岛,,0,0,0,,N
+Dialogue: 0,00:02:08.66,00:02:08.00,神秘岛,,0,0,0,,Ah! NOl
+Dialogue: 0,00:02:09.00,00:02:08.00,神秘岛,,0,0,0,,Hile No!
+Dialogue: 0,00:02:09.33,00:02:10.00,神秘岛,,0,0,0,,Ahl No\n要
+Dialogue: 0,00:02:10.33,00:02:10.00,神秘岛,,0,0,0,,NOI
+Dialogue: 0,00:02:10.66,00:02:11.00,神秘岛,,0,0,0,,NO\n不要
+Dialogue: 0,00:02:11.33,00:02:11.00,神秘岛,,0,0,0,,要
+Dialogue: 0,00:02:11.66,00:02:11.00,神秘岛,,0,0,0,,NO!\n不要
+Dialogue: 0,00:02:12.00,00:02:11.00,神秘岛,,0,0,0,,N○
+Dialogue: 0,00:02:12.33,00:02:11.00,神秘岛,,0,0,0,,0要
+Dialogue: 0,00:02:12.66,00:02:11.00,神秘岛,,0,0,0,,NO\n不要
+Dialogue: 0,00:02:13.33,00:02:15.33,神秘岛,,0,0,0,,I just don' t understand\n我就是不明白
+Dialogue: 0,00:02:15.66,00:02:19.00,神秘岛,,0,0,0,,It was Walka who turned her\nback on Fedora and my mothe\n是她自己背叛了费德拉和我母后
+Dialogue: 0,00:02:19.33,00:02:21.66,神秘岛,,0,0,0,,but she blames me for her misery\n可她却把自己的不幸归咎到我头上
+Dialogue: 0,00:02:22.33,00:02:24.66,神秘岛,,0,0,0,,Why does my\nown Aunt hate me so?\n为什么我自己的姨妈这么恨我
+Dialogue: 0,00:02:25.00,00:02:27.00,神秘岛,,0,0,0,,Don't let it trouble you, princess\n别为这烦恼了公主殿下
+Dialogue: 0,00:02:27.33,00:02:29.00,神秘岛,,0,0,0,,No one can tell\nwhat happened to Walka\n除了当时在场的人
+Dialogue: 0,00:02:29.33,00:02:30.33,神秘岛,,0,0,0,,unless they were there\n谁也不知道沃卡经历了什么事
+Dialogue: 0,00:02:30.66,00:02:32.66,神秘岛,,0,0,0,,Wip, you are absolutely right\n威普你说得很对
+Dialogue: 0,00:02:33.00,00:02:34.66,神秘岛,,0,0,0,,Djana? Where are you going?\n裘娜你去哪
+Dialogue: 0,00:02:35.00,00:02:36.33,神秘岛,,0,0,0,,Tara can' t ride\n拉现在骑不了马
+Dialogue: 0,00:02:36.66,00:02:38.00,神秘岛,,0,0,0,,I'm going to Brocelianda\n我去波西里安达
+Dialogue: 0,00:02:38.33,00:02:40.00,神秘岛,,0,0,0,,Catch up with me when you can\n你们尽快赶过来吧
+Dialogue: 0,00:02:40.33,00:02:42.66,神秘岛,,0,0,0,,I can t leave Tara alone\nand vulnerable all night\n我不能让塔拉单独呆整个晚\n那样很容易再受伤
+Dialogue: 0,00:02:43.00,00:02:44.66,神秘岛,,0,0,0,,Can't this wait till morning?\n就不能等到明天早上吗
+Dialogue: 0,00:02:45.33,00:02:48.00,神秘岛,,0,0,0,,I hate it when she gets that look\n我真讨厌看到她那个表情
+Dialogue: 0,00:02:49.00,00:02:48.00,神秘岛,,0,0,0,,养
+Dialogue: 0,00:02:57.00,00:02:48.00,神秘岛,,0,0,0,,F
+Dialogue: 0,00:02:57.33,00:03:00.33,神秘岛,,0,0,0,,well. wel\nmy good friends the Imps!\n我的朋友捣蛋鬼们
+Dialogue: 0,00:03:03.33,00:03:00.33,神秘岛,,0,0,0,,e
+Dialogue: 0,00:03:05.33,00:03:08.00,神秘岛,,0,0,0,,Ask them to help us\nget into the Water Palace\n让他们帮我进入水
+Dialogue: 0,00:03:08.33,00:03:08.00,神秘岛,,0,0,0,,y
+Dialogue: 0,00:03:16.33,00:03:08.00,神秘岛,,0,0,0,,多
+Dialogue: 0,00:03:19.33,00:03:08.00,神秘岛,,0,0,0,,k
+Dialogue: 0,00:03:22.00,00:03:08.00,神秘岛,,0,0,0,,*
+Dialogue: 0,00:03:27.00,00:03:28.00,神秘岛,,0,0,0,,Fedora
+Dialogue: 0,00:03:31.66,00:03:34.00,神秘岛,,0,0,0,,He says Fedora\nstill hasn't recovered\n他说自从上次为了保护森林受伤后
+Dialogue: 0,00:03:34.66,00:03:36.33,神秘岛,,0,0,0,,from her last defence of the forest\n费德拉尚未恢复过来
+Dialogue: 0,00:03:36.66,00:03:38.66,神秘岛,,0,0,0,,Then she can't tell me anything\n那么她不能告诉我什
+Dialogue: 0,00:03:39.00,00:03:41.33,神秘岛,,0,0,0,,or send me back to the past.\n也不能把我送回过去了
+Dialogue: 0,00:03:43.00,00:03:46.00,神秘岛,,0,0,0,,Xcalibur, lGall on your power\n神剑请期子我力量吧
+Dialogue: 0,00:03:46.33,00:03:48.66,神秘岛,,0,0,0,,Djana, have you dost-youir mind?\n裘娜你是不是疯
+Dialogue: 0,00:03:49.00,00:03:50.66,神秘岛,,0,0,0,,That's much too dangerous\n那酸太危崎了
+Dialogue: 0,00:03:51.00,00:03:53.66,神秘岛,,0,0,0,,caInt to know\nwhy Walka hates me\n我想知道默击为什么讨厌我
+Dialogue: 0,00:03:54.00,00:03:55.66,神秘岛,,0,0,0,,Maybe I can make things righ\n也许我可以让事情转变过来
+Dialogue: 0,00:03:56.66,00:04:01.66,神秘岛,,0,0,0,,Xcalibur Sword ofJustice\nhelp me to-know the truth\n神剑正义之剑请帮我了解事实真相
+Dialogue: 0,00:04:02.00,00:04:03.66,神秘岛,,0,0,0,,Take me to the past\n把我送回过去吧
+Dialogue: 0,00:04:04.33,00:04:03.66,神秘岛,,0,0,0,,Y
+Dialogue: 0,00:04:05.00,00:04:05.66,神秘岛,,0,0,0,,Princess\n公主殿下
+Dialogue: 0,00:04:06.00,00:04:08.33,神秘岛,,0,0,0,,Aren't yourcurious, Wip?\n你好奇吗威普
+Dialogue: 0,00:04:12.00,00:04:14.66,神秘岛,,0,0,0,,i cant believe Im doing this\n难以相信我正这么做
+Dialogue: 0,00:04:16.66,00:04:21.33,神秘岛,,0,0,0,,Boy! Habor!\nAre we beii\nreborn!\n天啊我仙是不是太顽固了唧
+Dialogue: 0,00:04:27.33,00:04:29.00,神秘岛,,0,0,0,,The water palace\n是水
+Dialogue: 0,00:04:29.33,00:04:31.66,神秘岛,,0,0,0,,-Look Wip! Fedora isn't her\n威普看费德拉不在这里
+Dialogue: 0,00:04:32.00,00:04:33.66,神秘岛,,0,0,0,,We're in the past\n我们回到过去了
+Dialogue: 0,00:04:34.00,00:04:34.66,神秘岛,,0,0,0,,Well, I'll be\n真见鬼
+Dialogue: 0,00:04:35.33,00:04:36.00,神秘岛,,0,0,0,,Thats…that'sme!\n那那是我
+Dialogue: 0,00:04:36.33,00:04:36.66,神秘岛,,0,0,0,,TThalsoos thant's med\n娜那是
+Dialogue: 0,00:04:37.00,00:04:36.66,神秘岛,,0,0,0,,The8。ab面\n娜那是
+Dialogue: 0,00:04:37.33,00:04:37.66,神秘岛,,0,0,0,,TThat sooo thvait's me
+Dialogue: 0,00:04:40.00,00:04:37.66,神秘岛,,0,0,0,,D
+Dialogue: 0,00:04:40.33,00:04:37.66,神秘岛,,0,0,0,,D\nm
+Dialogue: 0,00:04:40.66,00:04:42.66,神秘岛,,0,0,0,,What will happen if I see myself?\n看到了另一个自己会发生什么事呢
+Dialogue: 0,00:04:43.00,00:04:45.66,神秘岛,,0,0,0,,What if two Wips\ncancel each other out\n要是个威普让房一个威普消失怎么办
+Dialogue: 0,00:04:46.00,00:04:49.00,神秘岛,,0,0,0,,I am delighted that you\nhave fallen in love, Walka\n沃卡你找到了真爱真替你高兴
+Dialogue: 0,00:04:49.33,00:04:54.00,神秘岛,,0,0,0,,but at the same time I shall\nbe very sorry to lose a sister\n可同时我也恨遗憾要失去一个姐妹
+Dialogue: 0,00:04:58.66,00:05:01.00,神秘岛,,0,0,0,,You know that\nyou. marry a human\n要知道如果你嫁给一个人类
+Dialogue: 0,00:05:01.33,00:05:04.00,神秘岛,,0,0,0,,you will haye leave the\nForest of Brocelianda forever\n你就得永远离开波西里安达
+Dialogue: 0,00:05:04.33,00:05:04.00,神秘岛,,0,0,0,,我知道费德拉
+Dialogue: 0,00:05:04.66,00:05:05.66,神秘岛,,0,0,0,,I know Fedora\n我知道费德拉
+Dialogue: 0,00:05:06.00,00:05:09.00,神秘岛,,0,0,0,,Believe/me-It won't\nbe easy to leave my home.\n相信我离开自己家也不是件容易的事
+Dialogue: 0,00:05:11.33,00:05:14.66,神秘岛,,0,0,0,,Walka? Has a date with a- prince?\n沃卡跟某位亲王约会吗
+Dialogue: 0,00:05:15.00,00:05:17.66,神秘岛,,0,0,0,,I think she'd\nbetter have a chaperone\n我想她最好找个女伴一起去
+Dialogue: 0,00:05:18.00,00:05:17.66,神秘岛,,0,0,0,,些
+Dialogue: 0,00:05:23.66,00:05:25.33,神秘岛,,0,0,0,,I' m not sure Fcan-ride\n我不确定能不能骑
+Dialogue: 0,00:05:25.66,00:05:28.00,神秘岛,,0,0,0,,How long does -your, Shogi\nmedicine take to work, anyway\n你这三基寺药要多久才能见效啊
+Dialogue: 0,00:05:28.33,00:05:32.33,神秘岛,,0,0,0,,It will work a lot faster\nyou stay off that leg\n如果不动那条腿很快就会见效
+Dialogue: 0,00:05:32.66,00:05:33.66,神秘岛,,0,0,0,,It's light now\n现在天亮了
+Dialogue: 0,00:05:34.00,00:05:34.66,神秘岛,,0,0,0,,be all right\n如果我丢找表娜让你留在这里
+Dialogue: 0,00:05:35.00,00:05:37.00,神秘岛,,0,0,0,,eave you here\nand go after Diana alone?\n吗
+Dialogue: 0,00:05:37.33,00:05:38.33,神秘岛,,0,0,0,,I'llmanage\n我能行
+Dialogue: 0,00:05:45.00,00:05:38.33,神秘岛,,0,0,0,,产
+Dialogue: 0,00:05:47.66,00:05:50.33,神秘岛,,0,0,0,,Djana? Djana, where are you?\n裘娜裘娜你在哪
+Dialogue: 0,00:05:55.66,00:05:50.33,神秘岛,,0,0,0,,F
+Dialogue: 0,00:05:57.00,00:05:57.33,神秘岛,,0,0,0,,Diana?\n裘娜
+Dialogue: 0,00:05:57.66,00:05:57.33,神秘岛,,0,0,0,,阳菜
+Dialogue: 0,00:05:58.00,00:05:57.33,神秘岛,,0,0,0,,Diana?\n裘娜
+Dialogue: 0,00:05:58.33,00:05:59.33,神秘岛,,0,0,0,,Are you here\n你在这吗
+Dialogue: 0,00:05:59.66,00:05:59.33,神秘岛,,0,0,0,,Diana?\n裘娜
+Dialogue: 0,00:06:00.00,00:05:59.33,神秘岛,,0,0,0,,Djana
+Dialogue: 0,00:06:00.33,00:06:00.66,神秘岛,,0,0,0,,Diana?\n裘娜
+Dialogue: 0,00:06:01.66,00:06:03.00,神秘岛,,0,0,0,,Fedora
+Dialogue: 0,00:06:07.00,00:06:10.66,神秘岛,,0,0,0,,Fedora.I meed your help\nI am looking for Djana\n费德拉我需要你的帮助我在找
+Dialogue: 0,00:06:11.00,00:06:10.66,神秘岛,,0,0,0,,m
+Dialogue: 0,00:06:11.33,00:06:13.00,神秘岛,,0,0,0,,Djana has gone back in time\n裘娜回到过去
+Dialogue: 0,00:06:13.33,00:06:16.00,神秘岛,,0,0,0,,and I fear she will\ndo something reckles\n我担心她会不顾一切做些什+么
+Dialogue: 0,00:06:16.33,00:06:17.66,神秘岛,,0,0,0,,You must fetch her back, Herik\n哈里克你得把她带回
+Dialogue: 0,00:06:18.00,00:06:21.33,神秘岛,,0,0,0,,and-make sure not to\nchange anything in the past\n并确保不改变速会的
+Dialogue: 0,00:06:21.66,00:06:22.66,神秘岛,,0,0,0,,lake my ward\n拿着我的法村
+Dialogue: 0,00:06:23.00,00:06:26.66,神秘岛,,0,0,0,,have enough power to keep\nil-night falls\n呆到日落
+Dialogue: 0,00:06:32.00,00:06:33.66,神秘岛,,0,0,0,,Prince Erwann!\n伊万亲王
+Dialogue: 0,00:06:34.00,00:06:36.66,神秘岛,,0,0,0,,I am honoured by\nyour kind invitation\n对于你善意的邀请我感到非常荣幸
+Dialogue: 0,00:06:37.00,00:06:41.00,神秘岛,,0,0,0,,Sylphs have so few\noccasions to leave Brocelianda\n我们精灵极少有机会离开波西里安达
+Dialogue: 0,00:06:41.66,00:06:43.33,神秘岛,,0,0,0,,The hono\nmine. Walka\n能邀请到如此美丽的精灵光临本堡
+Dialogue: 0,00:06:43.66,00:06:46.66,神秘岛,,0,0,0,,to have someone so\nbeautiful grace my humble-home.\n这是我的荣幸沃卡
+Dialogue: 0,00:06:51.66,00:06:46.66,神秘岛,,0,0,0,,ther
+Dialogue: 0,00:06:52.00,00:06:53.00,神秘岛,,0,0,0,,Father\n父王
+Dialogue: 0,00:06:57.00,00:06:58.00,神秘岛,,0,0,0,,Who' s there\n谁在那
+Dialogue: 0,00:06:58.33,00:07:00.66,神秘岛,,0,0,0,,Show yourself and\nexplain this intrusion!\n赶紧现身说出你善闯本堡的原因
+Dialogue: 0,00:07:02.00,00:07:06.00,神秘岛,,0,0,0,,… I simply want to put my\nsword at your service, my lord\n亲王殿下我只是前来投靠您的
+Dialogue: 0,00:07:06.33,00:07:07.66,神秘岛,,0,0,0,,Who is this girl?\n这个女孩是诈
+Dialogue: 0,00:07:08.00,00:07:10.33,神秘岛,,0,0,0,,I was afraid your\nguards would chase me away.\n我担心你的卫兵会赶我走就自己进来了
+Dialogue: 0,00:07:10.66,00:07:13.66,神秘岛,,0,0,0,,I only wish to offer\nmy sword services, my lord\n我只是想来投靠您亲王殿下
+Dialogue: 0,00:07:14.00,00:07:16.66,神秘岛,,0,0,0,,Well well, you\ncertainly are bold.\n你还真大胆
+Dialogue: 0,00:07:17.00,00:07:18.00,神秘岛,,0,0,0,,Guard!\n卫兵
+Dialogue: 0,00:07:18.33,00:07:19.66,神秘岛,,0,0,0,,Those eyes!\n那双眼睛
+Dialogue: 0,00:07:20.00,00:07:23.33,神秘岛,,0,0,0,,They are exactly like Sapphire!\n和索非亚的眼睛太象
+Dialogue: 0,00:07:27.66,00:07:34.00,神秘岛,,0,0,0,,Take this young\nlady to the captain\n带这位女士去见队长
+Dialogue: 0,00:07:35.66,00:07:37.66,神秘岛,,0,0,0,,thank you, kind sir\n非常感谢您给我这个机会殿下
+Dialogue: 0,00:07:41.33,00:07:37.66,神秘岛,,0,0,0,,A
+Dialogue: 0,00:07:44.33,00:07:37.66,神秘岛,,0,0,0,,吧
+Dialogue: 0,00:07:45.33,00:07:48.66,神秘岛,,0,0,0,,Now, where were we?\n那现在我们进行到哪了啊
+Dialogue: 0,00:07:52.66,00:07:48.66,神秘岛,,0,0,0,,L
+Dialogue: 0,00:07:53.33,00:07:56.33,神秘岛,,0,0,0,,Djana? Djana?\n裘娜你在吗
+Dialogue: 0,00:07:57.00,00:07:58.66,神秘岛,,0,0,0,,Where can she be?\n她能去哪啊
+Dialogue: 0,00:08:01.66,00:08:03.66,神秘岛,,0,0,0,,Af Erwartru's Castle?\n轰在伊的城堡里吗
+Dialogue: 0,00:08:09.33,00:08:03.66,神秘岛,,0,0,0,,学
+Dialogue: 0,00:08:09.66,00:08:11.33,神秘岛,,0,0,0,,errific shot!\n不起的箭法
+Dialogue: 0,00:08:13.66,00:08:16.33,神秘岛,,0,0,0,,What a remarkable young girl\n多奇特的一位女孩啊
+Dialogue: 0,00:08:21.66,00:08:24.33,神秘岛,,0,0,0,,The girl is an\nintruder from the future\n这个女孩是来自未来的擅闯者
+Dialogue: 0,00:08:24.66,00:08:28.33,神秘岛,,0,0,0,,the daughter of Erwann\nand your sister, Sapphire\n是伊万和你姐妹索非亚的女丿
+Dialogue: 0,00:08:29.00,00:08:30.66,神秘岛,,0,0,0,,Sapphire and Erwann?\n索啡亚和伊万的女儿吗
+Dialogue: 0,00:08:31.00,00:08:30.66,神秘岛,,0,0,0,,o! ll never accept that\n我对不接利的事
+Dialogue: 0,00:08:31.33,00:08:30.66,神秘岛,,0,0,0,,1o! quL-nmever acd\n不还的
+Dialogue: 0,00:08:31.66,00:08:30.66,神秘岛,,0,0,0,,No! lLmever accept -that\n不我色对不期详的事
+Dialogue: 0,00:08:32.00,00:08:34.00,神秘岛,,0,0,0,,No!DTI-never accept that\n不我绝对不接受那样的事
+Dialogue: 0,00:08:34.33,00:08:35.66,神秘岛,,0,0,0,,That girl is amazing\n那介女孩真让人惊讶
+Dialogue: 0,00:08:36.00,00:08:35.66,神秘岛,,0,0,0,,Fbut-dir is araazin\n气久
+Dialogue: 0,00:08:36.33,00:08:38.00,神秘岛,,0,0,0,,wonder where she's from\n我想她是来自哪里呢
+Dialogue: 0,00:08:38.33,00:08:42.33,神秘岛,,0,0,0,,From somewhere\nunexpected, no dout\n毫无疑问她是来自意想不到的地方
+Dialogue: 0,00:08:44.00,00:08:46.00,神秘岛,,0,0,0,,What are you doing here?\n尔在这干吗啊
+Dialogue: 0,00:08:48.00,00:08:48.33,神秘岛,,0,0,0,,Wip?\n威普是你啊
+Dialogue: 0,00:08:48.66,00:08:53.33,神秘岛,,0,0,0,,Well,I'llbe\na man, a real man\n我会成为男人一个真正的男人
+Dialogue: 0,00:08:53.66,00:08:55.00,神秘岛,,0,0,0,,Your know my name?\n你知道我的名字
+Dialogue: 0,00:08:55.33,00:08:58.00,神秘岛,,0,0,0,,That s hardly fair\nwhenal don't know yours\n阝可不公平我都不知道你叫什么
+Dialogue: 0,00:08:58.33,00:09:00.33,神秘岛,,0,0,0,,My name? Uh, Herik\n我的名字吗恩我是哈里克
+Dialogue: 0,00:09:00.66,00:09:05.00,神秘岛,,0,0,0,,I was um practising teleportation\n恩我刚才在练习传心米
+Dialogue: 0,00:09:05.33,00:09:06.66,神秘岛,,0,0,0,,and I ended up here by mistake\n不小心来错到这里
+Dialogue: 0,00:09:07.00,00:09:09.66,神秘岛,,0,0,0,,Ive heard you Shogis\nspit fire like us dragons\n听说你们法师能象我们龙这样喷火
+Dialogue: 0,00:09:10.00,00:09:10.33,神秘岛,,0,0,0,,Can I see?\n能我见识下吗
+Dialogue: 0,00:09:10.66,00:09:12.33,神秘岛,,0,0,0,,NO! No time! Sorry\n有时间
+Dialogue: 0,00:09:12.66,00:09:14.33,神秘岛,,0,0,0,,have to get\nback to the monastery\n我新回寺院了
+Dialogue: 0,00:09:14.66,00:09:17.33,神秘岛,,0,0,0,,or my master\nwill be furious. Bye!\n不然大法师会发的静觅
+Dialogue: 0,00:09:18.33,00:09:17.33,神秘岛,,0,0,0,,家
+Dialogue: 0,00:09:18.66,00:09:22.00,神秘岛,,0,0,0,,Aaw. Just when\nmeet someone really great\n见到了真正厉害的人可\n没能见识到他的真本事
+Dialogue: 0,00:09:24.33,00:09:28.00,神秘岛,,0,0,0,,You are both an excellent\nrider and a remarkable archer miss\n小姐你是位优秀的骑里\n同时也是位非凡的射玉
+Dialogue: 0,00:09:29.33,00:09:32.00,神秘岛,,0,0,0,,Now let us see what\nyour swordsmanship=is-like\n现在让我们瞧瞧你剑术如何吧
+Dialogue: 0,00:09:32.33,00:09:34.66,神秘岛,,0,0,0,,Can we…… do this a bit later\n我们能晚点再进行这个吗
+Dialogue: 0,00:09:35.33,00:09:38.33,神秘岛,,0,0,0,,A true knight mustebe\nready for a- fight at anytim\n真正的骑士得随时准备迎战
+Dialogue: 0,00:09:38.66,00:09:39.00,神秘岛,,0,0,0,,On guard\n注意了
+Dialogue: 0,00:09:40.33,00:09:41.66,神秘岛,,0,0,0,,Xcalibur\n神剑
+Dialogue: 0,00:09:42.00,00:09:44.66,神秘岛,,0,0,0,,You stole the Sword of\nJustice from King Edwyn\n你从艾德温国王那偷来了正义之剑
+Dialogue: 0,00:09:50.00,00:09:51.00,神秘岛,,0,0,0,,Herik!\n哈里克
+Dialogue: 0,00:09:52.00,00:09:54.33,神秘岛,,0,0,0,,Wip? What are you\nand Djana doing here\n威普你和裘娜来这干吗
+Dialogue: 0,00:09:54.66,00:09:56.00,神秘岛,,0,0,0,,This is crazy!\n太疯狂了
+Dialogue: 0,00:09:56.33,00:09:57.00,神秘岛,,0,0,0,,He
+Dialogue: 0,00:09:57.66,00:09:59.33,神秘岛,,0,0,0,,It wasn't my\n又不是我的
+Dialogue: 0,00:09:59.66,00:10:00.66,神秘岛,,0,0,0,,Where are my manners?\n我的绅士风度哪里去了
+Dialogue: 0,00:10:01.00,00:10:03.66,神秘岛,,0,0,0,,May I offer you a\nrefreshing drink, Walka\n能让我帮你拿杯清爽的饮料吗沃卡
+Dialogue: 0,00:10:05.33,00:10:09.33,神秘岛,,0,0,0,,Please allow me, my dear Erwann\n请让我去吧亲爱的伊万
+Dialogue: 0,00:10:14.00,00:10:09.33,神秘岛,,0,0,0,,一
+Dialogue: 0,00:10:16.66,00:10:19.33,神秘岛,,0,0,0,,What was that she\nput in his drink, poison?\n她在饮料里面放什么了毒药吗
+Dialogue: 0,00:10:19.66,00:10:22.66,神秘岛,,0,0,0,,Don't worry\nWalka has a crush on Erwann\n别担心沃卡对伊万动心了
+Dialogue: 0,00:10:23.00,00:10:24.33,神秘岛,,0,0,0,,Can you believe that?\n你相信吗
+Dialogue: 0,00:10:24.66,00:10:26.66,神秘岛,,0,0,0,,Walka in love with Erwann?\n你是说沃卡爱上伊万了吗
+Dialogue: 0,00:10:27.00,00:10:30.33,神秘岛,,0,0,0,,Then at some point she must\nhave become jealous of Sapphire\n那从某个方面来说她肯定很嫉妒索非亚
+Dialogue: 0,00:10:30.66,00:10:32.66,神秘岛,,0,0,0,,No wonder she hates djana\n难怪她会恨裘娜
+Dialogue: 0,00:10:33.00,00:10:35.66,神秘岛,,0,0,0,,Speaking of which, where is Djana?\n说到这裘娜在哪啊
+Dialogue: 0,00:10:36.33,00:10:38.66,神秘岛,,0,0,0,,My lord, this girl is a thief\n主人这女孩是小偷
+Dialogue: 0,00:10:40.66,00:10:43.66,神秘岛,,0,0,0,,She stole Xcalibur\nShe must be taken to the King\n她偷了神剑得把她押去见国王陛下
+Dialogue: 0,00:10:44.66,00:10:43.66,神秘岛,,0,0,0,,三
+Dialogue: 0,00:10:46.00,00:10:48.33,神秘岛,,0,0,0,,Erwann. no!\n伊万不要
+Dialogue: 0,00:10:51.00,00:10:48.33,神秘岛,,0,0,0,,e
+Dialogue: 0,00:11:00.66,00:10:48.33,神秘岛,,0,0,0,,(
+Dialogue: 0,00:11:14.33,00:11:18.00,神秘岛,,0,0,0,,a thief? Nonsense\nThat will be all, captain\n小偷胡说没你的事了队长
+Dialogue: 0,00:11:20.66,00:11:22.33,神秘岛,,0,0,0,,You must forgive my captain\n请别跟我的队长计较
+Dialogue: 0,00:11:22.66,00:11:24.66,神秘岛,,0,0,0,,The poor man is\ntoo blind to see that\n那可怜的家伙肯定是瞎眼
+Dialogue: 0,00:11:25.00,00:11:27.33,神秘岛,,0,0,0,,someone so\ncharming, so beautifu\n如此迷人如此美丽的女
+Dialogue: 0,00:11:27.66,00:11:27.33,神秘岛,,0,0,0,,高
+Dialogue: 0,00:11:28.00,00:11:29.33,神秘岛,,0,0,0,,cannot possibly be a thief\n怎么可能会是小偷
+Dialogue: 0,00:11:29.66,00:11:30.66,神秘岛,,0,0,0,,Prince Erwann. c\n伊万亲王
+Dialogue: 0,00:11:31.00,00:11:33.00,神秘岛,,0,0,0,,if this girl was caught stealing\n如果这女孩真偷东西
+Dialogue: 0,00:11:33.33,00:11:34.33,神秘岛,,0,0,0,,perhaps you should\n也许你应该
+Dialogue: 0,00:11:34.66,00:11:37.66,神秘岛,,0,0,0,,Question her?\nAn excellent idea!\n审问她吗好主意
+Dialogue: 0,00:11:38.00,00:11:39.66,神秘岛,,0,0,0,,… thank you\nfor your visit, Walka\n多谢你的造访沃卡
+Dialogue: 0,00:11:40.00,00:11:41.00,神秘岛,,0,0,0,,You must come again\n欢迎你再来
+Dialogue: 0,00:11:44.33,00:11:46.00,神秘岛,,0,0,0,,Alone at last!\n终于可以单独相处了
+Dialogue: 0,00:11:46.33,00:11:49.00,神秘岛,,0,0,0,,And now you must\npardon my boldness\n请原谅我的冒犯
+Dialogue: 0,00:11:51.00,00:11:52.33,神秘岛,,0,0,0,,don't-even know your name\n我甚至都不知道你的名字
+Dialogue: 0,00:11:52.66,00:11:54.66,神秘岛,,0,0,0,,but know I\nwill never be conten\n不过我知道直到你成为我的妻子
+Dialogue: 0,00:11:55.00,00:11:56.33,神秘岛,,0,0,0,,until you become my wife\n我才会满足
+Dialogue: 0,00:11:57.00,00:11:59.66,神秘岛,,0,0,0,,need- some time\n我需要点时间考虑一下
+Dialogue: 0,00:12:00.00,00:12:01.66,神秘岛,,0,0,0,,This is a bit sudden\n呷这太突然了
+Dialogue: 0,00:12:04.66,00:12:07.66,神秘岛,,0,0,0,,Perhaps we could continue\nthis conversation this evening\n也许我们可以今天晚上再继续这个话题
+Dialogue: 0,00:12:08.00,00:12:10.33,神秘岛,,0,0,0,,i know a small\nclearing in the forest.\n我知道树林里有片小空旷地
+Dialogue: 0,00:12:10.66,00:12:13.00,神秘岛,,0,0,0,,The forest? How, interesting\n在树林见吗真有意思
+Dialogue: 0,00:12:13.33,00:12:17.00,神秘岛,,0,0,0,,I was looking forward to-a\nwalk in the forest this evening\n我老早就期待今晚去树林散散步
+Dialogue: 0,00:12:17.33,00:12:19.66,神秘岛,,0,0,0,,What an intriguing girl you are\n你真是位有魅力的女孩
+Dialogue: 0,00:12:22.33,00:12:19.66,神秘岛,,0,0,0,,L
+Dialogue: 0,00:12:26.33,00:12:19.66,神秘岛,,0,0,0,,st
+Dialogue: 0,00:12:27.66,00:12:30.00,神秘岛,,0,0,0,,Herik! It's horrible!\n哈里\n恐怖了
+Dialogue: 0,00:12:30.33,00:12:32.33,神秘岛,,0,0,0,,My own father is in love with=me\n我父王居然爱上我
+Dialogue: 0,00:12:32.66,00:12:34.66,神秘岛,,0,0,0,,No Djana, He's under a spell\n裘娜他是中了魔
+Dialogue: 0,00:12:35.00,00:12:36.00,神秘岛,,0,0,0,,Walka gave him a love potion\n沃卡给他喝了爱情迷幻药
+Dialogue: 0,00:12:36.66,00:12:38.33,神秘岛,,0,0,0,,and you just\narrived at a bad time\n而你正好不合时机地出现了
+Dialogue: 0,00:12:38.66,00:12:40.00,神秘岛,,0,0,0,,A love potion?\n爱情迷幻药吗
+Dialogue: 0,00:12:40.66,00:12:41.66,神秘岛,,0,0,0,,But why?\n可为什么会这样
+Dialogue: 0,00:12:42.00,00:12:44.66,神秘岛,,0,0,0,,I couldn't have made\nher feel th\nat threatened\n我没让她感觉受威胁了啊一
+Dialogue: 0,00:12:45.00,00:12:49.00,神秘岛,,0,0,0,,Unless her Sylph powers told\nher I'm Erwann daughte\n涂非她的精灵法力告诉了她\n是伊万的女
+Dialogue: 0,00:12:49.33,00:12:50.66,神秘岛,,0,0,0,,If she didnt know that\n如果她不知道我的身份
+Dialogue: 0,00:12:51.00,00:12:53.66,神秘岛,,0,0,0,,she would never use\nher charms on him like this\n她就绝对不会用这样的方式施展魅动
+Dialogue: 0,00:12:54.00,00:12:57.00,神秘岛,,0,0,0,,Now my father wil\nnever love my mother.\n现在我父王不会爱上我母后
+Dialogue: 0,00:12:57.33,00:12:59.00,神秘岛,,0,0,0,,all because of mel\n都是因为我
+Dialogue: 0,00:13:04.66,00:13:06.33,神秘岛,,0,0,0,,A What is going on?\n发生
+Dialogue: 0,00:13:10.66,00:13:13.66,神秘岛,,0,0,0,,There must be an\nantidote to Walka's potion\n定有解药可以破解沃卡的迷幻药
+Dialogue: 0,00:13:14.00,00:13:16.33,神秘岛,,0,0,0,,No matter what Walka concocted\n不管沃卡怎捏造事实
+Dialogue: 0,00:13:16.66,00:13:19.66,神秘岛,,0,0,0,,Erwann and sapphire will always\nlovereach other quite naturally.\n伊万和索非亚自然还是会相爱的
+Dialogue: 0,00:13:21.66,00:13:23.66,神秘岛,,0,0,0,,If we can just get them together\n如果我们能让他们见到对方就好了
+Dialogue: 0,00:13:24.00,00:13:30.00,神秘岛,,0,0,0,,Erwann promised to mee\nme in the clearing tonight!\n何况伊万答应今晚来树林见我
+Dialogue: 0,00:13:30.33,00:13:32.33,神秘岛,,0,0,0,,true love will do the rest\n真爱就会解决余下的问题
+Dialogue: 0,00:13:32.66,00:13:35.66,神秘岛,,0,0,0,,Except that Erwann\ns expecting to meet you\n除非伊万正期待着见你
+Dialogue: 0,00:13:36.00,00:13:38.00,神秘岛,,0,0,0,,know that love\nmakes people blind\n我知道爱情可以让人盲目
+Dialogue: 0,00:13:38.33,00:13:41.66,神秘岛,,0,0,0,,but blind enough to confuse\ntwo totally different people?\n可是会盲目到分辨不出\n两个完全不同的人吗
+Dialogue: 0,00:13:42.00,00:13:43.33,神秘岛,,0,0,0,,Wip! You were there\n臧普他们第一次在树林遇见的时候
+Dialogue: 0,00:13:43.66,00:13:47.33,神秘岛,,0,0,0,,Then you can be there tonight.\n今晚你也去那里
+Dialogue: 0,00:13:47.66,00:13:48.66,神秘岛,,0,0,0,,想办法让我父王相\nand convince- my father
+Dialogue: 0,00:13:49.00,00:13:51.00,神秘岛,,0,0,0,,that-sapphire and\nI are the same person\n索非业和我就是同一个人
+Dialogue: 0,00:13:51.33,00:13:52.00,神秘岛,,0,0,0,,What?
+Dialogue: 0,00:13:52.33,00:13:52.00,神秘岛,,0,0,0,,nat
+Dialogue: 0,00:13:52.66,00:13:58.33,神秘岛,,0,0,0,,A smooth talker like you\nshouldn't have much of a problem!\n你能说会道解决这样的事情不是问题吧
+Dialogue: 0,00:14:01.00,00:14:02.66,神秘岛,,0,0,0,,But what about the other me?\n可另外一个威普怎么办啊
+Dialogue: 0,00:14:03.00,00:14:04.00,神秘岛,,0,0,0,,If two Wips s\nhow up\n要是两个威普同时出现
+Dialogue: 0,00:14:04.33,00:14:05.66,神秘岛,,0,0,0,,your father will think it's a trick\n你父王会认为这是个阴谋
+Dialogue: 0,00:14:06.00,00:14:09.00,神秘岛,,0,0,0,,He"might even suspect\nhe's being lured into a trap\n甚至可能怀疑他会被诱入圈套
+Dialogue: 0,00:14:09.33,00:14:10.33,神秘岛,,0,0,0,,No problem\n没问题
+Dialogue: 0,00:14:10.66,00:14:12.66,神秘岛,,0,0,0,,know how to\n我 ep that Wip occupied\n道怎么让另一个威普分身无
+Dialogue: 0,00:14:13.00,00:14:14.33,神秘岛,,0,0,0,,t take me to him\n就只管带我去找他吧
+Dialogue: 0,00:14:14.66,00:14:17.00,神秘岛,,0,0,0,,Me? How should\ntknow where I am?\n我带你去找他、那我怎么知道他在哪啊
+Dialogue: 0,00:14:17.66,00:14:18.66,神秘岛,,0,0,0,,Come on, Wip\n回想一不威普
+Dialogue: 0,00:14:19.00,00:14:21.00,神秘岛,,0,0,0,,What would you have\nbeen: doing this time of day\n年前今天的这个时
+Dialogue: 0,00:14:21.33,00:14:22.33,神秘岛,,0,0,0,,seventeen years ago?\n你在做什么啊
+Dialogue: 0,00:14:27.66,00:14:28.00,神秘岛,,0,0,0,,一
+Dialogue: 0,00:15:00.33,00:15:03.00,神秘岛,,0,0,0,,I don t remember\nbeing so ridiculous!\n我可不记得曾经有这么可笑
+Dialogue: 0,00:15:04.33,00:15:03.00,神秘岛,,0,0,0,,N
+Dialogue: 0,00:15:08.00,00:15:11.00,神秘岛,,0,0,0,,I just said\nhave to meet Sapphire\n我刚才说我得去见索非亚
+Dialogue: 0,00:15:14.66,00:15:17.00,神秘岛,,0,0,0,,Hey! What's your hurry?\n嘿你们在忙什么啊
+Dialogue: 0,00:15:19.00,00:15:21.33,神秘岛,,0,0,0,,You again apprentice Shogi?\n实习法师又是你啊
+Dialogue: 0,00:15:21.66,00:15:23.33,神秘岛,,0,0,0,,Yes. I've thought about it\n是我我想过了
+Dialogue: 0,00:15:23.66,00:15:26.00,神秘岛,,0,0,0,,and really can't pass up a chance\n不能错过机会跟如此著名的龙比试
+Dialogue: 0,00:15:26.33,00:15:30.33,神秘岛,,0,0,0,,to test myself against\nsuch a famous dragon\n顺便测试一下我的实力到底如何
+Dialogue: 0,00:15:31.00,00:15:32.66,神秘岛,,0,0,0,,Famous? Really\n我很出名真的吗
+Dialogue: 0,00:15:33.00,00:15:39.33,神秘岛,,0,0,0,,even have some\ndelicious prizes for the winner.\n我还为获胜者准备了美味奖品哦
+Dialogue: 0,00:15:40.33,00:15:44.33,神秘岛,,0,0,0,,Youre on! Follow me!\nI know a quiet little spot\n你说了算跟我来我知道一个安静的地方
+Dialogue: 0,00:15:44.66,00:15:46.66,神秘岛,,0,0,0,,-I'm warning you though,\nI haven t got much time,\n我可先警告你我没有多少时间奉陪哦
+Dialogue: 0,00:15:47.00,00:15:49.33,神秘岛,,0,0,0,,I have to get back to my mistress\n晚点我得回去找我家女主人
+Dialogue: 0,00:15:51.33,00:15:54.66,神秘岛,,0,0,0,,We've got to hurry\nmy father will be thel:soon\n我们得快点我父王很快就到了
+Dialogue: 0,00:15:58.00,00:15:54.66,神秘岛,,0,0,0,,一、
+Dialogue: 0,00:16:00.00,00:15:54.66,神秘岛,,0,0,0,,Ah
+Dialogue: 0,00:16:04.33,00:16:06.00,神秘岛,,0,0,0,,Good < timing, Wip\n晚上好啊威普
+Dialogue: 0,00:16:06.33,00:16:08.00,神秘岛,,0,0,0,,I'm looking for your mistress\n我在找你家女主
+Dialogue: 0,00:16:08.33,00:16:11.66,神秘岛,,0,0,0,,Uh\nhaven't seen her\n呃我没有见到她
+Dialogue: 0,00:16:12.00,00:16:14.00,神秘岛,,0,0,0,,Come, come, Wip\n好了威普
+Dialogue: 0,00:16:14.33,00:16:17.00,神秘岛,,0,0,0,,Will a bit of\nhoney help your memory?\n是不是来点蜂蜜可以有助于你记忆呢
+Dialogue: 0,00:16:17.33,00:16:20.33,神秘岛,,0,0,0,,I think it's time\nyou talked to me, Walka!\n我想是时候我们好好谈谈了沃卡
+Dialogue: 0,00:16:20.66,00:16:25.00,神秘岛,,0,0,0,,Well. well\nmy niece from the future\n不错我来自未来的侄女
+Dialogue: 0,00:16:25.33,00:16:28.66,神秘岛,,0,0,0,,am Djana, daughter\nf Erwann and Sapphire\n我是裘娜伊万和索非亚的女儿
+Dialogue: 0,00:16:29.00,00:16:30.66,神秘岛,,0,0,0,,I'm off. 've got an\nappointment to keep.\n我走了还要去赴约会呢
+Dialogue: 0,00:16:31.00,00:16:32.66,神秘岛,,0,0,0,,came hoping\nhat you would accept\n电我来是希望你接受事实
+Dialogue: 0,00:16:33.00,00:16:34.00,神秘岛,,0,0,0,,Accept what?\n接受什么事实
+Dialogue: 0,00:16:34.33,00:16:37.66,神秘岛,,0,0,0,,That, Sapphire stole\nthe love of my life?\n索非亚偷走了我的爱人这个事实吗
+Dialogue: 0,00:16:38.00,00:16:40.33,神秘岛,,0,0,0,,My mother didn't steal anything!\n我母后没有偷任何东西
+Dialogue: 0,00:16:41.33,00:16:44.00,神秘岛,,0,0,0,,It was love that\nbrought my parents together.\n是爱情让我父玉和母后徒到一起白
+Dialogue: 0,00:16:44.33,00:16:48.33,神秘岛,,0,0,0,,What do you know about longing?\n又知道什么是渴望吗
+Dialogue: 0,00:16:49.00,00:16:51.66,神秘岛,,0,0,0,,I know what it's like to\nlong for the love of my aunt\n我知道就象我长久以来\n渴望得到阿姨的爱一样
+Dialogue: 0,00:16:52.00,00:16:54.66,神秘岛,,0,0,0,,came here hoping\no make things right.\n我来这就是希望让事情有转机出现
+Dialogue: 0,00:16:55.00,00:16:57.33,神秘岛,,0,0,0,,our father is\nnow in love with you!\n你父亲现在爱上了你
+Dialogue: 0,00:16:57.66,00:17:03.33,神秘岛,,0,0,0,,He will reject your mother,\nand you will never be born\n他会拒绝你母亲然后你也不可能会出生
+Dialogue: 0,00:17:11.33,00:17:15.00,神秘岛,,0,0,0,,Walka. no! Don't do this\n沃卡不要你不能这么做
+Dialogue: 0,00:17:23.66,00:17:25.66,神秘岛,,0,0,0,,Wip! You frightened me\n威普你吓到我了
+Dialogue: 0,00:17:26.33,00:17:27.66,神秘岛,,0,0,0,,I was wondering where you were\n我刚还在想你去哪了呢
+Dialogue: 0,00:17:28.00,00:17:29.33,神秘岛,,0,0,0,,r'm sorry, my prL...\n抱歉
+Dialogue: 0,00:17:29.66,00:17:32.66,神秘岛,,0,0,0,,pretty stars, aren't they?\n漂亮的星星对吧
+Dialogue: 0,00:17:33.33,00:17:35.66,神秘岛,,0,0,0,,What a lovely smell of moss!\n苔藓的味道真好闻
+Dialogue: 0,00:17:37.66,00:17:35.66,神秘岛,,0,0,0,,3?
+Dialogue: 0,00:17:48.00,00:17:50.33,神秘岛,,0,0,0,,Did you hear that?\nSomeone's coming\n你听到了吗有人过来了
+Dialogue: 0,00:17:50.66,00:17:52.66,神秘岛,,0,0,0,,What? Who? How? Already?\n什么会是谁啊怎么过来的到了吗
+Dialogue: 0,00:17:53.00,00:18:14.00,神秘岛,,0,0,0,,Walka? Let's hope\nshe doesn't ruin everything\n沃卡你在哪但愿她没有破坏任何事情
+Dialogue: 0,00:18:23.33,00:18:25.00,神秘岛,,0,0,0,,I'm sure I heard something\n我确定听到什么声音了
+Dialogue: 0,00:18:25.33,00:18:28.00,神秘岛,,0,0,0,,Who could be wandering\n这个时候还会有谁在树林里散步啊
+Dialogue: 0,00:18:30.66,00:18:32.33,神秘岛,,0,0,0,,Oh! Who is that?\n啊那是谁
+Dialogue: 0,00:18:35.33,00:18:32.33,神秘岛,,0,0,0,,B
+Dialogue: 0,00:18:37.33,00:18:41.00,神秘岛,,0,0,0,,Now don' t move\nI'll go see what he wants\n现在不要动我去看看他想干什么
+Dialogue: 0,00:18:42.00,00:18:44.00,神秘岛,,0,0,0,,Prince Erwann!\nWe've been waiting for you!\n伊万亲王我们正等你呢
+Dialogue: 0,00:18:44.33,00:18:46.33,神秘岛,,0,0,0,,That is, my mistress and I\n我家女主人和我
+Dialogue: 0,00:18:46.66,00:18:49.66,神秘岛,,0,0,0,,Good heavens, a talking dragon!,\n天啊一条会说话的龙
+Dialogue: 0,00:18:50.66,00:18:52.66,神秘岛,,0,0,0,,I know it might\nseem strange to you\n我知道听起来可能很奇怪
+Dialogue: 0,00:18:53.00,00:18:56.33,神秘岛,,0,0,0,,but my mistress has changed\na bit since this morning\n今天早上过后我家女主人有了点变化
+Dialogue: 0,00:18:56.66,00:18:58.66,神秘岛,,0,0,0,,But that's the\nway it is with Sylphs\n不过精灵就是那样的
+Dialogue: 0,00:18:59.00,00:19:00.66,神秘岛,,0,0,0,,Love does that to them\n爱情让她们发生了变化
+Dialogue: 0,00:19:01.00,00:19:03.66,神秘岛,,0,0,0,,She is a Sylph too, like Walka?\n和沃卡一样她也是精灵吗
+Dialogue: 0,00:19:04.00,00:19:05.66,神秘岛,,0,0,0,,And did you say love?\n刚才你说的是爱情吗
+Dialogue: 0,00:19:06.00,00:19:09.33,神秘岛,,0,0,0,,Of course\nBut be careful what you say\n当然不过请注意措辞
+Dialogue: 0,00:19:13.33,00:19:15.00,神秘岛,,0,0,0,,Hmm... Not bad\n恩还不赖
+Dialogue: 0,00:19:15.33,00:19:17.33,神秘岛,,0,0,0,,But what do you think of this?\n不过你看看这个怎样
+Dialogue: 0,00:19:25.33,00:19:28.33,神秘岛,,0,0,0,,Impressive! Wow! A dragon\n让人印象深刻哇是条龙
+Dialogue: 0,00:19:33.66,00:19:28.33,神秘岛,,0,0,0,,还\ne女
+Dialogue: 0,00:19:34.00,00:19:28.33,神秘岛,,0,0,0,,还好
+Dialogue: 0,00:19:34.33,00:19:28.33,神秘岛,,0,0,0,,Wella.\n还好
+Dialogue: 0,00:19:34.66,00:19:38.00,神秘岛,,0,0,0,,Nightfall! I sure hope\nyou,'ve done it, Dja\nana!\n天黑了希望你已经完成了裘妍
+Dialogue: 0,00:19:39.00,00:19:41.33,神秘岛,,0,0,0,,You're forcing me\no pull out all the stop\n你让我不得不使出全身解数了
+Dialogue: 0,00:19:41.66,00:19:44.66,神秘岛,,0,0,0,,Make way for the\npiece de resistance\n让开点
+Dialogue: 0,00:19:45.00,00:19:47.33,神秘岛,,0,0,0,,Balls of fire.. Fly\n火球去
+Dialogue: 0,00:19:54.00,00:19:57.33,神秘岛,,0,0,0,,This ring only\nhighlights your beauty\n这个戒指衬托了你的美丽
+Dialogue: 0,00:20:00.66,00:20:08.66,神秘岛,,0,0,0,,All this time? Are yous\ntrying to make me laugh\n这半天以来吗你是不是想逗我笑啊
+Dialogue: 0,00:20:09.66,00:20:16.33,神秘岛,,0,0,0,,Now you're ' teasing me, Sapphire\n现在你逗我笑了索非亚
+Dialogue: 0,00:20:16.66,00:20:18.33,神秘岛,,0,0,0,,But think I\ncould put up with it,\n不过我想我会在往后的日子
+Dialogue: 0,00:20:18.66,00:20:21.00,神秘岛,,0,0,0,,for the rest of my life\n来享受这个
+Dialogue: 0,00:20:21.66,00:20:21.00,神秘岛,,0,0,0,,多
+Dialogue: 0,00:20:23.33,00:20:25.66,神秘岛,,0,0,0,,Love can be\nunexpected, Sapphire\n爱情是不可求的索非亚
+Dialogue: 0,00:20:26.00,00:20:28.66,神秘岛,,0,0,0,,but you have to seize it\nwhen you have the chance\n可机会来了你就要抓住它
+Dialogue: 0,00:20:29.00,00:20:31.00,神秘岛,,0,0,0,,Listen to your heart\n听你心底的呼唤吧
+Dialogue: 0,00:20:32.00,00:20:31.00,神秘岛,,0,0,0,,a
+Dialogue: 0,00:20:46.00,00:20:49.33,神秘岛,,0,0,0,,Walka. There they are!\n是沃卡他们在那
+Dialogue: 0,00:20:49.66,00:20:50.66,神秘岛,,0,0,0,,Oh. Walka!\n噢沃卡
+Dialogue: 0,00:20:53.33,00:20:50.66,神秘岛,,0,0,0,,2
+Dialogue: 0,00:21:03.00,00:21:04.00,神秘岛,,0,0,0,,That's it\n就是那样
+Dialogue: 0,00:21:04.33,00:21:07.00,神秘岛,,0,0,0,,Let's hope everything\nturned out for the best\n希望一切都以最好的姿态出现
+Dialogue: 0,00:21:09.66,00:21:13.00,神秘岛,,0,0,0,,Wow! Okay, you win!\n哇好你赢了
+Dialogue: 0,00:21:17.00,00:21:13.00,神秘岛,,0,0,0,,威普
+Dialogue: 0,00:21:17.33,00:21:13.00,神秘岛,,0,0,0,,W\n威普
+Dialogue: 0,00:21:17.66,00:21:13.00,神秘岛,,0,0,0,,威普
+Dialogue: 0,00:21:19.00,00:21:22.33,神秘岛,,0,0,0,,Oh, boy, this is a better work!\n天啊效果太好了吧
+Dialogue: 0,00:21:24.00,00:21:24.33,神秘岛,,0,0,0,,b
+Dialogue: 0,00:21:24.66,00:21:24.33,神秘岛,,0,0,0,,y
+Dialogue: 0,00:21:25.66,00:21:27.00,神秘岛,,0,0,0,,Diana? Herik\n裘娜哈里克是你们吗
+Dialogue: 0,00:21:27.33,00:21:30.66,神秘岛,,0,0,0,,Would somebody mind\ntelling me what's going on?\n有人介意告诉我到底发生什么事了吗
+Dialogue: 0,00:21:33.00,00:21:38.00,神秘岛,,0,0,0,,Hooray! True love\nconquered all! We did it\n太棒了真爱战胜了一切我们成功了
+Dialogue: 0,00:21:38.33,00:21:40.66,神秘岛,,0,0,0,,You did it! What a dragon\n你做到了了不起的龙啊
+Dialogue: 0,00:21:41.00,00:21:42.00,神秘岛,,0,0,0,,Did what?\n威普做什么了啊
+Dialogue: 0,00:21:42.33,00:21:44.33,神秘岛,,0,0,0,,It's a long story, Tara\n说来话长塔拉
+Dialogue: 0,00:21:44.66,00:21:46.66,神秘岛,,0,0,0,,But I found out\nsomething about Walka\n不过我了解到一些沃卡的事
+Dialogue: 0,00:21:47.00,00:21:51.00,神秘岛,,0,0,0,,She's been terribly . wounded\n她被伤得很严
+Dialogue: 0,00:21:51.33,00:21:53.00,神秘岛,,0,0,0,,Wounded? Good!\n她受伤了吗那敢情好啊
+Dialogue: 0,00:21:53.33,00:21:55.66,神秘岛,,0,0,0,,I hope it hurts as\nbad as the one she gave me\n我还希望她伤得有我这么严重
+Dialogue: 0,00:21:56.00,00:22:00.66,神秘岛,,0,0,0,,It's a wound you can't see\n是一种看不见的伤害
+Dialogue: 0,00:22:01.00,00:22:03.00,神秘岛,,0,0,0,,and I don t know\nif it will ever hea\n我都不知道那种伤害是不是可以抚平
+Dialogue: 0,00:22:03.33,00:22:05.00,神秘岛,,0,0,0,,You should get\nback to Brocelianda\n你应该去趟波西里安达
+Dialogue: 0,00:22:05.33,00:22:06.00,神秘岛,,0,0,0,,to give Fedora back her wand\n把她的法杖送回去
+Dialogue: 0,00:22:06.33,00:22:09.33,神秘岛,,0,0,0,,just want to look\nat my mother's star\n我就想看看我母后所在的星星
+Dialogue: 0,00:22:15.33,00:22:09.33,神秘岛,,0,0,0,,e
+Dialogue: 0,00:22:15.66,00:22:16.66,神秘岛,,0,0,0,,EIECUTTYE STORY: EDITOR
+Dialogue: 0,00:22:17.00,00:22:16.66,神秘岛,,0,0,0,,erect\nTORRIC KORERUSTS
+Dialogue: 0,00:22:17.33,00:22:16.66,神秘岛,,0,0,0,,CRUDE DTINETULT
+Dialogue: 0,00:22:17.66,00:22:16.66,神秘岛,,0,0,0,,STORYBOARD AKTISTS\nSTUDIO
+Dialogue: 0,00:22:18.00,00:22:16.66,神秘岛,,0,0,0,,suDo和
+Dialogue: 0,00:22:18.33,00:22:16.66,神秘岛,,0,0,0,,eLLIP\nON\nOMIDOSTR再
+Dialogue: 0,00:22:18.66,00:22:16.66,神秘岛,,0,0,0,,5TuD》oMNG\nne sLot LUPsE\nTHTOR :OONCH PRoDUCTIONS C.
+Dialogue: 0,00:22:19.00,00:22:16.66,神秘岛,,0,0,0,,5uDx树毛\nup绳\n是\nPRODUCTION IOMIHISTRTT
+Dialogue: 0,00:22:19.33,00:22:16.66,神秘岛,,0,0,0,,A和Dmso是 BorDers\n3D MODELING
+Dialogue: 0,00:22:19.66,00:22:20.00,神秘岛,,0,0,0,,PRODUCTION IOMINISTKAT\nD MODELING\nSRIBOUILLE
+Dialogue: 0,00:22:20.33,00:22:20.66,神秘岛,,0,0,0,,3D. MODELIN6\nGRIBOUILLe
+Dialogue: 0,00:22:21.00,00:22:20.66,神秘岛,,0,0,0,,GRIBOUILLe\nSTUrP acOs\nHTART\nRECTOR F PHOT口RX产
+Dialogue: 0,00:22:21.33,00:22:20.66,神秘岛,,0,0,0,,PROTUGTTON SS TANT
+Dialogue: 0,00:22:21.66,00:22:20.66,神秘岛,,0,0,0,,DInn SecReT\nOsRAPHY\n露耀智
+Dialogue: 0,00:22:22.33,00:22:20.66,神秘岛,,0,0,0,,器
+Dialogue: 0,00:22:22.66,00:22:20.66,神秘岛,,0,0,0,,SuPERTISORS\n器
+Dialogue: 0,00:22:23.00,00:22:20.66,神秘岛,,0,0,0,,)DMODELING SUPEKTLSOR\n4 KTIST- 0p MoDELIN
+Dialogue: 0,00:22:23.33,00:22:20.66,神秘岛,,0,0,0,,C6 IRTISTS
+Dialogue: 0,00:22:23.66,00:22:20.66,神秘岛,,0,0,0,,soFT
+Dialogue: 0,00:22:24.00,00:22:20.66,神秘岛,,0,0,0,,soAH是e
+Dialogue: 0,00:22:24.33,00:22:20.66,神秘岛,,0,0,0,,CG RTI
+Dialogue: 0,00:22:24.66,00:22:20.66,神秘岛,,0,0,0,,190
+Dialogue: 0,00:22:25.00,00:22:20.66,神秘岛,,0,0,0,,ATiCI COTINe
+Dialogue: 0,00:22:25.33,00:22:20.66,神秘岛,,0,0,0,,WING
+Dialogue: 0,00:22:25.66,00:22:20.66,神秘岛,,0,0,0,,翻熟袋
+Dialogue: 0,00:22:26.00,00:22:26.33,神秘岛,,0,0,0,,MOTION CAPTURE\nSIUICON STUDIO
+Dialogue: 0,00:22:26.66,00:22:27.33,神秘岛,,0,0,0,,MOTION CAPTURE
+Dialogue: 0,00:22:27.66,00:22:27.33,神秘岛,,0,0,0,,surekrIsoK
+Dialogue: 0,00:22:28.00,00:22:28.33,神秘岛,,0,0,0,,CGCG INC
+Dialogue: 0,00:22:28.66,00:22:28.33,神秘岛,,0,0,0,,HETHTLie 1oNgermte\nCGCG INC
+Dialogue: 0,00:22:29.00,00:22:28.33,神秘岛,,0,0,0,,CGCG IN\nPRoDuC
+Dialogue: 0,00:22:29.33,00:22:28.33,神秘岛,,0,0,0,,Csc6 Ihc\nNXN SHO
+Dialogue: 0,00:22:30.00,00:22:28.33,神秘岛,,0,0,0,,PRODHGEION SUN
+Dialogue: 0,00:22:30.33,00:22:28.33,神秘岛,,0,0,0,,LI. ouT a阳\nsPes。R
+Dialogue: 0,00:22:30.66,00:22:28.33,神秘岛,,0,0,0,,L.ou在\nSuPERYISOR
+Dialogue: 0,00:22:31.00,00:22:28.33,神秘岛,,0,0,0,,uouc到 surernso\nce品\nwORE IDMIMIPTI黑NXGe
+Dialogue: 0,00:22:31.33,00:22:28.33,神秘岛,,0,0,0,,LA7ouT a JesseLTON SuPeRvisor\nNETWORL KDMI\nTN其6
+Dialogue: 0,00:22:31.66,00:22:28.33,神秘岛,,0,0,0,,Lxy-oUT∝频\nrecTos段\nNETWORL D\nNeTwoRL TOMCTXATOR
+Dialogue: 0,00:22:32.00,00:22:28.33,神秘岛,,0,0,0,,oeTWORE IDMI\nNeT oKLTONIH\n什5
+Dialogue: 0,00:22:32.33,00:22:28.33,神秘岛,,0,0,0,,NCTTWORE KD\nFRsu∈wso
+Dialogue: 0,00:22:32.66,00:22:28.33,神秘岛,,0,0,0,,°瓶8紫o\ndeNTine a suTes TsTs sureknsoR
+Dialogue: 0,00:22:33.00,00:22:28.33,神秘岛,,0,0,0,,ms是界s55eso
+Dialogue: 0,00:22:33.33,00:22:28.33,神秘岛,,0,0,0,,mc当5 ERT
+Dialogue: 0,00:22:34.33,00:22:28.33,神秘岛,,0,0,0,,I roDI,UE
+Dialogue: 0,00:22:34.66,00:22:28.33,神秘岛,,0,0,0,,H
+Dialogue: 0,00:22:35.33,00:22:28.33,神秘岛,,0,0,0,,EDITOR
+Dialogue: 0,00:22:36.00,00:22:28.33,神秘岛,,0,0,0,,CDwTH\n盟翻\nTOONCKN PRODUCTIONS\nrOST-PTODUCTTON SUNERTTSOR
+Dialogue: 0,00:22:36.33,00:22:37.00,神秘岛,,0,0,0,,TOONCKN PRODUCTIONs XII\nPOSTPRODUCTION SPCRTISOR
+Dialogue: 0,00:22:37.33,00:22:37.00,神秘岛,,0,0,0,,POSTP\nboDum O SuP RTISOR
+Dialogue: 0,00:22:37.66,00:22:37.00,神秘岛,,0,0,0,,rost-bs0euCE Bo sur wt\nsoum°s点pm\nsouto nERS
+Dialogue: 0,00:22:38.00,00:22:37.00,神秘岛,,0,0,0,,USTER IMeI
+Dialogue: 0,00:22:38.66,00:22:37.00,神秘岛,,0,0,0,,R
+Dialogue: 0,00:22:39.00,00:22:37.00,神秘岛,,0,0,0,,QuKLITY CONT
+Dialogue: 0,00:22:39.33,00:22:37.00,神秘岛,,0,0,0,,QuALm\nCREDIT
+Dialogue: 0,00:22:39.66,00:22:37.00,神秘岛,,0,0,0,,QUTLT) CONT\nEDIT\n-TORS
+Dialogue: 0,00:22:40.00,00:22:37.00,神秘岛,,0,0,0,,WL吧\nQuALTy Co
+Dialogue: 0,00:22:40.33,00:22:37.00,神秘岛,,0,0,0,,QuAUTY CO\nTECHHICAL\nORDINATOR
+Dialogue: 0,00:22:41.00,00:22:37.00,神秘岛,,0,0,0,,TECHNK
+Dialogue: 0,00:22:41.33,00:22:41.66,神秘岛,,0,0,0,,COOKDINTTOR\nPRODUCTION ISSISTAMT
+Dialogue: 0,00:22:42.00,00:22:42.33,神秘岛,,0,0,0,,PRODUCTION ISSISTIMT
+Dialogue: 0,00:22:42.66,00:22:42.33,神秘岛,,0,0,0,,SISTINT\nBeLue Dust
+Dialogue: 0,00:22:43.00,00:22:42.33,神秘岛,,0,0,0,,ex累
+Dialogue: 0,00:22:43.33,00:22:42.33,神秘岛,,0,0,0,,usyd anrT
+Dialogue: 0,00:22:43.66,00:22:42.33,神秘岛,,0,0,0,,PRODUC\nUNTANTS\n使
+Dialogue: 0,00:22:44.00,00:22:45.00,神秘岛,,0,0,0,,K CKNXDA-FRANCE CO- PRODUCTIO
+Dialogue: 0,00:22:45.33,00:22:45.00,神秘岛,,0,0,0,,x不F
+Dialogue: 0,00:22:45.66,00:22:45.00,神秘岛,,0,0,0,,u女吗\nueb
+Dialogue: 0,00:22:46.00,00:22:47.00,神秘岛,,0,0,0,,Quebec孙光舞\n吴乐声\nCanada
+Dialogue: 0,00:22:47.33,00:22:47.00,神秘岛,,0,0,0,,Canada\n编辑
+Dialogue: 0,00:22:47.66,00:22:48.00,神秘岛,,0,0,0,,Canada\n编辑\n黄金波\nPRODUCED IN KSSOCITTTO"m燕
+Dialogue: 0,00:22:48.33,00:22:48.66,神秘岛,,0,0,0,,黄金波\nPR。D∈ D IN KSsocImou n燕\nY
+Dialogue: 0,00:22:49.00,00:22:48.66,神秘岛,,0,0,0,,Y\n任编辑
+Dialogue: 0,00:22:49.33,00:22:49.66,神秘岛,,0,0,0,,贵任编辑\n邓锦绣\nIKTISTIC DIKECT
+Dialogue: 0,00:22:50.00,00:22:49.66,神秘岛,,0,0,0,,邓锦绣\n吴丽
+Dialogue: 0,00:22:50.33,00:22:49.66,神秘岛,,0,0,0,,ARTISTIC DIRECTOR uoC\nTE DE LEN"翻we
+Dialogue: 0,00:22:50.66,00:22:49.66,神秘岛,,0,0,0,,x累TsTc\n顾向\nSTer De t吧F
+Dialogue: 0,00:22:51.00,00:22:51.33,神秘岛,,0,0,0,,顾向\nm梁栋华
+Dialogue: 0,00:22:51.66,00:22:51.33,神秘岛,,0,0,0,,梁栋华\n2002·F2.en
+Dialogue: 0,00:22:52.00,00:22:53.33,神秘岛,,0,0,0,,ELLIPSANME\n出品人
+Dialogue: 0,00:22:53.66,00:22:53.33,神秘岛,,0,0,0,,ELLiPSAIME\n出品人\n张新华\nToohdon7M m
+Dialogue: 0,00:22:54.00,00:22:54.33,神秘岛,,0,0,0,,出品人\n张新华\nFood\n孙旭阳
+Dialogue: 0,00:22:54.66,00:22:55.33,神秘岛,,0,0,0,,广东蓝鸽英语传有屎公司
+Dialogue: 0,00:22:56.00,00:22:56.66,神秘岛,,0,0,0,,Y
+Dialogue: 0,00:23:01.33,00:22:56.66,神秘岛,,0,0,0,,计都
+Dialogue: 0,00:23:01.66,00:22:56.66,神秘岛,,0,0,0,,到传备
+Dialogue: 0,00:23:02.00,00:22:56.66,神秘岛,,0,0,0,,物舒
+Dialogue: 0,00:23:02.33,00:22:56.66,神秘岛,,0,0,0,,备
+Dialogue: 0,00:23:03.66,00:22:56.66,神秘岛,,0,0,0,,如情备
+Dialogue: 0,00:23:04.00,00:23:05.33,神秘岛,,0,0,0,,Go on! Movel
+Dialogue: 0,00:23:05.66,00:23:08.00,神秘岛,,0,0,0,,everyone in the square
+Dialogue: 0,00:23:08.33,00:23:11.33,神秘岛,,0,0,0,,they 'll soon be gone\n翻香右
+Dialogue: 0,00:23:12.33,00:23:11.33,神秘岛,,0,0,0,,审信吾
+Dialogue: 0,00:23:13.00,00:23:11.33,神秘岛,,0,0,0,,到(有备
+Dialogue: 0,00:23:13.33,00:23:11.33,神秘岛,,0,0,0,,到情舒
+Dialogue: 0,00:23:13.66,00:23:11.33,神秘岛,,0,0,0,,神到
+Dialogue: 0,00:23:14.33,00:23:11.33,神秘岛,,0,0,0,,吞
+Dialogue: 0,00:23:15.00,00:23:20.33,神秘岛,,0,0,0,,You would take eVerything\n门要桥走所
+Dialogue: 0,00:23:20.66,00:23:23.33,神秘岛,,0,0,0,,entire village starve?
+Dialogue: 0,00:23:23.66,00:23:24.00,神秘岛,,0,0,0,,The stron
+Dialogue: 0,00:23:24.33,00:23:24.00,神秘岛,,0,0,0,,The strong will SUrvive
+Dialogue: 0,00:23:24.66,00:23:24.00,神秘岛,,0,0,0,,The stro
+Dialogue: 0,00:23:25.00,00:23:25.33,神秘岛,,0,0,0,,The strong\nSUrvAy\n到
+Dialogue: 0,00:23:25.66,00:23:31.00,神秘岛,,0,0,0,,the People of the Sea
+Dialogue: 0,00:23:31.33,00:23:31.00,神秘岛,,0,0,0,,What aIv\n评备
+Dialogue: 0,00:23:31.66,00:23:32.33,神秘岛,,0,0,0,,What gives you the绚
+Dialogue: 0,00:23:32.66,00:23:32.33,神秘岛,,0,0,0,,nubiA
+Dialogue: 0,00:23:33.00,00:23:32.33,神秘岛,,0,0,0,,谁你这个
+Dialogue: 0,00:23:33.33,00:23:32.33,神秘岛,,0,0,0,,What gives you the riab
+Dialogue: 0,00:23:33.66,00:23:32.33,神秘岛,,0,0,0,,rightI\n评备
+Dialogue: 0,00:23:34.00,00:23:32.33,神秘岛,,0,0,0,,(备
+Dialogue: 0,00:23:34.33,00:23:36.33,神秘岛,,0,0,0,,This gives me
+Dialogue: 0,00:23:37.00,00:23:36.33,神秘岛,,0,0,0,,神知
+Dialogue: 0,00:23:37.33,00:23:36.33,神秘岛,,0,0,0,,店
+Dialogue: 0,00:23:37.66,00:23:39.33,神秘岛,,0,0,0,,Understood?
+Dialogue: 0,00:23:40.33,00:23:39.33,神秘岛,,0,0,0,,平后
+Dialogue: 0,00:23:41.00,00:23:39.33,神秘岛,,0,0,0,,西
+Dialogue: 0,00:23:41.33,00:23:39.33,神秘岛,,0,0,0,,网奇平
+Dialogue: 0,00:23:42.00,00:23:39.33,神秘岛,,0,0,0,,神6〔
+Dialogue: 0,00:23:42.33,00:23:44.33,神秘岛,,0,0,0,,That's betterl
+Dialogue: 0,00:23:45.33,00:23:48.33,神秘岛,,0,0,0,,almost too much to carry
+Dialogue: 0,00:23:48.66,00:23:48.33,神秘岛,,0,0,0,,不信
+Dialogue: 0,00:23:49.00,00:23:49.33,神秘岛,,0,0,0,,almost too much to carry
+Dialogue: 0,00:23:49.66,00:23:52.00,神秘岛,,0,0,0,,Good! Make the villagers help
+Dialogue: 0,00:23:52.33,00:23:57.00,神秘岛,,0,0,0,,bothered coming at al
+Dialogue: 0,00:23:57.33,00:24:00.33,神秘岛,,0,0,0,,runt, and his bodyguards\n不到付信
+Dialogue: 0,00:24:00.66,00:24:03.00,神秘岛,,0,0,0,,men will be leaving no\n到飞
+Dialogue: 0,00:24:03.33,00:24:05.66,神秘岛,,0,0,0,,first for frightening these people
+Dialogue: 0,00:24:10.33,00:24:05.66,神秘岛,,0,0,0,,1
+Dialogue: 0,00:24:10.66,00:24:05.66,神秘岛,,0,0,0,,N‖
+Dialogue: 0,00:24:22.66,00:24:05.66,神秘岛,,0,0,0,,分
+Dialogue: 0,00:24:24.00,00:24:05.66,神秘岛,,0,0,0,,爱
+Dialogue: 0,00:24:26.00,00:24:05.66,神秘岛,,0,0,0,,C
+Dialogue: 0,00:24:27.00,00:24:05.66,神秘岛,,0,0,0,,NE
+Dialogue: 0,00:24:27.33,00:24:28.00,神秘岛,,0,0,0,,交际英语即将出
+Dialogue: 0,00:24:28.33,00:24:28.00,神秘岛,,0,0,0,,NN画交际英语
+Dialogue: 0,00:24:28.66,00:24:29.00,神秘岛,,0,0,0,,交际英语\n即将播出
+Dialogue: 0,00:24:29.33,00:24:30.00,神秘岛,,0,0,0,,Nx交际英语
+Dialogue: 0,00:24:30.33,00:24:30.00,神秘岛,,0,0,0,,NN交际英语\n即将播出
+Dialogue: 0,00:24:30.66,00:24:30.00,神秘岛,,0,0,0,,vE交际英语解特
+Dialogue: 0,00:24:31.00,00:24:32.66,神秘岛,,0,0,0,,交际英语\n即将播出
+Dialogue: 0,00:24:33.00,00:24:34.66,神秘岛,,0,0,0,,交际英语\n即将播出
+Dialogue: 0,00:24:35.00,00:24:34.66,神秘岛,,0,0,0,,NEx交际英语。一特播出
+Dialogue: 0,00:24:35.33,00:24:36.33,神秘岛,,0,0,0,,N交际英语
+Dialogue: 0,00:24:36.66,00:24:38.00,神秘岛,,0,0,0,,NEx交际英语\n即将播出
+Dialogue: 0,00:24:38.33,00:24:38.00,神秘岛,,0,0,0,,TNx画交际英语一
+Dialogue: 0,00:24:38.66,00:24:40.00,神秘岛,,0,0,0,,Nx交际英语一请
+Dialogue: 0,00:24:40.33,00:24:40.00,神秘岛,,0,0,0,,NN交际英语\n即将播出
+Dialogue: 0,00:24:40.66,00:24:40.00,神秘岛,,0,0,0,,NEN交际英语一聊
+Dialogue: 0,00:24:41.00,00:24:41.33,神秘岛,,0,0,0,,交际英语\n即将播出
+Dialogue: 0,00:24:41.66,00:24:42.00,神秘岛,,0,0,0,,交际英语右
+Dialogue: 0,00:24:42.33,00:24:42.00,神秘岛,,0,0,0,,N交际英语\n即将播出
+Dialogue: 0,00:24:42.66,00:24:44.00,神秘岛,,0,0,0,,Nx交际英语。将
+Dialogue: 0,00:24:44.33,00:24:44.00,神秘岛,,0,0,0,,=
+Dialogue: 0,00:25:01.00,00:24:44.00,神秘岛,,0,0,0,,sta
+Dialogue: 0,00:25:05.66,00:24:44.00,神秘岛,,0,0,0,,F
+Dialogue: 0,00:25:10.66,00:24:44.00,神秘岛,,0,0,0,,基\ns
+Dialogue: 0,00:25:11.00,00:24:44.00,神秘岛,,0,0,0,,的《
+Dialogue: 0,00:25:12.00,00:25:12.33,神秘岛,,0,0,0,,入
+Dialogue: 0,00:25:12.66,00:25:12.33,神秘岛,,0,0,0,,4公
+Dialogue: 0,00:25:21.66,00:25:23.33,神秘岛,,0,0,0,,彭蒙惠
+Dialogue: 0,00:25:24.33,00:25:25.00,神秘岛,,0,0,0,,空中劳室
+Dialogue: 0,00:25:25.66,00:25:25.00,神秘岛,,0,0,0,,器的中正
+Dialogue: 0,00:25:26.00,00:25:25.00,神秘岛,,0,0,0,,空中弟做室
+Dialogue: 0,00:25:27.00,00:25:25.00,神秘岛,,0,0,0,,SteelmAn
+Dialogue: 0,00:25:27.33,00:25:27.66,神秘岛,,0,0,0,,Stavo Marth
+Dialogue: 0,00:25:28.00,00:25:28.33,神秘岛,,0,0,0,,a时 stove Marth.
+Dialogue: 0,00:25:28.66,00:25:28.33,神秘岛,,0,0,0,,TiMoti
+Dialogue: 0,00:25:29.33,00:25:28.33,神秘岛,,0,0,0,,Richel(sawatzky\nEitierknushinisky山m
+Dialogue: 0,00:25:29.66,00:25:28.33,神秘岛,,0,0,0,,山Rne过wnzk\nTEstier KrushninkyIHug
+Dialogue: 0,00:25:30.00,00:25:30.66,神秘岛,,0,0,0,,知山 Rachel Sawatzky\nEsther krushnisky urng
+Dialogue: 0,00:25:31.66,00:25:30.66,神秘岛,,0,0,0,,VEIMEOb CHID EwAld\nChelsoalewalda
+Dialogue: 0,00:25:32.00,00:25:33.00,神秘岛,,0,0,0,,SEW MOb Chip Ewald\nChelsea Ewaldi
+Dialogue: 0,00:25:34.00,00:25:33.00,神秘岛,,0,0,0,,M BOMis BroughaM
+Dialogue: 0,00:25:34.33,00:25:33.00,神秘岛,,0,0,0,,borSIBroughar\nKOniLegr
+Dialogue: 0,00:25:34.66,00:25:33.00,神秘岛,,0,0,0,,Hemo Dorls Brougham\nKomiTee
+Dialogue: 0,00:25:35.00,00:25:35.33,神秘岛,,0,0,0,,HUsnd Dodis Brougham\nRenee
+Dialogue: 0,00:25:35.66,00:25:35.33,神秘岛,,0,0,0,,ghat
+Dialogue: 0,00:25:36.66,00:25:35.33,神秘岛,,0,0,0,,lInda ludwig
+Dialogue: 0,00:25:37.00,00:25:35.33,神秘岛,,0,0,0,,属 r Vickie Potts\nLInda Ludwig
+Dialogue: 0,00:25:37.33,00:25:35.33,神秘岛,,0,0,0,,DImp pul\nSInpdeIEIA qU wEj
+Dialogue: 0,00:25:37.66,00:25:35.33,神秘岛,,0,0,0,,Linda ludwig
+Dialogue: 0,00:25:38.00,00:25:35.33,神秘岛,,0,0,0,,IncRI
+Dialogue: 0,00:25:38.66,00:25:35.33,神秘岛,,0,0,0,,W Beehive: n
+Dialogue: 0,00:25:39.00,00:25:39.33,神秘岛,,0,0,0,,Brandon Bryant
+Dialogue: 0,00:25:39.66,00:25:40.00,神秘岛,,0,0,0,,JEMMeOb Beth Well\nBrandoni Bryant
+Dialogue: 0,00:25:41.00,00:25:40.00,神秘岛,,0,0,0,,B心 JOhans\nHE LIZArcAOTA
+Dialogue: 0,00:25:41.33,00:25:42.00,神秘岛,,0,0,0,,击 Hazeldohansen\nLiz Archer
+Dialogue: 0,00:25:43.00,00:25:42.00,神秘岛,,0,0,0,,MaRina
+Dialogue: 0,00:25:43.33,00:25:42.00,神秘岛,,0,0,0,,SutON MIchrillaHo
+Dialogue: 0,00:25:43.66,00:25:42.00,神秘岛,,0,0,0,,VH Michelle to
+Dialogue: 0,00:25:44.33,00:25:42.00,神秘岛,,0,0,0,,Metro
+Dialogue: 0,00:25:47.00,00:25:42.00,神秘岛,,0,0,0,,=
+Dialogue: 0,00:25:53.00,00:25:42.00,神秘岛,,0,0,0,,,,,
+Dialogue: 0,00:25:54.66,00:25:42.00,神秘岛,,0,0,0,,teve
+Dialogue: 0,00:25:55.00,00:25:55.66,神秘岛,,0,0,0,,Steve
+Dialogue: 0,00:25:56.00,00:25:56.33,神秘岛,,0,0,0,,::::::\nSteve
+Dialogue: 0,00:25:56.66,00:25:57.00,神秘岛,,0,0,0,,∷∷\nsteve
+Dialogue: 0,00:25:57.33,00:25:57.66,神秘岛,,0,0,0,,Steve
+Dialogue: 0,00:25:58.33,00:25:57.66,神秘岛,,0,0,0,,::
+Dialogue: 0,00:26:00.66,00:25:57.66,神秘岛,,0,0,0,,睚
+Dialogue: 0,00:26:02.66,00:25:57.66,神秘岛,,0,0,0,,C可
+Dialogue: 0,00:26:10.33,00:25:57.66,神秘岛,,0,0,0,,C可y
+Dialogue: 0,00:26:11.66,00:25:57.66,神秘岛,,0,0,0,,C
+Dialogue: 0,00:26:12.00,00:25:57.66,神秘岛,,0,0,0,,C
+Dialogue: 0,00:26:12.66,00:25:57.66,神秘岛,,0,0,0,,Cu
+Dialogue: 0,00:26:13.66,00:25:57.66,神秘岛,,0,0,0,,Ly
+Dialogue: 0,00:26:14.33,00:25:57.66,神秘岛,,0,0,0,,sH
+Dialogue: 0,00:26:18.00,00:25:57.66,神秘岛,,0,0,0,,r
+Dialogue: 0,00:26:19.00,00:25:57.66,神秘岛,,0,0,0,,C
+Dialogue: 0,00:26:21.00,00:25:57.66,神秘岛,,0,0,0,,r
+Dialogue: 0,00:26:22.00,00:25:57.66,神秘岛,,0,0,0,,T
+Dialogue: 0,00:26:22.66,00:25:57.66,神秘岛,,0,0,0,,F
+Dialogue: 0,00:26:23.33,00:25:57.66,神秘岛,,0,0,0,,y
+Dialogue: 0,00:26:25.33,00:25:57.66,神秘岛,,0,0,0,,-D
+Dialogue: 0,00:26:26.66,00:26:28.00,神秘岛,,0,0,0,,sponsor (v)
+Dialogue: 0,00:26:28.33,00:26:28.00,神秘岛,,0,0,0,,Our universtiy sponsors6x闻
+Dialogue: 0,00:26:28.66,00:26:29.66,神秘岛,,0,0,0,,our untversity sponsors 5 exchange\nstudents wto spend one year studying here
+Dialogue: 0,00:26:30.00,00:26:30.66,神秘岛,,0,0,0,,Our university sponsors 45 exchange
+Dialogue: 0,00:26:31.00,00:26:33.33,神秘岛,,0,0,0,,A Our umivensly sponsors 45 exchange\nstudents who spemd ne year studly ng here.
+Dialogue: 0,00:26:33.66,00:26:33.33,神秘岛,,0,0,0,,our umitversny sponsors 405
+Dialogue: 0,00:26:34.00,00:26:33.33,神秘岛,,0,0,0,,university sponsors 45 @x间\ns wtro spend one year studying bree.
+Dialogue: 0,00:26:34.33,00:26:33.33,神秘岛,,0,0,0,,reci.onsors o exchang
+Dialogue: 0,00:26:34.66,00:26:37.66,神秘岛,,0,0,0,,recipient (n)
+Dialogue: 0,00:26:38.00,00:26:37.66,神秘岛,,0,0,0,,m邮p\nTrisha was trer soros w\npand
+Dialogue: 0,00:26:38.33,00:26:38.66,神秘岛,,0,0,0,,Trisha was her schools first Female\nGocuptent of the clyde sctence far awand
+Dialogue: 0,00:26:39.00,00:26:38.66,神秘岛,,0,0,0,,peMe s eneas eppo aw no luode\n可邮测画叫
+Dialogue: 0,00:26:39.33,00:26:38.66,神秘岛,,0,0,0,,Ttlsha was her schools rst female\nacupient of thre clyde sclence ar awand
+Dialogue: 0,00:26:39.66,00:26:38.66,神秘岛,,0,0,0,,pgMe 4IE0 OUBS epAMP e0 o luolan\n可更叫题圆
+Dialogue: 0,00:26:40.00,00:26:38.66,神秘岛,,0,0,0,,Trisha was ther schooP first Cemal\niplent of hre clyde selene fatr awand
+Dialogue: 0,00:26:40.33,00:26:41.33,神秘岛,,0,0,0,,TIsha was her schools sf female,\nrecipient of the clyde sclerae fa awad
+Dialogue: 0,00:26:41.66,00:26:41.33,神秘岛,,0,0,0,,pB apeg eames pptp emm a udpag\nq画圆
+Dialogue: 0,00:26:42.00,00:26:42.33,神秘岛,,0,0,0,,Trisha was ler schools (rst female
+Dialogue: 0,00:26:42.66,00:26:43.66,神秘岛,,0,0,0,,Trisha was hrer schools ftrst femal\nlpient of thre clyde science fatr awand
+Dialogue: 0,00:26:44.33,00:26:43.66,神秘岛,,0,0,0,,utdstna was hr scots flast temai\nGocpient of ore enywotde scanno (atr amend
+Dialogue: 0,00:26:45.00,00:26:43.66,神秘岛,,0,0,0,,c
+Dialogue: 0,00:26:46.00,00:26:43.66,神秘岛,,0,0,0,,Cy
+Dialogue: 0,00:26:47.33,00:26:43.66,神秘岛,,0,0,0,,△
+Dialogue: 0,00:26:48.00,00:26:43.66,神秘岛,,0,0,0,,cH
+Dialogue: 0,00:26:51.00,00:26:52.66,神秘岛,,0,0,0,,C
+Dialogue: 0,00:26:57.00,00:26:52.66,神秘岛,,0,0,0,,Stunt
+Dialogue: 0,00:26:57.33,00:26:52.66,神秘岛,,0,0,0,,Such
+Dialogue: 0,00:26:57.66,00:26:52.66,神秘岛,,0,0,0,,0
+Dialogue: 0,00:26:58.33,00:26:52.66,神秘岛,,0,0,0,,)\n神出
+Dialogue: 0,00:26:58.66,00:26:52.66,神秘岛,,0,0,0,,文胃\n中团做\nOss
+Dialogue: 0,00:26:59.00,00:26:52.66,神秘岛,,0,0,0,,9)1O上m\n那留本邮
+Dialogue: 0,00:26:59.33,00:26:52.66,神秘岛,,0,0,0,,orlitia\n月中SsO
+Dialogue: 0,00:26:59.66,00:26:52.66,神秘岛,,0,0,0,,課文請參閱\n产中固做\nOSSO
+Dialogue: 0,00:27:00.00,00:26:52.66,神秘岛,,0,0,0,,ridwan\n課文讀參閱\n空中語做室\nss「OO
+Dialogue: 0,00:27:00.33,00:26:52.66,神秘岛,,0,0,0,,rlelwid N\n课文睛參閱\nj空中語蜜
+Dialogue: 0,00:27:00.66,00:27:03.00,神秘岛,,0,0,0,,worldwid n\n課文請參閱\n虢空中弟語弦
+Dialogue: 0,00:27:03.33,00:27:03.00,神秘岛,,0,0,0,,orld n
+Dialogue: 0,00:27:03.66,00:27:26.66,神秘岛,,0,0,0,,Leadership FoundatioN ILE)AR\nWorldwid\ntulio Clossroo
+Dialogue: 0,00:27:27.00,00:27:29.00,神秘岛,,0,0,0,,Leadership Foundation (ILE)2\norld\nhu7clio CossrooI
+Dialogue: 0,00:27:29.33,00:27:48.66,神秘岛,,0,0,0,,Idents for leadership training\nrOwid\nhudlio CIossroo
+Dialogue: 0,00:27:49.00,00:27:51.00,神秘岛,,0,0,0,,governmental agencies1F5EE\nworldwid a\ntulio Clossroo
+Dialogue: 0,00:27:51.33,00:27:53.00,神秘岛,,0,0,0,,governmental agencies FaEe\norawia\nmichio ClassrooM
+Dialogue: 0,00:27:53.33,00:27:56.66,神秘岛,,0,0,0,,governmental agencies: i\nworldwid a
+Dialogue: 0,00:27:57.00,00:27:58.00,神秘岛,,0,0,0,,overnmental agencie\norld\nidio ClassrooM
+Dialogue: 0,00:27:58.33,00:27:58.66,神秘岛,,0,0,0,,Worldwid\nudo Classroom
+Dialogue: 0,00:27:59.00,00:27:58.66,神秘岛,,0,0,0,,ludo Glaisroc
+Dialogue: 0,00:27:59.33,00:27:58.66,神秘岛,,0,0,0,,OO
+Dialogue: 0,00:28:00.00,00:27:58.66,神秘岛,,0,0,0,,o88
+Dialogue: 0,00:28:00.66,00:27:58.66,神秘岛,,0,0,0,,(ission
+Dialogue: 0,00:28:01.00,00:27:58.66,神秘岛,,0,0,0,,RaICO
+Dialogue: 0,00:28:01.33,00:27:58.66,神秘岛,,0,0,0,,s3/cO0
+Dialogue: 0,00:28:01.66,00:27:58.66,神秘岛,,0,0,0,,病CC
+Dialogue: 0,00:28:02.00,00:27:58.66,神秘岛,,0,0,0,,!
+Dialogue: 0,00:28:02.33,00:27:58.66,神秘岛,,0,0,0,,sicor
+Dialogue: 0,00:28:04.33,00:28:07.33,神秘岛,,0,0,0,,Chip\nRachel
+Dialogue: 0,00:28:11.33,00:28:07.33,神秘岛,,0,0,0,,空中星
+Dialogue: 0,00:28:11.66,00:28:12.00,神秘岛,,0,0,0,,空中歟窑
+Dialogue: 0,00:28:12.33,00:28:12.00,神秘岛,,0,0,0,,空中弟語做宝
+Dialogue: 0,00:28:12.66,00:28:15.00,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:28:15.33,00:28:15.00,神秘岛,,0,0,0,,空中劳数
+Dialogue: 0,00:28:15.66,00:28:16.00,神秘岛,,0,0,0,,空中弟窟
+Dialogue: 0,00:28:16.33,00:28:16.00,神秘岛,,0,0,0,,空中英案
+Dialogue: 0,00:28:16.66,00:28:17.66,神秘岛,,0,0,0,,空中弟室
+Dialogue: 0,00:28:18.00,00:28:17.66,神秘岛,,0,0,0,,中西
+Dialogue: 0,00:28:18.33,00:28:17.66,神秘岛,,0,0,0,,空中英马
+Dialogue: 0,00:28:18.66,00:28:17.66,神秘岛,,0,0,0,,空中弟吗
+Dialogue: 0,00:28:19.00,00:28:17.66,神秘岛,,0,0,0,,史中弟蜜
+Dialogue: 0,00:28:19.33,00:28:21.66,神秘岛,,0,0,0,,空中劳吗
+Dialogue: 0,00:28:22.00,00:28:21.66,神秘岛,,0,0,0,,中中
+Dialogue: 0,00:28:22.33,00:28:22.66,神秘岛,,0,0,0,,空中劳
+Dialogue: 0,00:28:23.00,00:28:22.66,神秘岛,,0,0,0,,空中英号
+Dialogue: 0,00:28:23.33,00:28:24.33,神秘岛,,0,0,0,,空中吗盟
+Dialogue: 0,00:28:24.66,00:28:24.33,神秘岛,,0,0,0,,空中弟左
+Dialogue: 0,00:28:25.00,00:28:24.33,神秘岛,,0,0,0,,空中劳
+Dialogue: 0,00:28:25.33,00:28:25.66,神秘岛,,0,0,0,,空中弟吗程
+Dialogue: 0,00:28:26.00,00:28:27.33,神秘岛,,0,0,0,,中英
+Dialogue: 0,00:28:27.66,00:28:27.33,神秘岛,,0,0,0,,中弟牧
+Dialogue: 0,00:28:28.00,00:28:28.33,神秘岛,,0,0,0,,空中弟做室
+Dialogue: 0,00:28:28.66,00:28:28.33,神秘岛,,0,0,0,,空中英弦至
+Dialogue: 0,00:28:29.00,00:28:28.33,神秘岛,,0,0,0,,空中劳做室
+Dialogue: 0,00:28:29.33,00:28:28.33,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:28:29.66,00:28:30.00,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:28:30.33,00:28:30.00,神秘岛,,0,0,0,,空中弟函弦起
+Dialogue: 0,00:28:30.66,00:28:30.00,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:28:31.00,00:28:31.33,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:28:31.66,00:28:31.33,神秘岛,,0,0,0,,望中英室
+Dialogue: 0,00:28:32.00,00:28:33.00,神秘岛,,0,0,0,,空中弟室
+Dialogue: 0,00:28:33.33,00:28:33.00,神秘岛,,0,0,0,,空中做案
+Dialogue: 0,00:28:33.66,00:28:33.00,神秘岛,,0,0,0,,空中萌妄
+Dialogue: 0,00:28:34.00,00:28:34.33,神秘岛,,0,0,0,,空中英品弦
+Dialogue: 0,00:28:34.66,00:28:35.66,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:28:36.00,00:28:35.66,神秘岛,,0,0,0,,空中弟品
+Dialogue: 0,00:28:36.33,00:28:35.66,神秘岛,,0,0,0,,空中劳函號症
+Dialogue: 0,00:28:36.66,00:28:35.66,神秘岛,,0,0,0,,空中临室
+Dialogue: 0,00:28:37.00,00:28:35.66,神秘岛,,0,0,0,,空中伍家
+Dialogue: 0,00:28:37.33,00:28:35.66,神秘岛,,0,0,0,,空中英临室
+Dialogue: 0,00:28:37.66,00:28:38.00,神秘岛,,0,0,0,,空中弟號
+Dialogue: 0,00:28:38.33,00:28:38.00,神秘岛,,0,0,0,,空中明狱室
+Dialogue: 0,00:28:38.66,00:28:38.00,神秘岛,,0,0,0,,空中弟品
+Dialogue: 0,00:28:39.00,00:28:41.33,神秘岛,,0,0,0,,空中劳函弦室
+Dialogue: 0,00:28:41.66,00:28:42.00,神秘岛,,0,0,0,,空中弟賦
+Dialogue: 0,00:28:42.33,00:28:43.00,神秘岛,,0,0,0,,空中劳弦室
+Dialogue: 0,00:28:43.33,00:28:43.00,神秘岛,,0,0,0,,空中弟妄
+Dialogue: 0,00:28:43.66,00:28:43.00,神秘岛,,0,0,0,,空中英临装室
+Dialogue: 0,00:28:44.00,00:28:43.00,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:28:44.33,00:28:44.66,神秘岛,,0,0,0,,空中英临
+Dialogue: 0,00:28:45.00,00:28:45.33,神秘岛,,0,0,0,,空中劳赋室
+Dialogue: 0,00:28:45.66,00:28:46.33,神秘岛,,0,0,0,,空中弟窑
+Dialogue: 0,00:28:46.66,00:28:46.33,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:28:47.00,00:28:46.33,神秘岛,,0,0,0,,空中弟出
+Dialogue: 0,00:28:47.33,00:28:46.33,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:28:47.66,00:28:46.33,神秘岛,,0,0,0,,空中弟號盒
+Dialogue: 0,00:28:48.00,00:28:48.66,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:28:49.00,00:28:49.66,神秘岛,,0,0,0,,空中劳蜜
+Dialogue: 0,00:28:50.00,00:28:51.33,神秘岛,,0,0,0,,空中弟蜜
+Dialogue: 0,00:28:51.66,00:28:51.33,神秘岛,,0,0,0,,中英安
+Dialogue: 0,00:28:52.00,00:28:51.33,神秘岛,,0,0,0,,空中英致
+Dialogue: 0,00:28:52.33,00:28:51.33,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:28:52.66,00:28:51.33,神秘岛,,0,0,0,,空中英马
+Dialogue: 0,00:28:53.00,00:28:51.33,神秘岛,,0,0,0,,空中弟慰室
+Dialogue: 0,00:28:53.33,00:28:51.33,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:28:53.66,00:28:51.33,神秘岛,,0,0,0,,空中弟做蜜
+Dialogue: 0,00:28:54.00,00:28:51.33,神秘岛,,0,0,0,,空中牧
+Dialogue: 0,00:28:54.33,00:28:51.33,神秘岛,,0,0,0,,空中吗南
+Dialogue: 0,00:28:54.66,00:28:58.33,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:28:58.66,00:28:58.33,神秘岛,,0,0,0,,史中弟临蜜
+Dialogue: 0,00:28:59.00,00:28:58.33,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:28:59.33,00:28:58.33,神秘岛,,0,0,0,,空中劳吗致室
+Dialogue: 0,00:28:59.66,00:28:58.33,神秘岛,,0,0,0,,空中弟蜜
+Dialogue: 0,00:29:00.00,00:28:58.33,神秘岛,,0,0,0,,中端蜜
+Dialogue: 0,00:29:00.33,00:28:58.33,神秘岛,,0,0,0,,空中弟均致案
+Dialogue: 0,00:29:00.66,00:29:01.00,神秘岛,,0,0,0,,空中英弘
+Dialogue: 0,00:29:01.33,00:29:01.00,神秘岛,,0,0,0,,空中弟案
+Dialogue: 0,00:29:01.66,00:29:01.00,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:29:02.00,00:29:03.00,神秘岛,,0,0,0,,空中弟弘蜜
+Dialogue: 0,00:29:03.33,00:29:03.00,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:29:03.66,00:29:04.66,神秘岛,,0,0,0,,空中弟帖
+Dialogue: 0,00:29:05.00,00:29:05.33,神秘岛,,0,0,0,,空中劳室
+Dialogue: 0,00:29:05.66,00:29:06.00,神秘岛,,0,0,0,,空中弟吗
+Dialogue: 0,00:29:06.33,00:29:06.00,神秘岛,,0,0,0,,空中端
+Dialogue: 0,00:29:06.66,00:29:07.66,神秘岛,,0,0,0,,空中弟牧
+Dialogue: 0,00:29:08.00,00:29:08.33,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:29:08.66,00:29:09.00,神秘岛,,0,0,0,,空中弟吗蜜
+Dialogue: 0,00:29:09.33,00:29:09.00,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:29:09.66,00:29:09.00,神秘岛,,0,0,0,,空中弟蜜
+Dialogue: 0,00:29:10.00,00:29:11.66,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:29:12.00,00:29:12.33,神秘岛,,0,0,0,,空中弟歟窒
+Dialogue: 0,00:29:12.66,00:29:12.33,神秘岛,,0,0,0,,空中英础做室
+Dialogue: 0,00:29:13.00,00:29:15.00,神秘岛,,0,0,0,,空中劳室
+Dialogue: 0,00:29:15.33,00:29:15.00,神秘岛,,0,0,0,,空中春
+Dialogue: 0,00:29:15.66,00:29:15.00,神秘岛,,0,0,0,,中热密
+Dialogue: 0,00:29:16.00,00:29:16.33,神秘岛,,0,0,0,,空中劳室
+Dialogue: 0,00:29:16.66,00:29:17.33,神秘岛,,0,0,0,,空中美慰室
+Dialogue: 0,00:29:17.66,00:29:17.33,神秘岛,,0,0,0,,中
+Dialogue: 0,00:29:18.00,00:29:17.33,神秘岛,,0,0,0,,空中英数
+Dialogue: 0,00:29:18.33,00:29:19.33,神秘岛,,0,0,0,,空中美
+Dialogue: 0,00:29:19.66,00:29:20.00,神秘岛,,0,0,0,,空中法热密
+Dialogue: 0,00:29:20.33,00:29:20.00,神秘岛,,0,0,0,,应中美致程
+Dialogue: 0,00:29:20.66,00:29:21.00,神秘岛,,0,0,0,,空中美宿
+Dialogue: 0,00:29:21.33,00:29:21.00,神秘岛,,0,0,0,,应中美室
+Dialogue: 0,00:29:21.66,00:29:21.00,神秘岛,,0,0,0,,空中美
+Dialogue: 0,00:29:22.00,00:29:22.33,神秘岛,,0,0,0,,空中数密
+Dialogue: 0,00:29:22.66,00:29:22.33,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:29:23.00,00:29:22.33,神秘岛,,0,0,0,,空中美监室
+Dialogue: 0,00:29:23.33,00:29:22.33,神秘岛,,0,0,0,,应中美
+Dialogue: 0,00:29:23.66,00:29:24.33,神秘岛,,0,0,0,,空中美慰室
+Dialogue: 0,00:29:24.66,00:29:24.33,神秘岛,,0,0,0,,空中英数
+Dialogue: 0,00:29:25.00,00:29:24.33,神秘岛,,0,0,0,,空中美骷室
+Dialogue: 0,00:29:25.33,00:29:24.33,神秘岛,,0,0,0,,出中法热害
+Dialogue: 0,00:29:25.66,00:29:28.00,神秘岛,,0,0,0,,空中美龉骷室
+Dialogue: 0,00:29:28.33,00:29:28.00,神秘岛,,0,0,0,,空中续均软
+Dialogue: 0,00:29:28.66,00:29:28.00,神秘岛,,0,0,0,,空中美慰
+Dialogue: 0,00:29:29.00,00:29:28.00,神秘岛,,0,0,0,,空中劳室
+Dialogue: 0,00:29:29.33,00:29:28.00,神秘岛,,0,0,0,,空中美密
+Dialogue: 0,00:29:29.66,00:29:30.00,神秘岛,,0,0,0,,空中美慰室
+Dialogue: 0,00:29:30.33,00:29:30.00,神秘岛,,0,0,0,,空中法热致
+Dialogue: 0,00:29:30.66,00:29:30.00,神秘岛,,0,0,0,,空中数
+Dialogue: 0,00:29:31.00,00:29:30.00,神秘岛,,0,0,0,,空中劳密
+Dialogue: 0,00:29:31.33,00:29:32.00,神秘岛,,0,0,0,,空中美慰室
+Dialogue: 0,00:29:32.33,00:29:32.00,神秘岛,,0,0,0,,空中密
+Dialogue: 0,00:29:32.66,00:29:32.00,神秘岛,,0,0,0,,空中劳慰
+Dialogue: 0,00:29:33.00,00:29:33.33,神秘岛,,0,0,0,,空中美
+Dialogue: 0,00:29:33.66,00:29:33.33,神秘岛,,0,0,0,,空中弟做室
+Dialogue: 0,00:29:34.33,00:29:33.33,神秘岛,,0,0,0,,空中弟函號症
+Dialogue: 0,00:29:34.66,00:29:33.33,神秘岛,,0,0,0,,应中英话弦妄
+Dialogue: 0,00:29:35.00,00:29:35.33,神秘岛,,0,0,0,,空中仙號室
+Dialogue: 0,00:29:35.66,00:29:35.33,神秘岛,,0,0,0,,中话案
+Dialogue: 0,00:29:36.00,00:29:35.33,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:29:36.33,00:29:35.33,神秘岛,,0,0,0,,空中狱案
+Dialogue: 0,00:29:36.66,00:29:35.33,神秘岛,,0,0,0,,空中软室
+Dialogue: 0,00:29:37.33,00:29:35.33,神秘岛,,0,0,0,,空中芮鱼
+Dialogue: 0,00:29:37.66,00:29:38.66,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:29:39.00,00:29:38.66,神秘岛,,0,0,0,,空中英函號窟
+Dialogue: 0,00:29:39.33,00:29:38.66,神秘岛,,0,0,0,,空中弟伍
+Dialogue: 0,00:29:39.66,00:29:38.66,神秘岛,,0,0,0,,空中英函號室
+Dialogue: 0,00:29:40.00,00:29:38.66,神秘岛,,0,0,0,,中英
+Dialogue: 0,00:29:40.33,00:29:41.66,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:29:42.00,00:29:41.66,神秘岛,,0,0,0,,空中劳吗
+Dialogue: 0,00:29:42.33,00:29:42.66,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:29:43.00,00:29:42.66,神秘岛,,0,0,0,,空中萌吧
+Dialogue: 0,00:29:43.33,00:29:42.66,神秘岛,,0,0,0,,空中弟吗蜜
+Dialogue: 0,00:29:43.66,00:29:44.00,神秘岛,,0,0,0,,空中萌宰
+Dialogue: 0,00:29:44.33,00:29:44.00,神秘岛,,0,0,0,,空中劳
+Dialogue: 0,00:29:44.66,00:29:46.00,神秘岛,,0,0,0,,空中弟吗蜜
+Dialogue: 0,00:29:46.33,00:29:46.00,神秘岛,,0,0,0,,空中英弦室
+Dialogue: 0,00:29:46.66,00:29:49.00,神秘岛,,0,0,0,,空中弟数
+Dialogue: 0,00:29:49.33,00:29:49.00,神秘岛,,0,0,0,,空中典
+Dialogue: 0,00:29:49.66,00:29:50.00,神秘岛,,0,0,0,,空中弟吗
+Dialogue: 0,00:29:50.33,00:29:50.00,神秘岛,,0,0,0,,空中卖
+Dialogue: 0,00:29:50.66,00:29:51.33,神秘岛,,0,0,0,,空中弟吗
+Dialogue: 0,00:29:51.66,00:29:52.00,神秘岛,,0,0,0,,空中弟吗蜜
+Dialogue: 0,00:29:52.33,00:29:52.00,神秘岛,,0,0,0,,空中劳
+Dialogue: 0,00:29:52.66,00:29:52.00,神秘岛,,0,0,0,,空中英电
+Dialogue: 0,00:29:53.66,00:29:52.00,神秘岛,,0,0,0,,空中劳
+Dialogue: 0,00:29:54.33,00:29:57.66,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:29:58.00,00:29:57.66,神秘岛,,0,0,0,,空中劳数
+Dialogue: 0,00:29:58.33,00:29:58.66,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:29:59.00,00:29:59.33,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:29:59.66,00:29:59.33,神秘岛,,0,0,0,,空中弟吗批窟
+Dialogue: 0,00:30:00.00,00:29:59.33,神秘岛,,0,0,0,,空中劳晒室
+Dialogue: 0,00:30:00.33,00:30:02.00,神秘岛,,0,0,0,,空中弟弦左
+Dialogue: 0,00:30:02.33,00:30:02.66,神秘岛,,0,0,0,,空中弟吗
+Dialogue: 0,00:30:03.00,00:30:02.66,神秘岛,,0,0,0,,空中劳室
+Dialogue: 0,00:30:03.33,00:30:02.66,神秘岛,,0,0,0,,空中弟吗蜜
+Dialogue: 0,00:30:03.66,00:30:05.00,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:30:05.33,00:30:05.00,神秘岛,,0,0,0,,空中劳弦室
+Dialogue: 0,00:30:05.66,00:30:06.00,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:30:06.33,00:30:08.00,神秘岛,,0,0,0,,空中品室
+Dialogue: 0,00:30:08.33,00:30:08.00,神秘岛,,0,0,0,,空中萌出狱妄
+Dialogue: 0,00:30:08.66,00:30:08.00,神秘岛,,0,0,0,,空中劳品室
+Dialogue: 0,00:30:09.00,00:30:09.33,神秘岛,,0,0,0,,空中弟弦
+Dialogue: 0,00:30:09.66,00:30:09.33,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:30:10.00,00:30:09.33,神秘岛,,0,0,0,,空中號室
+Dialogue: 0,00:30:10.33,00:30:09.33,神秘岛,,0,0,0,,空中弟斅盒
+Dialogue: 0,00:30:10.66,00:30:09.33,神秘岛,,0,0,0,,空中伍弦室
+Dialogue: 0,00:30:11.00,00:30:11.33,神秘岛,,0,0,0,,空中弟函起
+Dialogue: 0,00:30:11.66,00:30:11.33,神秘岛,,0,0,0,,空中英伍弦室
+Dialogue: 0,00:30:12.00,00:30:12.66,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:30:13.00,00:30:12.66,神秘岛,,0,0,0,,空中弟弦室
+Dialogue: 0,00:30:13.33,00:30:12.66,神秘岛,,0,0,0,,拍西
+Dialogue: 0,00:30:13.66,00:30:14.00,神秘岛,,0,0,0,,空中弟號室
+Dialogue: 0,00:30:14.33,00:30:14.00,神秘岛,,0,0,0,,空中萌品弦妄
+Dialogue: 0,00:30:14.66,00:30:15.33,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:30:15.66,00:30:15.33,神秘岛,,0,0,0,,空中劳號室
+Dialogue: 0,00:30:16.00,00:30:15.33,神秘岛,,0,0,0,,空中话案
+Dialogue: 0,00:30:16.33,00:30:15.33,神秘岛,,0,0,0,,空中弟伍號室
+Dialogue: 0,00:30:16.66,00:30:17.33,神秘岛,,0,0,0,,空中品弦室
+Dialogue: 0,00:30:17.66,00:30:17.33,神秘岛,,0,0,0,,空中英品骗妄
+Dialogue: 0,00:30:18.00,00:30:17.33,神秘岛,,0,0,0,,空中做
+Dialogue: 0,00:30:18.33,00:30:17.33,神秘岛,,0,0,0,,空中弟伍症
+Dialogue: 0,00:30:18.66,00:30:17.33,神秘岛,,0,0,0,,空中弟涵做空
+Dialogue: 0,00:30:19.00,00:30:17.33,神秘岛,,0,0,0,,空中劳斅左
+Dialogue: 0,00:30:19.33,00:30:19.66,神秘岛,,0,0,0,,空中齬
+Dialogue: 0,00:30:20.00,00:30:19.66,神秘岛,,0,0,0,,空中英窗
+Dialogue: 0,00:30:20.66,00:30:19.66,神秘岛,,0,0,0,,空中劳做室
+Dialogue: 0,00:30:21.00,00:30:19.66,神秘岛,,0,0,0,,应中弟涵妄
+Dialogue: 0,00:30:21.33,00:30:19.66,神秘岛,,0,0,0,,空中弟出张妄
+Dialogue: 0,00:30:21.66,00:30:19.66,神秘岛,,0,0,0,,空中英温骗室
+Dialogue: 0,00:30:22.00,00:30:19.66,神秘岛,,0,0,0,,空中弟口妄
+Dialogue: 0,00:30:22.33,00:30:19.66,神秘岛,,0,0,0,,空中英装
+Dialogue: 0,00:30:22.66,00:30:19.66,神秘岛,,0,0,0,,空中骗
+Dialogue: 0,00:30:23.00,00:30:19.66,神秘岛,,0,0,0,,空中英品弦
+Dialogue: 0,00:30:23.33,00:30:19.66,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:30:23.66,00:30:24.66,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:30:25.00,00:30:24.66,神秘岛,,0,0,0,,2中弟语室
+Dialogue: 0,00:30:25.33,00:30:24.66,神秘岛,,0,0,0,,空中弟品面
+Dialogue: 0,00:30:25.66,00:30:24.66,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:30:26.00,00:30:24.66,神秘岛,,0,0,0,,空中弟吗
+Dialogue: 0,00:30:26.33,00:30:24.66,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:30:26.66,00:30:27.33,神秘岛,,0,0,0,,空中吗室
+Dialogue: 0,00:30:27.66,00:30:27.33,神秘岛,,0,0,0,,空中座
+Dialogue: 0,00:30:28.00,00:30:27.33,神秘岛,,0,0,0,,空中弟吗窟
+Dialogue: 0,00:30:28.33,00:30:27.33,神秘岛,,0,0,0,,空中劳
+Dialogue: 0,00:30:28.66,00:30:27.33,神秘岛,,0,0,0,,空中英只室
+Dialogue: 0,00:30:29.00,00:30:27.33,神秘岛,,0,0,0,,空中劳数
+Dialogue: 0,00:30:29.33,00:30:29.66,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:30:30.00,00:30:29.66,神秘岛,,0,0,0,,空中弟吗蜜
+Dialogue: 0,00:30:30.33,00:30:30.66,神秘岛,,0,0,0,,空中劳吗
+Dialogue: 0,00:30:31.00,00:30:31.33,神秘岛,,0,0,0,,中劳吗做蜜
+Dialogue: 0,00:30:31.66,00:30:32.33,神秘岛,,0,0,0,,空中数
+Dialogue: 0,00:30:32.66,00:30:33.33,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:30:34.00,00:30:33.33,神秘岛,,0,0,0,,空中英热窑
+Dialogue: 0,00:30:34.33,00:30:34.66,神秘岛,,0,0,0,,空中密
+Dialogue: 0,00:30:35.00,00:30:34.66,神秘岛,,0,0,0,,应中热室
+Dialogue: 0,00:30:35.33,00:30:34.66,神秘岛,,0,0,0,,空中客
+Dialogue: 0,00:30:36.00,00:30:36.33,神秘岛,,0,0,0,,应中法热點
+Dialogue: 0,00:30:36.66,00:30:36.33,神秘岛,,0,0,0,,空中续数密
+Dialogue: 0,00:30:37.00,00:30:37.33,神秘岛,,0,0,0,,应中法热點
+Dialogue: 0,00:30:37.66,00:30:37.33,神秘岛,,0,0,0,,空中数
+Dialogue: 0,00:30:38.00,00:30:37.33,神秘岛,,0,0,0,,应中密
+Dialogue: 0,00:30:38.33,00:30:37.33,神秘岛,,0,0,0,,应中法热
+Dialogue: 0,00:30:39.00,00:30:37.33,神秘岛,,0,0,0,,空中法點
+Dialogue: 0,00:30:39.66,00:30:37.33,神秘岛,,0,0,0,,应中热慰客
+Dialogue: 0,00:30:40.00,00:30:37.33,神秘岛,,0,0,0,,应中热数密
+Dialogue: 0,00:30:40.66,00:30:37.33,神秘岛,,0,0,0,,应中法點
+Dialogue: 0,00:30:41.66,00:30:37.33,神秘岛,,0,0,0,,B中热致
+Dialogue: 0,00:30:42.33,00:30:37.33,神秘岛,,0,0,0,,应中法热
+Dialogue: 0,00:30:42.66,00:30:43.00,神秘岛,,0,0,0,,空中数密
+Dialogue: 0,00:30:43.33,00:30:43.00,神秘岛,,0,0,0,,应中英密
+Dialogue: 0,00:30:43.66,00:30:43.00,神秘岛,,0,0,0,,空中法热點
+Dialogue: 0,00:30:44.33,00:30:43.00,神秘岛,,0,0,0,,应中美热慰密
+Dialogue: 0,00:30:44.66,00:30:45.00,神秘岛,,0,0,0,,空中数
+Dialogue: 0,00:30:46.00,00:30:45.00,神秘岛,,0,0,0,,应中密
+Dialogue: 0,00:30:46.33,00:30:45.00,神秘岛,,0,0,0,,空中法功點
+Dialogue: 0,00:30:46.66,00:30:45.00,神秘岛,,0,0,0,,空中英数密
+Dialogue: 0,00:30:47.00,00:30:47.33,神秘岛,,0,0,0,,应中法點密
+Dialogue: 0,00:30:47.66,00:30:48.00,神秘岛,,0,0,0,,中英密
+Dialogue: 0,00:30:48.33,00:30:48.00,神秘岛,,0,0,0,,空中热點
+Dialogue: 0,00:30:48.66,00:30:48.00,神秘岛,,0,0,0,,应中获热数密
+Dialogue: 0,00:30:49.33,00:30:50.00,神秘岛,,0,0,0,,应中法密
+Dialogue: 0,00:30:50.33,00:30:50.00,神秘岛,,0,0,0,,应中美热
+Dialogue: 0,00:30:51.33,00:30:50.00,神秘岛,,0,0,0,,空中英数客
+Dialogue: 0,00:30:51.66,00:30:50.00,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:30:52.00,00:30:54.00,神秘岛,,0,0,0,,应中热密
+Dialogue: 0,00:30:54.33,00:30:54.66,神秘岛,,0,0,0,,空中美室
+Dialogue: 0,00:30:55.00,00:30:54.66,神秘岛,,0,0,0,,空中英数密
+Dialogue: 0,00:30:55.33,00:30:54.66,神秘岛,,0,0,0,,空中美室
+Dialogue: 0,00:30:55.66,00:30:54.66,神秘岛,,0,0,0,,空中英数
+Dialogue: 0,00:30:56.00,00:30:54.66,神秘岛,,0,0,0,,空中美
+Dialogue: 0,00:30:56.33,00:30:57.33,神秘岛,,0,0,0,,空中美點室
+Dialogue: 0,00:30:57.66,00:30:58.66,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:30:59.00,00:30:58.66,神秘岛,,0,0,0,,F中端
+Dialogue: 0,00:30:59.33,00:30:59.66,神秘岛,,0,0,0,,空中弟室
+Dialogue: 0,00:31:00.00,00:30:59.66,神秘岛,,0,0,0,,空中劳础骑
+Dialogue: 0,00:31:00.33,00:30:59.66,神秘岛,,0,0,0,,中类
+Dialogue: 0,00:31:00.66,00:31:01.66,神秘岛,,0,0,0,,空中劳弦
+Dialogue: 0,00:31:02.00,00:31:01.66,神秘岛,,0,0,0,,空中第狱室
+Dialogue: 0,00:31:02.33,00:31:01.66,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:31:02.66,00:31:01.66,神秘岛,,0,0,0,,空中英伍
+Dialogue: 0,00:31:03.00,00:31:01.66,神秘岛,,0,0,0,,中弟固病妄
+Dialogue: 0,00:31:03.33,00:31:01.66,神秘岛,,0,0,0,,空中筛品窟
+Dialogue: 0,00:31:03.66,00:31:01.66,神秘岛,,0,0,0,,空中號索
+Dialogue: 0,00:31:04.00,00:31:01.66,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:31:04.33,00:31:01.66,神秘岛,,0,0,0,,空中伍室
+Dialogue: 0,00:31:04.66,00:31:01.66,神秘岛,,0,0,0,,空中弟號窟
+Dialogue: 0,00:31:05.00,00:31:01.66,神秘岛,,0,0,0,,空中英函臂空
+Dialogue: 0,00:31:05.33,00:31:01.66,神秘岛,,0,0,0,,空中涵做室
+Dialogue: 0,00:31:05.66,00:31:01.66,神秘岛,,0,0,0,,在中美出做套
+Dialogue: 0,00:31:06.00,00:31:01.66,神秘岛,,0,0,0,,中室
+Dialogue: 0,00:31:06.33,00:31:01.66,神秘岛,,0,0,0,,空中弟伍
+Dialogue: 0,00:31:06.66,00:31:01.66,神秘岛,,0,0,0,,空中號
+Dialogue: 0,00:31:07.00,00:31:01.66,神秘岛,,0,0,0,,空中临狗室
+Dialogue: 0,00:31:07.33,00:31:07.66,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:31:08.00,00:31:08.33,神秘岛,,0,0,0,,空中弟號空
+Dialogue: 0,00:31:08.66,00:31:09.00,神秘岛,,0,0,0,,空中劳室
+Dialogue: 0,00:31:09.33,00:31:09.00,神秘岛,,0,0,0,,空中弟品案
+Dialogue: 0,00:31:09.66,00:31:09.00,神秘岛,,0,0,0,,空中烯號室
+Dialogue: 0,00:31:10.00,00:31:09.00,神秘岛,,0,0,0,,空中狗
+Dialogue: 0,00:31:10.33,00:31:09.00,神秘岛,,0,0,0,,空中弟號
+Dialogue: 0,00:31:10.66,00:31:09.00,神秘岛,,0,0,0,,中弦室
+Dialogue: 0,00:31:11.00,00:31:09.00,神秘岛,,0,0,0,,空中劳函弦左
+Dialogue: 0,00:31:11.33,00:31:16.33,神秘岛,,0,0,0,,空中劳品做室
+Dialogue: 0,00:31:16.66,00:31:17.00,神秘岛,,0,0,0,,空中英函弦
+Dialogue: 0,00:31:17.33,00:31:17.00,神秘岛,,0,0,0,,面成
+Dialogue: 0,00:31:18.00,00:31:17.00,神秘岛,,0,0,0,,空中端伍室
+Dialogue: 0,00:31:18.33,00:31:20.66,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:31:21.00,00:31:20.66,神秘岛,,0,0,0,,空中弟弦室
+Dialogue: 0,00:31:21.33,00:31:20.66,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:31:21.66,00:31:22.00,神秘岛,,0,0,0,,空中劳吗批
+Dialogue: 0,00:31:22.33,00:31:23.00,神秘岛,,0,0,0,,空中劳弦左
+Dialogue: 0,00:31:23.33,00:31:23.00,神秘岛,,0,0,0,,空中马宰
+Dialogue: 0,00:31:23.66,00:31:23.00,神秘岛,,0,0,0,,空中劳
+Dialogue: 0,00:31:24.00,00:31:23.00,神秘岛,,0,0,0,,空中类室
+Dialogue: 0,00:31:24.33,00:31:23.00,神秘岛,,0,0,0,,空中英安
+Dialogue: 0,00:31:24.66,00:31:25.00,神秘岛,,0,0,0,,空中室
+Dialogue: 0,00:31:25.33,00:31:27.33,神秘岛,,0,0,0,,空中劳慰
+Dialogue: 0,00:31:27.66,00:31:28.33,神秘岛,,0,0,0,,空中弟室
+Dialogue: 0,00:31:28.66,00:31:28.33,神秘岛,,0,0,0,,空中第吗
+Dialogue: 0,00:31:29.00,00:31:31.33,神秘岛,,0,0,0,,空中
+Dialogue: 0,00:31:31.66,00:31:33.00,神秘岛,,0,0,0,,中
+Dialogue: 0,00:31:33.33,00:31:33.00,神秘岛,,0,0,0,,望劳
+Dialogue: 0,00:31:33.66,00:31:34.33,神秘岛,,0,0,0,,空中弟吗窟
+Dialogue: 0,00:31:34.66,00:31:34.33,神秘岛,,0,0,0,,空中劳慰左
+Dialogue: 0,00:31:35.00,00:31:35.33,神秘岛,,0,0,0,,空中弟吗
+Dialogue: 0,00:31:35.66,00:31:35.33,神秘岛,,0,0,0,,空中劳慰
+Dialogue: 0,00:31:37.00,00:31:35.33,神秘岛,,0,0,0,,钟英室
+Dialogue: 0,00:31:37.33,00:31:35.33,神秘岛,,0,0,0,,空中荣起
+Dialogue: 0,00:31:37.66,00:31:38.00,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:31:38.33,00:31:38.66,神秘岛,,0,0,0,,空中英室
+Dialogue: 0,00:31:39.00,00:31:40.66,神秘岛,,0,0,0,,空中劳
+Dialogue: 0,00:31:41.00,00:31:41.33,神秘岛,,0,0,0,,空中弟室
+Dialogue: 0,00:31:41.66,00:31:41.33,神秘岛,,0,0,0,,空中劳监窟
+Dialogue: 0,00:31:42.00,00:31:42.33,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:31:42.66,00:31:43.33,神秘岛,,0,0,0,,空中热室
+Dialogue: 0,00:31:43.66,00:31:44.33,神秘岛,,0,0,0,,空中吗
+Dialogue: 0,00:31:45.00,00:31:44.33,神秘岛,,0,0,0,,史中劳密
+Dialogue: 0,00:31:45.33,00:31:46.00,神秘岛,,0,0,0,,史中弟吗
+Dialogue: 0,00:31:46.33,00:31:46.00,神秘岛,,0,0,0,,空中英
+Dialogue: 0,00:31:46.66,00:31:47.00,神秘岛,,0,0,0,,空中弟蜜
+Dialogue: 0,00:31:47.33,00:31:47.00,神秘岛,,0,0,0,,空中英马
+Dialogue: 0,00:31:47.66,00:31:47.00,神秘岛,,0,0,0,,品钟中西
+Dialogue: 0,00:31:48.00,00:31:48.66,神秘岛,,0,0,0,,空中窟
+Dialogue: 0,00:31:49.00,00:31:48.66,神秘岛,,0,0,0,,空中弟蜜
+Dialogue: 0,00:31:49.33,00:31:48.66,神秘岛,,0,0,0,,空中满
+Dialogue: 0,00:31:49.66,00:31:48.66,神秘岛,,0,0,0,,空中英马
+Dialogue: 0,00:31:50.00,00:31:53.00,神秘岛,,0,0,0,,空中弟
+Dialogue: 0,00:31:58.00,00:31:53.00,神秘岛,,0,0,0,,0
+Dialogue: 0,00:31:58.33,00:31:53.00,神秘岛,,0,0,0,,0&N
+Dialogue: 0,00:32:00.00,00:31:53.00,神秘岛,,0,0,0,,ONI aJoW
+Dialogue: 0,00:32:00.33,00:31:53.00,神秘岛,,0,0,0,,lore INFO
+Dialogue: 0,00:32:00.66,00:32:02.33,神秘岛,,0,0,0,,More info
+Dialogue: 0,00:32:02.66,00:32:04.33,神秘岛,,0,0,0,,M\nore\nINFO
+Dialogue: 0,00:32:04.66,00:32:06.33,神秘岛,,0,0,0,,More nto
+Dialogue: 0,00:32:06.66,00:32:07.33,神秘岛,,0,0,0,,More INFO
+Dialogue: 0,00:32:07.66,00:32:18.66,神秘岛,,0,0,0,,More nto
+Dialogue: 0,00:32:19.00,00:32:18.66,神秘岛,,0,0,0,,More INFO
+Dialogue: 0,00:32:19.33,00:32:18.66,神秘岛,,0,0,0,,ore\nN
+Dialogue: 0,00:32:19.66,00:32:20.00,神秘岛,,0,0,0,,More INFO
+Dialogue: 0,00:32:20.33,00:32:20.00,神秘岛,,0,0,0,,More\nN\n0
+Dialogue: 0,00:32:20.66,00:32:22.33,神秘岛,,0,0,0,,More info
+Dialogue: 0,00:32:22.66,00:32:23.33,神秘岛,,0,0,0,,More INFO
+Dialogue: 0,00:32:23.66,00:32:24.00,神秘岛,,0,0,0,,More nto
+Dialogue: 0,00:32:24.33,00:32:24.00,神秘岛,,0,0,0,,OINI iOW
+Dialogue: 0,00:32:24.66,00:32:25.33,神秘岛,,0,0,0,,More nto
+Dialogue: 0,00:32:25.66,00:32:26.00,神秘岛,,0,0,0,,More INFO
+Dialogue: 0,00:32:26.33,00:32:26.66,神秘岛,,0,0,0,,More info
+Dialogue: 0,00:32:27.00,00:32:26.66,神秘岛,,0,0,0,,ore\nN\n0
+Dialogue: 0,00:32:27.33,00:32:28.00,神秘岛,,0,0,0,,More nto
+Dialogue: 0,00:32:28.33,00:32:28.00,神秘岛,,0,0,0,,ONI 3JOW
+Dialogue: 0,00:32:28.66,00:32:28.00,神秘岛,,0,0,0,,ore\nN
+Dialogue: 0,00:32:29.00,00:32:30.33,神秘岛,,0,0,0,,More nto
+Dialogue: 0,00:32:30.66,00:32:30.33,神秘岛,,0,0,0,,More\nN\n下0
+Dialogue: 0,00:32:31.00,00:32:31.33,神秘岛,,0,0,0,,More nro
+Dialogue: 0,00:32:31.66,00:32:31.33,神秘岛,,0,0,0,,U0
+Dialogue: 0,00:32:35.00,00:32:31.33,神秘岛,,0,0,0,,k
+Dialogue: 0,00:32:36.00,00:32:31.33,神秘岛,,0,0,0,,a
+Dialogue: 0,00:32:37.66,00:32:31.33,神秘岛,,0,0,0,,k
+Dialogue: 0,00:32:42.00,00:32:31.33,神秘岛,,0,0,0,,永
+Dialogue: 0,00:32:42.33,00:32:31.33,神秘岛,,0,0,0,,R
+Dialogue: 0,00:32:43.66,00:32:59.66,神秘岛,,0,0,0,,sponsor
+Dialogue: 0,00:33:01.33,00:32:59.66,神秘岛,,0,0,0,,H
+Dialogue: 0,00:33:01.66,00:32:59.66,神秘岛,,0,0,0,,e
+Dialogue: 0,00:33:04.66,00:32:59.66,神秘岛,,0,0,0,,H
+Dialogue: 0,00:33:07.00,00:32:59.66,神秘岛,,0,0,0,,p
+Dialogue: 0,00:33:14.66,00:33:31.33,神秘岛,,0,0,0,,recipient
+Dialogue: 0,00:33:39.00,00:33:40.66,神秘岛,,0,0,0,,=
+Dialogue: 0,00:33:42.33,00:34:00.66,神秘岛,,0,0,0,,internship
+Dialogue: 0,00:34:01.00,00:34:02.33,神秘岛,,0,0,0,,tenshin
+Dialogue: 0,00:34:06.33,00:34:02.33,神秘岛,,0,0,0,,产
+Dialogue: 0,00:34:07.66,00:34:02.33,神秘岛,,0,0,0,,H
+Dialogue: 0,00:34:11.66,00:34:02.33,神秘岛,,0,0,0,,ck\nK
+Dialogue: 0,00:34:12.00,00:34:02.33,神秘岛,,0,0,0,,Vickie
+Dialogue: 0,00:34:12.33,00:34:02.33,神秘岛,,0,0,0,,了k=K
+Dialogue: 0,00:34:12.66,00:34:02.33,神秘岛,,0,0,0,,vick\nKen
+Dialogue: 0,00:34:13.33,00:34:02.33,神秘岛,,0,0,0,,Ken
+Dialogue: 0,00:34:13.66,00:34:15.00,神秘岛,,0,0,0,,ckie - ken
+Dialogue: 0,00:34:21.00,00:34:32.00,神秘岛,,0,0,0,,public servant
+Dialogue: 0,00:34:32.33,00:34:32.00,神秘岛,,0,0,0,,". seggar
+Dialogue: 0,00:34:32.66,00:34:59.33,神秘岛,,0,0,0,,public sector
+Dialogue: 0,00:34:59.66,00:34:59.33,神秘岛,,0,0,0,,等pked
+Dialogue: 0,00:35:00.00,00:35:04.33,神秘岛,,0,0,0,,:public sector
+Dialogue: 0,00:35:04.66,00:35:08.33,神秘岛,,0,0,0,,private sector
+Dialogue: 0,00:35:08.66,00:35:08.33,神秘岛,,0,0,0,,sate ceder
+Dialogue: 0,00:35:09.00,00:35:16.00,神秘岛,,0,0,0,,private citizen
+Dialogue: 0,00:35:16.33,00:35:28.66,神秘岛,,0,0,0,,public servant
+Dialogue: 0,00:35:29.00,00:35:28.66,神秘岛,,0,0,0,,aNile Su rraG:
+Dialogue: 0,00:35:29.33,00:35:37.66,神秘岛,,0,0,0,,public sector
+Dialogue: 0,00:35:38.00,00:35:53.66,神秘岛,,0,0,0,,private-sector
+Dialogue: 0,00:35:54.00,00:35:53.66,神秘岛,,0,0,0,,c; service ex洪r:
+Dialogue: 0,00:35:54.33,00:35:57.00,神秘岛,,0,0,0,,civil service examination
+Dialogue: 0,00:35:57.33,00:35:57.00,神秘岛,,0,0,0,,avIce eRatH:o:
+Dialogue: 0,00:35:57.66,00:35:58.00,神秘岛,,0,0,0,,appointed
+Dialogue: 0,00:35:58.33,00:35:58.00,神秘岛,,0,0,0,,palujoddp
+Dialogue: 0,00:35:58.66,00:36:18.66,神秘岛,,0,0,0,,appointed
+Dialogue: 0,00:36:19.00,00:36:21.00,神秘岛,,0,0,0,,appoint
+Dialogue: 0,00:36:21.33,00:36:21.00,神秘岛,,0,0,0,,哪了apom
+Dialogue: 0,00:36:21.66,00:36:23.33,神秘岛,,0,0,0,,appoint
+Dialogue: 0,00:36:23.66,00:36:30.00,神秘岛,,0,0,0,,named
+Dialogue: 0,00:36:30.33,00:36:30.00,神秘岛,,0,0,0,,等\nciv: named
+Dialogue: 0,00:36:30.66,00:36:30.00,神秘岛,,0,0,0,,; ervice exc,:∷
+Dialogue: 0,00:36:31.00,00:36:37.66,神秘岛,,0,0,0,,service examination
+Dialogue: 0,00:36:39.33,00:36:41.33,神秘岛,,0,0,0,,Dont go aways\nWell be right back
+Dialogue: 0,00:36:48.33,00:36:41.33,神秘岛,,0,0,0,,0
+Dialogue: 0,00:36:53.33,00:36:41.33,神秘岛,,0,0,0,,11:
+Dialogue: 0,00:37:00.66,00:37:04.00,神秘岛,,0,0,0,,C
+Dialogue: 0,00:37:08.00,00:37:04.00,神秘岛,,0,0,0,,PC减
+Dialogue: 0,00:37:08.33,00:37:04.00,神秘岛,,0,0,0,,PGO
+Dialogue: 0,00:37:09.33,00:37:04.00,神秘岛,,0,0,0,,s
+Dialogue: 0,00:37:24.33,00:37:26.33,神秘岛,,0,0,0,,negotiation(n)
+Dialogue: 0,00:37:26.66,00:37:27.00,神秘岛,,0,0,0,,ha negotiatio.\nand manayamedotiation(n)
+Dialogue: 0,00:37:27.33,00:37:35.00,神秘岛,,0,0,0,,he negotiation proeess between (e abarunion
+Dialogue: 0,00:37:35.33,00:37:37.66,神秘岛,,0,0,0,,congressman(n)
+Dialogue: 0,00:37:38.00,00:37:38.66,神秘岛,,0,0,0,,My laler callao\nocomplado afooassman(n)
+Dialogue: 0,00:37:39.00,00:37:38.66,神秘岛,,0,0,0,,da顶甲moq\nuewsso16uoa(Beon Do peINe EnREjAW
+Dialogue: 0,00:37:39.33,00:37:43.66,神秘岛,,0,0,0,,My falher called our loeal congressman
+Dialogue: 0,00:37:44.00,00:37:43.66,神秘岛,,0,0,0,,8d0顶0p邮甲omo\nUBussoI6uos (Baon mo peno Jene)AW
+Dialogue: 0,00:37:44.33,00:37:45.66,神秘岛,,0,0,0,,My falher called our local congressman
+Dialogue: 0,00:37:46.33,00:37:45.66,神秘岛,,0,0,0,,L
+Dialogue: 0,00:37:47.33,00:37:48.33,神秘岛,,0,0,0,,C
+Dialogue: 0,00:37:48.66,00:37:48.33,神秘岛,,0,0,0,,L
+Dialogue: 0,00:37:49.00,00:37:48.33,神秘岛,,0,0,0,,ir
+Dialogue: 0,00:37:54.33,00:37:48.33,神秘岛,,0,0,0,,会
+Dialogue: 0,00:37:55.33,00:37:48.33,神秘岛,,0,0,0,,su今
+Dialogue: 0,00:37:56.00,00:37:48.33,神秘岛,,0,0,0,,(
+Dialogue: 0,00:37:57.00,00:37:48.33,神秘岛,,0,0,0,,文\n月璺\n中类出套\nOsSIE
+Dialogue: 0,00:37:57.33,00:37:48.33,神秘岛,,0,0,0,,S￥將中S0
+Dialogue: 0,00:37:57.66,00:37:48.33,神秘岛,,0,0,0,,orllwld
+Dialogue: 0,00:37:58.00,00:37:48.33,神秘岛,,0,0,0,,O1s59)m4\n叫哥訓x齟
+Dialogue: 0,00:37:58.33,00:37:48.33,神秘岛,,0,0,0,,orionids\n文睛參\nss「OO
+Dialogue: 0,00:37:58.66,00:37:59.66,神秘岛,,0,0,0,,Worldwid n\n課文睛參閱\n虢空中弟語軾妄\nss「OO
+Dialogue: 0,00:38:00.00,00:37:59.66,神秘岛,,0,0,0,,翠加中正\nx額
+Dialogue: 0,00:38:00.33,00:38:01.66,神秘岛,,0,0,0,,orldwid n\n課文睛參閱\n弧空中弟語
+Dialogue: 0,00:38:02.00,00:38:02.33,神秘岛,,0,0,0,,worldwid n\nlucio Clossroo
+Dialogue: 0,00:38:02.66,00:38:02.33,神秘岛,,0,0,0,,& PIMpLe\n每 wQBwagPquuV bunoAw'suppuauy
+Dialogue: 0,00:38:03.00,00:38:12.00,神秘岛,,0,0,0,,Americans, "Young Ambassadors a\nworldwid s\njuicio Classroom
+Dialogue: 0,00:38:12.33,00:38:12.00,神秘岛,,0,0,0,,o p:ds, patung AIgwas-dofS4a\nrowid\ntulio ClassrooM
+Dialogue: 0,00:38:12.66,00:38:18.00,神秘岛,,0,0,0,,on public policy, businessS\nWorldwid.\ntulio Clossroo
+Dialogue: 0,00:38:18.33,00:38:35.33,神秘岛,,0,0,0,,government offices, and they\nworldwide
+Dialogue: 0,00:38:35.66,00:38:41.33,神秘岛,,0,0,0,,government leaders.囱鸦租\nworldwid n\ntullio ClassrooM
+Dialogue: 0,00:38:41.66,00:38:41.33,神秘岛,,0,0,0,,government leaders.翻\norld e\ntulio ClassrooM
+Dialogue: 0,00:38:42.00,00:38:43.66,神秘岛,,0,0,0,,government leaders.幽\norld n\nhuiclio Clossroo
+Dialogue: 0,00:38:44.00,00:38:43.66,神秘岛,,0,0,0,,government leaders.幽\nrowid\ntulio Classroom
+Dialogue: 0,00:38:44.33,00:38:45.66,神秘岛,,0,0,0,,government leaders.幽跑\nrowid s\nclio ClassroOm
+Dialogue: 0,00:38:46.00,00:38:51.66,神秘岛,,0,0,0,,enthusiasm and experience tod\nworldwid e\nhuclio Clossroo

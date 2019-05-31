@@ -93,6 +93,7 @@ def time_the_sub(filepath=""):
     current_sub = ""
     current_sub_probability = 0
     start_time = ""
+    end_time = ""
     ass_file_content = ass_file_header
 
     for index in range(sub_count + 1):
@@ -106,11 +107,12 @@ def time_the_sub(filepath=""):
         if string_similarity(current_sub, content) < 0.6 or probability < 0.6:
 
             if current_sub == "":
-                # 2.1 Found New Sub
+                # 3 Found First Sub
                 current_sub = content
                 start_time = frame_time
+                end_time = frame_time
             else:
-                # 2.2 Break The Track, Store Cache As Sub
+                # 4 Break The Track, Store Cache As Sub
                 print(start_time, end_time, current_sub)
                 sub_content = "\nDialogue: 0,%s,%s,神秘岛,,0,0,0,,%s" %(start_time[:-1], end_time[:-1], current_sub)
                 ass_file_content += sub_content
@@ -122,7 +124,7 @@ def time_the_sub(filepath=""):
 
             continue
 
-        # 3.Choice The sub with Highest probability
+        # 5.Choice The sub with Highest probability
         if probability > current_sub_probability:
             current_sub = content
 
@@ -132,5 +134,16 @@ def time_the_sub(filepath=""):
         f.write(ass_file_content)
 
 if __name__ == '__main__':
-    time_the_sub(r"result_output_32.mp4.json")
+    for result in [
+        "result_output_32.mp4.json",
+        "result_output_33.mp4.json",
+        "result_output_34.mp4.json",
+        "result_output_35.mp4.json",
+        "result_output_36.mp4.json",
+        "result_output_37.mp4.json",
+        "result_output_38.mp4.json",
+        "result_output_39.mp4.json",
+        "result_output_40.mp4.json",
+    ]:
+        time_the_sub(result)
     # test_string_similarity()
