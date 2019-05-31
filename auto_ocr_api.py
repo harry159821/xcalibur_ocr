@@ -123,5 +123,9 @@ def processOcr(pathOut):
         f.write(json.dumps(failed_json))
 
 if __name__ == '__main__':
-    for pathOut in ['output_40.mp4']:
+    for pathOut in [
+        'output_32.mp4',
+        'output_33.mp4',
+        'output_34.mp4',
+    ]:
         processOcr(pathOut)

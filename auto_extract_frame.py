@@ -23,7 +23,7 @@ def extractImages(pathIn, pathOut):
 
     count = 0
     # skip by 300ms
-    time_step = 300 / 1000
+    time_step = 200 / 1000
     last_time = 0
 
     while(vidcap.isOpened()):
@@ -32,8 +32,7 @@ def extractImages(pathIn, pathOut):
         if frame_exists:
             seconds = count/fps
             # skip by 300ms, about 4000 image for one 24min video
-            if seconds - last_time > time_step:
-                last_time = seconds
+            if (seconds - last_time) > time_step:
                 str_time = format_timedelta(seconds)
 
                 # Cut from (0, 184) -> (352, 264)
@@ -45,8 +44,10 @@ def extractImages(pathIn, pathOut):
                 # if not(64 < seconds < 74):
                 #     continue
 
-                print('Save frame at', str_time)
+                print(pathIn, 'Save frame at', str_time, "duration detected:", seconds - last_time, time_step)
                 cv2.imwrite(pathOut + "\\frame%s.jpg" % str_time, text_frame_crop)
+
+                last_time = seconds
         else:
             break
 
