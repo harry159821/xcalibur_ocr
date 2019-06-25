@@ -3,6 +3,7 @@ import json
 import traceback
 import os
 import sys
+import re
 from difflib import SequenceMatcher
 import pathlib
 
@@ -69,6 +70,33 @@ def test_string_similarity():
     print(string_similarity(str6, str7))
 
 def remove_no_chinese(string):
+    # text = "English!?:; 中文！？：；"
+    pattern = "[\u0391-\uffe5]+"
+    regex = re.compile(pattern)
+    results = regex.findall(string)
+    results = "".join(results)
+    return results
+
+def replace_pre_words(string):
+    string = string.replace("哈里克", "赫科")
+    string = string.replace("裘娜", "蒂嘉娜")
+    string = string.replace("阿瑟斯", "阿图斯")
+    string = string.replace("阿悲斯", "阿图斯")
+    string = string.replace("布拉刚", "巴肯")
+    string = string.replace("布刚", "巴肯")
+    string = string.replace("科沃达", "科芒达")
+    string = string.replace("伊万", "伊万")
+    string = string.replace("艾德温", "艾德文")
+    string = string.replace("沃尔夫", "沃尔夫")
+    string = string.replace("塔拉", "塔拉")
+    string = string.replace("海枭雄", "海上枭雄")
+    string = string.replace("海上枭", "海上枭雄")
+    string = string.replace("萝拉", "洛娜")
+    string = string.replace("莫西", "姆斯")
+    string = string.replace("威普", "维普")
+    string = string.replace("西克", "西克") # Zek
+    string = string.replace("邓肯", "邓肯")
+    string = string.replace("帕维尔", "帕沃")
     return string
 
 def time_the_sub(filepath=""):
@@ -112,9 +140,13 @@ def time_the_sub(filepath=""):
                 end_time = frame_time
             else:
                 # 4.Break The Track, Store Cache As Sub
-                print(start_time, end_time, current_sub)
-                sub_content = "\nDialogue: 0,%s,%s,神秘岛,,0,0,0,,%s" %(start_time[:-1], end_time[:-1], current_sub)
-                ass_file_content += sub_content
+
+                current_sub = remove_no_chinese(current_sub)
+                current_sub = replace_pre_words(current_sub)
+                if current_sub != "" and len(current_sub) > 1:
+                    print(start_time, end_time, current_sub)
+                    sub_content = "\nDialogue: 0,%s,%s,神秘岛,,0,0,0,,%s" %(start_time[:-1], end_time[:-1], current_sub)
+                    ass_file_content += sub_content
 
                 # Reset Variables
                 current_sub = content
